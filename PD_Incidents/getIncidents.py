@@ -19,16 +19,16 @@ sheet = client.open_by_key('1ry_tos2ZityB4futWmUTNmXN5q-NnZwIF_BqNv9n8E8').works
 api_token = '7sPx5PBdFfG3QeFQ5_NQ'
 session = APISession(api_token)
 
-# CLEAN UP ANY WHITESPACE IN SHEET - this is just in case the script crashes/fails as it tries to insert rows, as there will be many empty rows
+# clean up any whitespace in sheet- this is just in case the script crashes/fails as it tries to insert rows, as there will be many empty rows
 def cleanWhitespace():
     records = sheet.get_all_records()
     # check if there are empty rows. If there are 3 empty rows, we will delete from 2 --> 2 + (3-1). This is deleting rows 2-4.
-    x = 2
+    x = 2 #row index marker
     for row in records:
         if row.get("incident_ID"):
             break
         x += 1
-    # if x is not 2, then there are empty rows to delete
+    # if the row index marker has changed from the inital row 2, then delte rows 2 --> x-1
     if x != 2:
         sheet.delete_rows(2, x-1)
     return
@@ -76,7 +76,7 @@ def main():
         scrapeSince = getScrapeStart()
 
         incidents = {} # for aggregating all of the incident data that we will insert into the google sheet
-        incidentDict = {} # for gathering the current incidents listed in the google sheet - resolved incidents are checked against these keys to make sure incidents aren't inserted more than once
+        incidentDict = {} # for retrieving the current incidents listed in the google sheet - resolved incidents are checked against these keys to make sure incidents aren't inserted more than once
         try:
             incidentIDs = sheet.batch_get(['A2:A5002'])
             for incident in incidentIDs[0]:
