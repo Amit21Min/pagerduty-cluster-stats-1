@@ -14,7 +14,7 @@ scope = ["https://spreadsheets.google.com/feeds",'https://www.googleapis.com/aut
 creds = ServiceAccountCredentials.from_json_keyfile_name("../client_secret.json", scope)
 client = gspread.authorize(creds)
 #sheet = client.open('Alerts Dashboard Metrics').sheet1
-sheet = client.open_by_key('1ry_tos2ZityB4futWmUTNmXN5q-NnZwIF_BqNv9n8E8').worksheet("incidents2")
+sheet = client.open_by_key('1ry_tos2ZityB4futWmUTNmXN5q-NnZwIF_BqNv9n8E8').worksheet("PD Incidents")
 
 api_token = '7sPx5PBdFfG3QeFQ5_NQ'
 session = APISession(api_token)

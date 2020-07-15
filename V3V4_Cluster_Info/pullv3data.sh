@@ -4,7 +4,7 @@ echo "cluster_id, type, deleted, created_at, updated_at, memory_max, machine_typ
 
 for CLUSTER_ID in $(curl -q https://dedicated.openshift.com/api/clusters/summary\?authorization_username=ammin.openshift -H 'Authorization: Bearer 43f4d392f879c98ab84abe313f0d95da' | jq -r '.[] | select(.status == "provisioned") | .id')
 do
-curl -q https://dedicated.openshift.com/api/clusters/$CLUSTER_ID/detail\?authorization_username=ammin.openshift -H 'Authorization: Bearer 43f4d392f879c98ab84abe313f0d95da' | jq > tempfilev3osd
+curl -q /dev/null https://dedicated.openshift.com/api/clusters/$CLUSTER_ID/detail\?authorization_username=ammin.openshift -H 'Authorization: Bearer 43f4d392f879c98ab84abe313f0d95da' | jq > tempfilev3osd
 cat tempfilev3osd | jq -c -r "[.id, .name, .display_name, .status, .version, .created_at, .updated_at, .master_count, .infra_count, .compute_count, .vcpu_max, .memory_max, .cloud.name, .region.name, .deployment, .user_count, .project_count, .pod_count]"  >> V3_Cluster_Info.csv
 cat tempfilev3osd | jq '.nodes[]' | jq -c ['.cluster_id, .type, .deleted, .created_at, .updated_at, .memory_max, .machine_type.name'] >> V3_Node_Info.csv
 done
