@@ -17,7 +17,7 @@ token = "eyJhbGciOiJSUzI1NiIsImtpZCI6IiJ9.eyJpc3MiOiJrdWJlcm5ldGVzL3NlcnZpY2VhY2
 
 pc = PrometheusConnect(url=url, headers={"Authorization": "bearer {}".format(token)}, disable_ssl=False)
 
-# gets query information for specific date
+# gets query information for a specific date - each function call is a customized query
 def getClusterMetric(buildRow, time):
     data = None
     try:
@@ -75,17 +75,15 @@ def main():
             print('telemeter: sleeping for 1 hour: up to date')
             sleep(3600)
             now = datetime.now()
-
         print("getting metric at: " + scrapeTime.strftime('%Y-%m-%dT%H:%M:%SZ'))
 
-        # for aggregating the data in 1 array for google sheet importing
-        buildRow = []
+        buildRow = [] # for aggregating the data in 1 array for google sheet importing
         adjustTime = 0
         slept = 0
-        #check to make sure there are entries for each metric - if buildRow is not filled with 4 separate values, then let's re-do the search with +60 minute intervals until we get values
+        #check to make sure there are entries for each metric - if buildRow is not filled with 4 separate values, then re-do the search with +60 minute intervals until we get values
         while len(buildRow) < 4:
             now = datetime.now()
-            # check to make sure again in the loop as a precaution
+            # check to make sure that the script isn't checking a future date (again in the loop as a precaution)
             while scrapeTime > now:
                 print('sleeping for 1 hour: up to date')
                 sleep(3600)
@@ -95,20 +93,20 @@ def main():
             print("TRYING TO GET ALL METRICS at " + scrapeTime.strftime('%Y-%m-%dT%H:%M:%SZ'))
             buildRow = [scrapeTime.strftime('%Y-%m-%dT%H:%M:%SZ')]
 
-            #custom query to gather
+            #custom query to gather - # of clusters
             getClusterMetric(buildRow, scrapeTime + timedelta(minutes=adjustTime))
-            # SAME PROCESS FOR NEW QUERY - CAPACITY_CPU_CORES
+            # CAPACITY_CPU_CORES
             getCPUCores(buildRow, scrapeTime + timedelta(minutes=adjustTime))
-            # NEW QUERY - NODE_INSTANCE_TYPE_COUNT
+            # NODE_INSTANCE_TYPE_COUNT
             getNodeInstance(buildRow, scrapeTime + timedelta(minutes=adjustTime))
 
             adjustTime = adjustTime + 60
-            # if we've adjusted the time by over 24 hours, let's sleep for 6 hours and try again. if it happens for 15 consecutive hours, then maybe there is somehow no data. Skip to the next day.
+            # if we've adjusted the time by over 24 hours, let's sleep for 1 hour and try again. if it happens for 15 consecutive hours, then maybe there is somehow no data. Skip to the next day.
             if slept == 15:
                 adjustTime = 0
                 slept = 0
                 scrapeTime = scrapeTime + timedelta(days=1)
-                print("skipping a day:")
+                print("skipping a day")
             if adjustTime >= 1440:
                 print("telemeter: sleeping for 1 hour due to no response")
                 sleep(3600)
