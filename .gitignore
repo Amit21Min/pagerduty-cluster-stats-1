@@ -1,3 +1,4 @@
 *.json
 *.csv
 /V3V4_Cluster_Info/token.txt
+/V3V4_Cluster_Info/tempfilev3osd
