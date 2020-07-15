@@ -15,7 +15,10 @@ creds = ServiceAccountCredentials.from_json_keyfile_name("../client_secret.json"
 client = gspread.authorize(creds)
 sheet = client.open_by_key('1ry_tos2ZityB4futWmUTNmXN5q-NnZwIF_BqNv9n8E8').worksheet("PD Incidents")
 
-api_token = '7sPx5PBdFfG3QeFQ5_NQ'
+# PD API "Pdpyras" api token generated at https://support.pagerduty.com/docs/generating-api-keys
+api_token = ''
+with open('api_token.txt', 'r') as file:
+    api_token = file.read()
 session = APISession(api_token)
 
 # clean up any whitespace in sheet- this is just in case the script crashes/fails as it tries to insert rows, as there will be many empty rows
