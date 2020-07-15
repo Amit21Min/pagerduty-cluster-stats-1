@@ -103,7 +103,7 @@ def main():
             getNodeInstance(buildRow, scrapeTime + timedelta(minutes=adjustTime))
 
             adjustTime = adjustTime + 60
-            # if we've adjusted the time by over 24 hours, let's sleep for 6 hours and try again. if it happens twice, then maybe there is somehow no data recorded for a 24 hour span, and the date has to be skipped.
+            # if we've adjusted the time by over 24 hours, let's sleep for 6 hours and try again. if it happens for 10 consecutive hours, then maybe there is somehow no data recorded for a 24 hour span, and the date has to be skipped.
             if slept == 10:
                 adjustTime = 0
                 slept = 0
