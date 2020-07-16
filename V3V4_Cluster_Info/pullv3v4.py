@@ -14,8 +14,8 @@ with open('token.txt', 'r') as f:
 while True:
     # Login to ocm with token.txt and run the bash scripts to generate csv's.
     subprocess.run(login, shell=True)
-    # subprocess.call(['./pullv4data.sh'])
-    # subprocess.call(['./pullv3data.sh'])
+    subprocess.call(['./pullv4data.sh'])
+    subprocess.call(['./pullv3data.sh'])
 
     # authorize google sheet api with credentials and import csv to sheets
     scope = ["https://spreadsheets.google.com/feeds",'https://www.googleapis.com/auth/spreadsheets',"https://www.googleapis.com/auth/drive.file","https://www.googleapis.com/auth/drive"]
@@ -34,7 +34,12 @@ while True:
         pass
     baseSheet.add_worksheet("V4Cluster",1,1)
     sheet = client.open_by_key('1ry_tos2ZityB4futWmUTNmXN5q-NnZwIF_BqNv9n8E8').worksheet("V4Cluster")
-    sheet.insert_rows(data, row=1)
+    try:
+        sheet.insert_rows(data, row=1)
+    except:
+        pass
+        print("error most likely due to too many read/writes in timeframe")
+
 
 
     # V3 Cluster worksheet
@@ -48,7 +53,11 @@ while True:
         pass
     baseSheet.add_worksheet("V3Cluster",1,1)
     sheet = client.open_by_key('1ry_tos2ZityB4futWmUTNmXN5q-NnZwIF_BqNv9n8E8').worksheet("V3Cluster")
-    sheet.insert_rows(data, row=1)
+    try:
+        sheet.insert_rows(data, row=1)
+    except:
+        pass
+        print("error most likely due to too many read/writes in timeframe")
 
 
     # V3 Nodes worksheet
@@ -62,7 +71,13 @@ while True:
         pass
     baseSheet.add_worksheet("V3Nodes",1,1)
     sheet = client.open_by_key('1ry_tos2ZityB4futWmUTNmXN5q-NnZwIF_BqNv9n8E8').worksheet("V3Nodes")
-    sheet.insert_rows(data, row=1)
+    try:
+        sheet.insert_rows(data, row=1)
+    except:
+        pass
+        print("error most likely due to too many read/writes in timeframe")
+
+
 
     print("v3v4: sleeping for 1 hour")
     sleep(3600)
