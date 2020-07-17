@@ -20,7 +20,7 @@ Create the container<br/>
 Check to see if the container is created & Get the CONTAINER ID<br/>
 `docker ps -a`<br/>
 start the container<br/>
-`docker start <CONTAINER ID><br/>
+`docker start <CONTAINER ID><br/>`
 
 
 ### Info
