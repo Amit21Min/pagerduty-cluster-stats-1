@@ -13,14 +13,14 @@ You must share the google doc with the email listed under the json key "client_e
 Once you have token.txt, api_token.txt, client_secret.json, and shared the email with the google sheet, the scripts are ready to be run.
 
 ### Creating and running the container
-Make the image \n
-`make`
-Create the container
-`docker create quay.io/ammin/pagerduty-cluster-stats`
-Check to see if the container is created & Get the CONTAINER ID
-`docker ps -a`
-start the container
-`docker start <CONTAINER ID>
+Make the image<br/>
+`make`<br/>
+Create the container<br/>
+`docker create quay.io/ammin/pagerduty-cluster-stats`<br/>
+Check to see if the container is created & Get the CONTAINER ID<br/>
+`docker ps -a`<br/>
+start the container<br/>
+`docker start <CONTAINER ID><br/>
 
 
 ### Info
