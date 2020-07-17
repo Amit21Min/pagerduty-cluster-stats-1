@@ -15,8 +15,10 @@ Once you have token.txt, api_token.txt, client_secret.json, and shared the email
 ### Creating and running the container
 Make the image<br/>
 `make`<br/>
+Get REPOSITORY name<br/>
+`docker images`<br/>
 Create the container<br/>
-`docker create quay.io/ammin/pagerduty-cluster-stats`<br/>
+`docker create <REPOSITORY>`<br/>
 Check to see if the container is created & Get the CONTAINER ID<br/>
 `docker ps -a`<br/>
 start the container<br/>
