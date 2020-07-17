@@ -1,0 +1,17 @@
+kind: "DeploymentConfig"
+apiVersion: "v1"
+metadata:
+  name: "pagerduty-cluster-stats"
+spec:
+  template: 
+    metadata:
+      labels:
+        name: "frontend"
+    spec:
+      containers:
+        - name: "pagerduty-cluster-stats"
+          image: "openshift/origin-ruby-sample"
+          ports:
+            - containerPort: 8080
+              protocol: "TCP"
+  replicas: 1 

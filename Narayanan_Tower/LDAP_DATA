@@ -1,0 +1,4889 @@
+dn: uid=wadhwani,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=paas-open-platform-users,ou=itpaasGroups,dc=redhat,dc=com
+memberOf: cn=Dept-PnT-Creators,ou=servicegroups,ou=tableau,dc=redhat,dc=com
+memberOf: cn=Dept-PnT-CEE,ou=servicegroups,ou=tableau,dc=redhat,dc=com
+memberOf: cn=Dept-PnT-Ops,ou=servicegroups,ou=tableau,dc=redhat,dc=com
+memberOf: cn=Dept-PnT-Ops-Cust,ou=servicegroups,ou=tableau,dc=redhat,dc=com
+memberOf: cn=IT-Tab-Ent-Manager_Dashboard,ou=servicegroups,ou=tableau,dc=redha
+ t,dc=com
+memberOf: cn=IT-Tab-Dept-CEE_General-Creators,ou=servicegroups,ou=tableau,dc=r
+ edhat,dc=com
+memberOf: cn=IT-Tab-Dept-Finance-Creators,ou=servicegroups,ou=tableau,dc=redha
+ t,dc=com
+memberOf: cn=IT-Tab-Dept-Dev-Finance-Viewers,ou=servicegroups,ou=tableau,dc=re
+ dhat,dc=com
+memberOf: cn=IT-Tab-Dept-PnT-Creators,ou=servicegroups,ou=tableau,dc=redhat,dc
+ =com
+memberOf: cn=IT-Tab-Enterprise-Creators,ou=servicegroups,ou=tableau,dc=redhat,
+ dc=com
+memberOf: cn=IT-Tab-Admin_Insights,ou=servicegroups,ou=tableau,dc=redhat,dc=co
+ m
+memberOf: cn=jgouldin-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=msaparov-managers,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=nraghava-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=nraghava-directs,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=nraghava-managers,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=jgouldin-directs,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=splunk-misc-posix,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=designthinkerspnq,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=wadhwani-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=wadhwani-directs,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=everbridgeappusersaug2019,ou=adhoc,ou=managedGroups,dc=redhat,dc=
+ com
+memberOf: cn=rhit-pki-itdevs,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=nagios-access,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=devlab-it-dataservices-access,ou=adhoc,ou=managedGroups,dc=redhat
+ ,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=IT-Tab-Dept-PnT-Service_Delivery,ou=servicegroups,ou=tableau,dc=r
+ edhat,dc=com
+rhatSupervisorWorkerId: 8638
+rhatWorkerId: 4948
+rhatOfficeLocation: RH - Pune - MSO - Futura
+physicalDeliveryOfficeName: Red Hat India Private Limited
+rhatSubproduct: SRE Platform
+rhatOfficeFloor: 04
+registeredAddress: 18.52067,73.931712
+st: MH
+l: Pune
+street: Magarpatta Rd, Kirtane Baugh Magarpatta$Hadapsar, Maharashtra
+postalCode: 411028
+roomNumber: A4001
+rhatWebLogin: wadhwani1@redhat.com
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: 7b9ea372-0d75-11e7-ae40-28d244ea5a6d
+uidNumber: 4555
+rhatJobTitle: Manager, Software Engineering
+employeeType: Employee
+co: IND
+cn: Hemant Wadhwani
+mobile: +919763809223
+manager: uid=nraghava,ou=users,dc=redhat,dc=com
+homeDirectory: /home/pnq/wadhwani
+c: IN
+rhatOraclePersonID: 26583
+loginShell: /bin/bash
+rhatTeamLead: False
+sn: Wadhwani
+rhatSupervisorID: 27490
+uid: wadhwani
+rhatPersonType: Employee
+title: Manager, Software Engineering
+rhatNickName: tony
+displayName: Hemant
+telephoneNumber: 912066816777
+rhatPhoneExt: 8366777
+gidNumber: 4555
+rhatLocation: RH - Pune
+rhatCostCenter: 148
+givenName: Hemant
+homePhone: +912026995401
+rhatGeo: APAC
+preferredTimeZone: Asia/Calcutta
+rhatHireDate: 20050327183000Z
+rhatCurrency: INR
+rhatPrimaryMail: wadhwani@redhat.com
+employeeNumber: 4948
+mail: wadhwani@redhat.com
+rhatLegalEntity: Red Hat India Private Limited
+rhatOriginalHireDate: 20050327183000Z
+rhatJobCode: 261
+rhatRnDComponent: OpenShift
+rhatJobRole: Engineer
+rhatSocialURL: Github->https://github.com/rh-wadhwani
+rhatBJNMeetingID: 7474904101
+rhatBJNUserName: wadhwani
+ntUserLastLogon: 129811900052081705
+ntUserAcctExpires: 9223372036854775807
+ntUserLastLogoff: 0
+ntUserCodePage: 0
+ntUniqueId: 75eccf17af49e54ebe4a681ba267a547
+ntUserDeleteAccount: true
+ntUserDomainId: wadhwani
+ntUserCreateNewAccount: true
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: ntuser
+objectClass: country
+objectClass: friendlyCountry
+
+dn: uid=nmalik,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=AWS-030540030051-admin,ou=servicegroups,ou=030540030051,ou=aws,dc
+ =redhat,dc=com
+memberOf: cn=paas-open-platform-users,ou=itpaasGroups,dc=redhat,dc=com
+memberOf: cn=paas-managed-platform-users,ou=itpaasGroups,dc=redhat,dc=com
+memberOf: cn=lb-metadata-admin,ou=appgroups,ou=lightblue,dc=redhat,dc=com
+memberOf: cn=lightblue-metadata-admin,ou=appgroups,ou=lightblue,dc=redhat,dc=c
+ om
+memberOf: cn=it-solution-development,ou=adhoc,ou=managedGroups,dc=redhat,dc=co
+ m
+memberOf: cn=cee-support-case-attachment-access,ou=adhoc,ou=managedGroups,dc=r
+ edhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=nraghava-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=nraghava-directs,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=itdevs-posix,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=everbridgeappusersaug2019,ou=adhoc,ou=managedGroups,dc=redhat,dc=
+ com
+memberOf: cn=sd-srep-leads,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=rhit-pki-itdevs,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=nagios-access,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatSupervisorWorkerId: 8638
+rhatWorkerId: 9786
+rhatOfficeLocation: RH - Raleigh
+street: 100 East Davie Street
+postalCode: 27601
+rhatCostCenterDesc: R&D CoreOS
+rhatUUID: 7a1d262c-0d75-11e7-9af2-28d244ea5a6d
+uidNumber: 12484
+rhatJobTitle: Senior Principal Site Reliability Engineer
+employeeType: Employee
+co: USA
+l: Raleigh
+cn: Naveen Malik
+mobile: +19196012850
+manager: uid=nraghava,ou=users,dc=redhat,dc=com
+c: US
+homeDirectory: /home/rdu/nmalik
+rhatOraclePersonID: 27925
+loginShell: /bin/bash
+st: NC
+rhatTeamLead: True
+rhatOfficeFloor: 16
+sn: Malik
+rhatSupervisorID: 27490
+uid: nmalik
+rhatPersonType: Employee
+title: Senior Principal Software Engineer
+rhatNickName: nmalik
+displayName: Naveen
+telephoneNumber: 19198908118
+roomNumber: 16N229
+rhatPhoneExt: 8148118
+gidNumber: 12484
+rhatLocation: RH - Raleigh
+rhatCostCenter: 732
+givenName: Naveen
+rhatGeo: NA
+preferredTimeZone: America/New_York
+rhatHireDate: 20080602040000Z
+rhatCurrency: USD
+rhatPrimaryMail: nmalik@redhat.com
+employeeNumber: 9786
+rhatWorkHours: U(09:00-17:00)|N|N|EST,M(09:00-17:00)|Y|N|EST,T(09:00-17:00)|Y|
+ Y|EST,W(09:00-17:00)|Y|N|EST,R(09:00-17:00)|Y|N|EST,F(09:00-17:00)|Y|Y|EST,S(
+ 09:00-17:00)|N|N|EST,
+mail: nmalik@redhat.com
+rhatLegalEntity: Red Hat, Inc.
+rhatOriginalHireDate: 20080602040000Z
+rhatJobCode: 492
+rhatWebLogin: nmalik-srej
+rhatSubproduct: SRE Platform
+rhatSocialURL: Other->https://quay.io/user/nmalik
+rhatSocialURL: Github->https://github.com/jewzaam
+ipaSshPubKey: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC29n+x3sMn//QgcFH0EoIGK4/2
+ W9m1TdJ1BxqsFdz8jCCrm0nDam2XN6ZDO5EdQqB1KSsM1D80VfobdjnuRusj24pm569uW95gymtBy
+ spFcYVGD53+QDBk9HGB+pjn72Bdi5YiE/dqcWy3TgSRnq4c054BndXleHl71XchkZw9Ej3B1HNkDp
+ nevWmsV06L4FP8pDprV9t4raE6cbswPMPEeGKQedG1ktxy9MTHIO4Symk1Iprk1EgolIjCk9DgQLP
+ H4rCZHGjH6f2asT4aE2s6y9oqqabnDxSGmOMmERrM0H2bd/+FUItyRMT+63gTu9uSI7y1a2b95Ap5
+ HlmYqFIHUPon/rMIMrq0B19GkfMtFarut0BXMN3NaJ4yXrN/YQh4RNZbcoQ+lXe4632L4kj0VjXPe
+ D7cwoftEQhwC3gjPeV68IexAdryri10gELvFzvt49/DFYw3pmboG2gi0B8+LqK/gxTtPcni0S5mDf
+ 2LLP98nShXQMHSLPyUPDNaCvKNtVotpl2qfeeJ8JMoTCFsa8jw1Jz9TZgy+0OPBlbLDOKKxD9jQGV
+ wRgkLhdiUh5yRhw1AHYdbLNqRwx+Rf84RyBOx+CL6/GFjKmJ7oSQrOc3uuB6UqMR1w6o6ZHsjZiaH
+ xuWm5uXu29EBoTTj47FNvzvoMWr5N+vLz5T+Ale6lw== nmalik@redhat.com
+rhatJobRole: Engineer
+rhatContactMethod: EMAIL
+rhatBJNMeetingID: 4430596797
+rhatBJNUserName: nmalik
+ntUserAcctExpires: 9223372036854775807
+ntUserLastLogon: 0
+ntUserLastLogoff: 0
+ntUserCodePage: 0
+ntUniqueId: 1e2b6032c5fd834da3471a3fbdffb03b
+ntUserDeleteAccount: true
+ntUserDomainId: nmalik
+ntUserCreateNewAccount: true
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: ntuser
+objectClass: country
+objectClass: friendlyCountry
+rhatRnDComponent: OpenShift
+physicalDeliveryOfficeName: Red Hat, Inc.
+registeredAddress: 35.775482517607884,-78.63696752112094
+
+dn: uid=mwoodson,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=eng-openshift-enterprise,ou=adhoc,ou=managedGroups,dc=redhat,dc=c
+ om
+memberOf: cn=cee-support-case-attachment-access,ou=adhoc,ou=managedGroups,dc=r
+ edhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=nraghava-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=nraghava-directs,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=itdevs-posix,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-srep-leads,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=rhit-pki-itdevs,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatSupervisorWorkerId: 8638
+rhatWorkerId: 11065
+rhatOfficeLocation: RH - Raleigh
+street: 100 East Davie Street
+postalCode: 27601
+rhatCostCenterDesc: R&D CoreOS
+rhatUUID: 7a049486-0d75-11e7-a25d-28d244ea5a6d
+uidNumber: 14750
+rhatJobTitle: Senior Principal Site Reliability Engineer
+employeeType: Employee
+co: USA
+l: Raleigh
+cn: Matt Woodson
+manager: uid=nraghava,ou=users,dc=redhat,dc=com
+c: US
+homeDirectory: /home/rdu/mwoodson
+rhatOraclePersonID: 29757
+loginShell: /bin/bash
+st: NC
+rhatTeamLead: True
+rhatOfficeFloor: 16
+sn: Woodson
+rhatSupervisorID: 27490
+uid: mwoodson
+title: Senior Principal Software Engineer
+rhatPersonType: Employee
+displayName: Matt
+telephoneNumber: 19198908275
+roomNumber: 16N227
+gidNumber: 14750
+rhatPhoneExt: 8148275
+rhatLocation: RH - Raleigh
+rhatCostCenter: 732
+givenName: Matt
+rhatGeo: NA
+preferredTimeZone: America/New_York
+rhatHireDate: 20091201050000Z
+rhatCurrency: USD
+rhatPrimaryMail: mwoodson@redhat.com
+employeeNumber: 11065
+mail: mwoodson@redhat.com
+rhatOriginalHireDate: 20091201050000Z
+rhatLegalEntity: Red Hat, Inc.
+rhatJobCode: 492
+rhatSubproduct: SRE Platform
+rhatSocialURL: Github->https://github.com/mwoodson
+rhatSocialURL: Other->https://quay.io/user/mwoodson
+rhatWebLogin: rhit_mwoodson
+rhatJobRole: Engineer
+rhatBJNMeetingID: 5450701065
+rhatBJNUserName: mwoodson
+physicalDeliveryOfficeName: Red Hat, Inc.
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+rhatRnDComponent: OpenShift
+registeredAddress: 35.775482517607884,-78.63696752112094
+
+dn: uid=bmontgom,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=paas-open-platform-users,ou=itpaasGroups,dc=redhat,dc=com
+memberOf: cn=paas-managed-platform-users,ou=itpaasGroups,dc=redhat,dc=com
+memberOf: cn=rhcc-ext,ou=itpaasGroups,dc=redhat,dc=com
+memberOf: cn=rhcc-int,ou=itpaasGroups,dc=redhat,dc=com
+memberOf: cn=paas-it-view,ou=itpaasGroups,dc=redhat,dc=com
+memberOf: cn=ads,ou=itpaasGroups,dc=redhat,dc=com
+memberOf: cn=IT-Tab-Ent-Manager_Dashboard,ou=servicegroups,ou=tableau,dc=redha
+ t,dc=com
+memberOf: cn=IT-Tab-Dept-PnT-Viewers,ou=servicegroups,ou=tableau,dc=redhat,dc=
+ com
+memberOf: cn=IT-Tab-Dept-Dev-PnT-Viewers,ou=servicegroups,ou=tableau,dc=redhat
+ ,dc=com
+memberOf: cn=IT-Tab-Enterprise-Viewers,ou=servicegroups,ou=tableau,dc=redhat,d
+ c=com
+memberOf: cn=ambassadors-beta,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=offeringmanager-dev-team,ou=adhoc,ou=managedGroups,dc=redhat,dc=c
+ om
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=msaparov-managers,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=nraghava-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=nraghava-directs,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=nraghava-managers,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=splunk-misc-posix,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=bmontgom-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=bmontgom-directs,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=nagios-access,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=productivity-primes-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=co
+ m
+memberOf: cn=productivity-primes-na,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=productivity-primes-raleigh,ou=adhoc,ou=managedGroups,dc=redhat,d
+ c=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=IT-Tab-Dept-PnT-Service_Delivery,ou=servicegroups,ou=tableau,dc=r
+ edhat,dc=com
+rhatSupervisorWorkerId: 8638
+rhatWorkerId: 14060
+rhatOfficeLocation: RH - Raleigh
+street: 100 East Davie Street
+postalCode: 27601
+rhatWebLogin: bmontgom.openshift
+rhatSubproduct: SRE Platform
+roomNumber: 16N215
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: 7728a478-0d75-11e7-9a26-28d244ea5a6d
+uidNumber: 18632
+rhatJobTitle: Senior Manager - Software Engineering, Global
+employeeType: Employee
+co: USA
+l: Raleigh
+cn: Bill Montgomery
+mobile: +19196738696
+manager: uid=nraghava,ou=users,dc=redhat,dc=com
+c: US
+homeDirectory: /home/rdu/bmontgom
+rhatOraclePersonID: 33714
+loginShell: /bin/bash
+st: NC
+rhatTeamLead: False
+rhatOfficeFloor: 16
+sn: Montgomery
+rhatSupervisorID: 27490
+uid: bmontgom
+rhatPersonType: Employee
+title: Senior Manager, Software Engineering_Global
+rhatNickName: bmontgom
+displayName: Bill
+telephoneNumber: 19197544629
+gidNumber: 18632
+rhatPhoneExt: 8144629
+rhatLocation: RH - Raleigh
+rhatCostCenter: 148
+givenName: William
+rhatGeo: NA
+preferredTimeZone: America/New_York
+rhatHireDate: 20120402040000Z
+rhatCurrency: USD
+rhatPrimaryMail: bmontgom@redhat.com
+employeeNumber: 14060
+mail: bmontgom@redhat.com
+rhatOriginalHireDate: 20120402040000Z
+rhatLegalEntity: Red Hat, Inc.
+rhatJobCode: 473
+rhatSocialURL: Github->https://github.com/billmvt
+rhatBJNMeetingID: 4744635002
+rhatBJNUserName: bmontgom
+physicalDeliveryOfficeName: Red Hat, Inc.
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+registeredAddress: 35.775482517607884,-78.63696752112094
+rhatRnDComponent: OpenShift
+rhatContactMethod: EMAIL
+
+dn: uid=jaharrin,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=pnt-devops-bos,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=aweiteka-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=nraghava-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=aweiteka-directs,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-srep-leads,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatSupervisorWorkerId: 8638
+rhatWorkerId: 89618
+rhatOfficeLocation: RH - Boston
+rhatCostCenterDesc: Service Delivery
+rhatUUID: 8bc02730-bfb2-11e8-98b8-001a4a0b004e
+uidNumber: 114541
+rhatJobTitle: Principal Site Reliability Engineer
+employeeType: Employee
+co: USA
+l: Boston
+cn: James Harrington
+mobile: +5166759537
+manager: uid=nraghava,ou=users,dc=redhat,dc=com
+c: US
+homeDirectory: /home/remote/jaharrin
+rhatOraclePersonID: 9576286
+loginShell: /bin/bash
+st: MA
+rhatTeamLead: False
+rhatOfficeFloor: 03
+sn: Harrington
+street: 300 A St.$4th Floor
+rhatSupervisorID: 27490
+uid: jaharrin
+title: Principal Software Engineer
+rhatPersonType: Employee
+rhatPreferredLastName: Harrington
+displayName: James
+roomNumber: 3N361
+gidNumber: 114541
+rhatLocation: RH - Boston
+rhatCostCenter: 732
+givenName: James
+rhatGeo: NA
+preferredTimeZone: America/New_York
+rhatHireDate: 20180924040000Z
+rhatCurrency: USD
+rhatPrimaryMail: jaharrin@redhat.com
+employeeNumber: 89618
+postalCode: 02210
+mail: jaharrin@redhat.com
+rhatOriginalHireDate: 20180924040000Z
+rhatLegalEntity: Red Hat, Inc.
+rhatJobCode: 336
+rhatSubproduct: SRE Platform
+rhatBJNUserName: jaharrin
+rhatBJNMeetingID: 7443255982
+rhatRnDComponent: OpenShift
+ipaSshPubKey: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC3rxyuM069TU0ltsfb/nyfKU/z
+ Thr4uoU5B1O7FwXuq1xDOJBu5QIoRpJAiPYKTvrTT73k1+DH8bpX2vpVXIhArpHLjVvSGcte2TN6s
+ 28LJXk/SxO7J2GYmx1+aU3RQc6Oea6jZ82qeI1HTpel8vhiK2Agjdm7JT9zmWHZ0ZCHy8g3eedBUL
+ O8JrV3ISIwzfPquT79z9QGsyB9r7+zvYIiMs88v0XR1THuyRE1XIQ/MpQ8ITjdWD1Pd8rREL80LWs
+ l4TTzSMGa+v79HemEWLQ1k0Hhlz/U+ukOzEV04TgajKn6RIDeh106fJUuxffXlysHmY2WWDgL0U7j
+ S1tPHBjRMTUjTH9hcSV8xN8X8HPcfhylXrz7mULrm0r66DKNiuO3TdHr6I/bj5UfNDqEWp/EmNeDI
+ /sWS2W508XapZn1SrPomt6V3u8YB+UmPDq0TP8narObrHcecm1HPV9SLeSKfdg6ozAKm/ssO4WbBi
+ GCdtAUGWtq3ES8FDzZYh8OFgSuGw9z7sue0ZDPYROvMS+oz6UISiuZKTl6ML2yN0KDHp+ymTrFwzy
+ SB85FcNCW616i+G3HpTTL/LtpeNXg2yUPcAJNZGLerGcwX1U5Z5CxHuqoL2WVXjqdSVXvGL+g8opj
+ W802IpIazRTpXq9RiSUw2EdIUG6HYKQOfAw+Jj/TIw== jharrington@redhat.com
+rhatSocialURL: Github->https://github.com/jharrington22
+rhatSocialURL: Other->https://quay.io/user/jharrington22
+rhatJobRole: Engineer
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+physicalDeliveryOfficeName: Red Hat Inc.
+registeredAddress: 42.348636,-71.050197
+
+dn: uid=cattias,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=IT-Tab-Ent-Manager_Dashboard,ou=servicegroups,ou=tableau,dc=redha
+ t,dc=com
+memberOf: cn=IT-Tab-Dept-PnT-Viewers,ou=servicegroups,ou=tableau,dc=redhat,dc=
+ com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=msaparov-managers,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=nraghava-managers,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=lucidchart-users,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=IT-Tab-Dept-PnT-Service_Delivery,ou=servicegroups,ou=tableau,dc=r
+ edhat,dc=com
+mobile: +4915153596533
+rhatSupervisorWorkerId: 8638
+rhatWorkerId: 129193
+rhatOfficeLocation: Remote Germany
+rhatSubproduct: SRE Platform
+rhatRnDComponent: OpenShift
+rhatSocialURL: Github->https://github.com/cattias
+rhatSocialURL: Linkedin->https://www.linkedin.com/in/christophe-attias-51094a1
+ /
+l: Grasbrunn
+street: Red Hat GmbH$Technopark II, Haus C
+postalCode: 85630
+rhatCostCenterDesc: PRO Hosted
+gidNumber: 119954
+rhatLocation: Remote Germany
+rhatUUID: ef8eaf50-4613-11ea-8ec1-0a58ac143ac5
+uidNumber: 119954
+rhatJobTitle: Senior Manager, Software Engineering_Global
+employeeType: Employee
+rhatCostCenter: 148
+co: DEU
+cn: Christophe Attias
+givenName: Christophe
+manager: uid=nraghava,ou=users,dc=redhat,dc=com
+c: DE
+homeDirectory: /home/remote/cattias
+rhatGeo: EMEA
+rhatOraclePersonID: 13634779
+loginShell: /bin/bash
+preferredTimeZone: CET
+rhatHireDate: 20200202230000Z
+rhatTeamLead: False
+sn: Attias
+rhatCurrency: EUR
+rhatSupervisorID: 27490
+rhatPrimaryMail: cattias@redhat.com
+uid: cattias
+employeeNumber: 129193
+rhatPersonType: Employee
+title: Senior Manager, Software Engineering_Global
+rhatPreferredLastName: Attias
+displayName: Christophe
+mail: cattias@redhat.com
+rhatLegalEntity: Red Hat GmbH
+rhatOriginalHireDate: 20200202230000Z
+rhatJobCode: 473
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+
+dn: uid=bmeng,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=jgouldin-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=nraghava-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=wadhwani-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=wadhwani-directs,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatSupervisorWorkerId: 4948
+rhatWorkerId: 16314
+rhatOfficeLocation: RH - Beijing - Raycom
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: 77274f06-0d75-11e7-8e01-28d244ea5a6d
+uidNumber: 17888
+rhatJobTitle: Senior Site Reliability Engineer
+employeeType: Employee
+rhatBJNMeetingID: 6159776571
+l: Haidian
+rhatAmbassadorED: 20121126160000Z
+co: CHN
+cn: Bo Meng
+mobile: +8613810083773
+manager: uid=wadhwani,ou=users,dc=redhat,dc=com
+homeDirectory: /home/nay/bmeng
+c: CN
+rhatOraclePersonID: 33014
+loginShell: /bin/bash
+rhatBJNUserName: BMENG60
+rhatTeamLead: False
+rhatOfficeFloor: 10
+sn: Meng
+street: No. 2 Science Institute S. Rd.$9th Fl, 710-12, Ke Xue Yuan Nanlu
+rhatSupervisorID: 26583
+uid: bmeng
+rhatPersonType: Employee
+title: Senior Software Engineer
+rhatNickName: bmeng
+rhatPreferredLastName: Meng
+displayName: Bo
+roomNumber: 10S363
+telephoneNumber: 861062608336
+rhatPhoneExt: 8388336
+gidNumber: 17888
+rhatLocation: RH - Beijing - Raycom
+rhatCostCenter: 148
+givenName: Bo
+rhatGeo: APAC
+preferredTimeZone: Asia/Hong_Kong
+rhatHireDate: 20121127160000Z
+rhatCurrency: CNY
+rhatPrimaryMail: bmeng@redhat.com
+registeredAddress: 39.983574,116.326427
+employeeNumber: 16314
+postalCode: 100080
+mail: bmeng@redhat.com
+rhatLegalEntity: Red Hat Software (Beijing) Co., Ltd.
+rhatOriginalHireDate: 20121127160000Z
+rhatJobCode: 501
+rhatWebLogin: bmeng@redhat.com
+rhatSubproduct: SRE Platform
+rhatJobRole: Engineer
+rhatSocialURL: Github->https://github.com/bmeng
+ipaSshPubKey: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC2mFQAhZGZ3EGW9QR1Wcd9zNgW
+ hQZjVm2rJYOAJKyTkJYFhhBiphHbcVizdc6nq3LJIHlr6gULXnRgbtqg6yzt32eNSWLSAaAvZbN6G
+ z+NZFibrgjeFmgCTJmM77l5AU1Zpj3I9zNUQT/ofCAsh2So+OG+UXTiBfePbvLAHaVg/NPEnvwtHp
+ +7idf9NyWYCNKmVAY2gyHF/bchBOH0QhZe5pKZusvNOHYmK21o9hPwwv+nJ6y+Q3c8zqqqnkHu9fE
+ qjTf2jbZ0j40BboruKKB/MVFwvLdNZcWH3eXVp2jxv+GsbEYoJavRYr0U8kIbt+pIWCbrBZW2gjSH
+ yLdM8zASf0J+H23z1qizbp7cJighJcpLogZ+Ktmer0B9EHwy47LMU2iQPUUMvm6wcYYwtbYimfrFM
+ Wy0rJ0RazhH2MXvO/SLUs1iCg86n8LsQvUEHTduOmGAL5FnuQPdMXyfL3cR3pUNbAq/33OABIL7Zy
+ bvdyQEx1oF7OxHQ78+lPIZ9aCw87BYNwdIFxrlCwzhO2ID92bGOSyzo0twGDH6xMba2Bee7YLQ0qW
+ 9K2Q4RfLiodPdaYs5MgOTBsY49eFxBnlheZisNHU/4x3ZbE/SzlpQVRpRZeGlJgr8Z2Q6pulRdtXK
+ LK3PtDR4HpSf2lnPxN3zxb/02dqWuhG2YLNfULVjzQ== bmeng@redhat.com
+rhatRnDComponent: OpenShift
+physicalDeliveryOfficeName: Red Hat Software (Beijing) Co. Limited
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+
+dn: uid=haowang,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=paas-open-platform-users,ou=itpaasGroups,dc=redhat,dc=com
+memberOf: cn=jgouldin-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=nraghava-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=wadhwani-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=wadhwani-directs,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatSupervisorWorkerId: 4948
+rhatWorkerId: 38335
+rhatOfficeLocation: RH - Beijing - Raycom
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: 78433b7a-0d75-11e7-84dc-28d244ea5a6d
+uidNumber: 26705
+rhatJobTitle: Senior Site Reliability Engineer
+employeeType: Employee
+rhatBJNMeetingID: 9669226577
+l: Haidian
+co: CHN
+cn: Haoran Wang
+mobile: +8618610905896
+manager: uid=wadhwani,ou=users,dc=redhat,dc=com
+homeDirectory: /home/nay/haowang
+c: CN
+rhatOraclePersonID: 4024761
+loginShell: /bin/bash
+rhatBJNUserName: haowang
+rhatTeamLead: False
+rhatOfficeFloor: 10
+sn: Wang
+street: No. 2 Science Institute S. Rd.$9th Fl, 710-12, Ke Xue Yuan Nanlu
+rhatSupervisorID: 26583
+uid: haowang
+rhatPersonType: Employee
+title: Senior Software Engineer
+rhatNickName: haowang
+rhatPreferredLastName: Wang
+displayName: Haoran
+telephoneNumber: 861065339430
+roomNumber: 10S369
+rhatPhoneExt: 8389430
+gidNumber: 26705
+rhatLocation: RH - Beijing - Raycom
+rhatCostCenter: 148
+homePhone: +08618610905896
+givenName: Haoran
+rhatGeo: APAC
+preferredTimeZone: Asia/Hong_Kong
+rhatHireDate: 20150802160000Z
+rhatCurrency: CNY
+rhatPrimaryMail: haowang@redhat.com
+registeredAddress: 39.983574,116.326427
+employeeNumber: 38335
+postalCode: 100080
+mail: haowang@redhat.com
+rhatLegalEntity: Red Hat Software (Beijing) Co., Ltd., R&D Branch
+rhatOriginalHireDate: 20150802160000Z
+rhatJobCode: 501
+rhatSubproduct: SRE Platform
+rhatSocialURL: Github->https://github.com/wanghaoran1988
+rhatSocialURL: Other->https://quay.io/user/haoran
+rhatJobRole: Engineer
+physicalDeliveryOfficeName: Red Hat Software (Beijing) Co. Limited
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+rhatRnDComponent: OpenShift
+ipaSshPubKey: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC4G3dgLLQLF4PUJkJMLOrPoimx
+ dwA56R7r/va8ya5PgeS92RhhSc0TzMMaPIysTe3+uF7G2/+g/RUsmNJWSMnJjwulVWeCet5DIWEFL
+ RkGBl1T39NLCewT7is30zN/sJbW2h8p8SgVe4Sb/YItSItdLK4qxMHbvIVVxS6SAZP+kBNOphCMUH
+ SkRTVCLX7DxHfv00PYOAJKQNhFZfS+U+vdPEWqYpzNiKRX+hCjkVZi3/F+473v7VR3P9ePrjq6xTt
+ obWuRBNh57xvGb1ufmIAv8lnpGsEcWJ7WaTC9oUoR1RTvVpKgVbHeJRjP61Ot33tb2J8IHwjrVD/Y
+ O+BUPeVEBXbYeremSbie4MbgDaMIHWOwmZXIM61AqHrSh2RB5Pja5dHO92paRco+iziVai1vPUPQH
+ G+TKOxz/Oeo18m9XRuiA1v8oIRtlXY0GqvV4wy3RPCIWOSOgE/jeREhRuSdLEg2635KYN191tGerO
+ 9O5vJPhLTGCWZl8XW+gs/Mv4jCycgIStuHO/pC+72+VYG04bZFOGn59kOaI3h7dctcAPTTxuneb5O
+ Kfy0j5QVdO25sO++o2Li8iJd0v7qxOF3j0tBVKvX7letqRF69vqlxHNr8SQiLZ+vbCdh/UUvuTb/+
+ uLDkS38q1BQhLwGHQ+3hAx97wZT0ppbxU0wDgfS98Q== haowang@redhat.com
+
+dn: uid=jroche,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=emea-eng-product-middleware,ou=adhoc,ou=managedGroups,dc=redhat,d
+ c=com
+memberOf: cn=bofarrel-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=jmernin-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=bofarrel-directs,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatBuildingCode: BRISBANE
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: 22a94b40-9fc6-11e6-807a-001a4a0a0045
+uidNumber: 100817
+rhatJobTitle: Site Reliability Engineer
+employeeType: Employee
+rhatAdjSvcDate: 20161031140000Z
+rhatBJNMeetingID: 5922049520
+l: BRISBANE
+co: AUS
+cn: John Roche
+manager: uid=wadhwani,ou=users,dc=redhat,dc=com
+homeDirectory: /home/wat/jroche
+c: AU
+rhatOraclePersonID: 5928667
+st: QL
+loginShell: /bin/bash
+rhatBJNUserName: jroche.redhat
+rhatOfficeFloor: 01
+rhatTeamLead: False
+sn: Roche
+street: 193 North Quay Street$1st Floor
+rhatSupervisorID: 26583
+uid: jroche
+rhatPersonType: Employee
+title: Software Engineer
+rhatPreferredLastName: Roche
+displayName: John
+roomNumber: 1N133
+gidNumber: 100817
+rhatLocation: RH - Brisbane
+rhatOfficeLocation: RH - Brisbane
+rhatCostCenter: 148
+givenName: John
+rhatGeo: APAC
+preferredTimeZone: Australia/Brisbane
+rhatHireDate: 20161031140000Z
+rhatEmployeeSubType: Regular
+rhatSupervisorWorkerId: 4948
+rhatCurrency: AUD
+rhatPrimaryMail: jroche@redhat.com
+registeredAddress: -27.468154,153.018792
+rhatWorkerId: 60093
+employeeNumber: 60093
+postalCode: 4000
+mail: jroche@redhat.com
+rhatLegalEntity: Red Hat Asia-Pacific Pty. Ltd.
+rhatOriginalHireDate: 20161031140000Z
+rhatJobCode: 516
+rhatSubproduct: SRE Platform
+rhatRnDComponent: OpenShift
+rhatSocialURL: Github->https://github.com/sedroche
+physicalDeliveryOfficeName: Red Hat Asia-Pacific Pty. Ltd.
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+rhatJobRole: Engineer
+
+dn: uid=gchaturv,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=jgouldin-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=nraghava-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=wadhwani-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=wadhwani-directs,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=everbridgeappusersaug2019,ou=adhoc,ou=managedGroups,dc=redhat,dc=
+ com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatSupervisorWorkerId: 4948
+rhatWorkerId: 84694
+rhatOfficeLocation: Remote India Mumbai
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: db812740-6500-11e8-82f8-001a4a0b004f
+uidNumber: 113711
+rhatJobTitle: Senior Site Reliability Engineer
+employeeType: Employee
+rhatBJNMeetingID: 2728468131
+l: Mumbai
+co: IND
+cn: Gaurav Chaturvedi
+mobile: +919869201103
+rhatGPGFingerprint: 4585 DBF5 E620 D005 8755  6DBE 6D70 9C0B E0EC 8E58
+manager: uid=wadhwani,ou=users,dc=redhat,dc=com
+c: IN
+homeDirectory: /home/remote/gchaturv
+rhatOraclePersonID: 9094508
+loginShell: /bin/bash
+rhatBJNUserName: gchaturv
+rhatTeamLead: False
+sn: Chaturvedi
+street: Return to Red Hat, Raleigh, NC
+rhatSupervisorID: 26583
+uid: gchaturv
+rhatPersonType: Employee
+title: Senior Software Engineer
+rhatNickName: gchaturv
+rhatPreferredLastName: Chaturvedi
+displayName: Gaurav
+gidNumber: 113711
+rhatLocation: Remote India Mumbai
+rhatCostCenter: 148
+givenName: Gaurav
+rhatGeo: APAC
+preferredTimeZone: Asia/Calcutta
+rhatHireDate: 20180531183000Z
+rhatCurrency: INR
+rhatPrimaryMail: gchaturv@redhat.com
+employeeNumber: 84694
+mail: gchaturv@redhat.com
+rhatLegalEntity: Red Hat India Private Limited
+rhatOriginalHireDate: 20180531183000Z
+rhatJobCode: 501
+rhatSubproduct: SRE Platform
+rhatSocialURL: Github->https://github.com/oddtazz/
+rhatSocialURL: Other->https://quay.io/user/gchaturv
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+rhatRnDComponent: OpenShift
+rhatContactMethod: EMAIL
+rhatJobRole: Engineer
+
+dn: uid=travi,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatSupervisorWorkerId: 4948
+rhatWorkerId: 86753
+rhatOfficeLocation: RH - Pune - MSO - Futura
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: 759ee7b0-935d-11e8-a09a-001a4a0b004f
+uidNumber: 114140
+rhatJobTitle: Site Reliability Engineer
+employeeType: Employee
+rhatBJNMeetingID: 8105986668
+co: IND
+l: Pune
+cn: Ravi Trivedi
+mobile: +919970957089
+manager: uid=wadhwani,ou=users,dc=redhat,dc=com
+c: IN
+homeDirectory: /home/pnq/travi
+rhatOraclePersonID: 9327558
+st: MH
+loginShell: /bin/bash
+rhatBJNUserName: travi
+rhatTeamLead: False
+rhatOfficeFloor: 04
+sn: Trivedi
+rhatSupervisorID: 26583
+street: Magarpatta Rd, Kirtane Baugh Magarpatta$Hadapsar, Maharashtra
+uid: travi
+title: Software Engineer
+rhatPersonType: Employee
+rhatNickName: RBT
+rhatPreferredLastName: Trivedi
+displayName: Ravi
+roomNumber: A4003
+gidNumber: 114140
+rhatLocation: RH - Pune
+rhatCostCenter: 148
+givenName: Ravi
+rhatGeo: APAC
+preferredTimeZone: Asia/Calcutta
+rhatHireDate: 20180729183000Z
+rhatCurrency: INR
+rhatPrimaryMail: travi@redhat.com
+registeredAddress: 18.52067,73.931712
+employeeNumber: 86753
+postalCode: 411028
+mail: travi@redhat.com
+rhatOriginalHireDate: 20180729183000Z
+rhatLegalEntity: Red Hat India Private Limited
+rhatJobCode: 516
+rhatSubproduct: SRE Platform
+rhatJobRole: Engineer
+physicalDeliveryOfficeName: Red Hat India Private Limited
+rhatSocialURL: Github->https://github.com/ravitri
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+rhatRnDComponent: OpenShift
+
+dn: uid=anjoshi,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatOfficeLocation: RH - Pune
+rhatBuildingCode: PUNE
+l: PUNE
+rhatLocation: RH - Pune
+postalCode: 411013
+street: Tower-X Level 1, Cyber City$Magarpatta City, Hadapsar
+rhatLegalEntity: Red Hat India Private Limited
+rhatGeo: APAC
+registeredAddress: 18.51325,73.92477
+st: MH
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: c6b46b60-9e5d-11e8-bc69-001a4a0b004f
+uidNumber: 114249
+rhatJobTitle: Associate Software Engineer
+employeeType: Employee
+rhatAdjSvcDate: 20200512183000Z
+rhatBJNMeetingID: 9883882506
+co: IND
+rhatAmbassadorED: 20190211183000Z
+cn: Aniket Joshi
+mobile: +919112043508
+manager: uid=wadhwani,ou=users,dc=redhat,dc=com
+c: IN
+homeDirectory: /home/pnq/anjoshi
+rhatOraclePersonID: 9390343
+loginShell: /bin/bash
+rhatBJNUserName: anjoshi87
+rhatOfficeFloor: 00
+rhatTeamLead: False
+sn: Joshi
+rhatSupervisorID: 26583
+uid: anjoshi
+title: Associate Software Engineer
+rhatPersonType: Employee
+rhatNickName: anjoshi
+rhatPreferredLastName: Joshi
+displayName: Aniket
+roomNumber: MOBILE
+gidNumber: 114249
+rhatCostCenter: 148
+givenName: Aniket
+preferredTimeZone: Asia/Calcutta
+rhatHireDate: 20200512183000Z
+rhatEmployeeSubType: Regular
+rhatSupervisorWorkerId: 4948
+rhatCurrency: INR
+rhatPrimaryMail: anjoshi@redhat.com
+rhatWorkerId: 87373
+employeeNumber: 87373
+mail: anjoshi@redhat.com
+rhatOriginalHireDate: 20180812183000Z
+rhatJobCode: 025
+physicalDeliveryOfficeName: Red Hat India Private Limited
+rhatSocialURL: Github->https://github.com/anjoshi24
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+rhatRnDComponent: Internal Tools
+rhatContactMethod: EMAIL
+
+dn: uid=siwu,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatSupervisorWorkerId: 4948
+rhatWorkerId: 32977
+rhatOfficeLocation: RH - Beijing - Raycom
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: 7b012ff2-0d75-11e7-8ef5-28d244ea5a6d
+uidNumber: 24535
+rhatJobTitle: Site Reliability Engineer
+employeeType: Employee
+rhatAdjSvcDate: 20200510160000Z
+rhatBJNMeetingID: 2009361472
+rhatAmbassadorED: 20181025160000Z
+co: CHN
+l: Haidian
+cn: Siu Wa Wu
+mobile: +8613392925525
+manager: uid=wadhwani,ou=users,dc=redhat,dc=com
+homeDirectory: /home/pek/siwu
+c: CN
+rhatOraclePersonID: 3027734
+loginShell: /bin/bash
+rhatBJNUserName: siwu4
+rhatTeamLead: False
+rhatOfficeFloor: 09
+sn: Wu
+rhatSupervisorID: 26583
+street: No. 2 Science Institute S. Rd.$9th Fl, 710-12, Ke Xue Yuan Nanlu
+uid: siwu
+title: Software Engineer
+rhatPersonType: Employee
+rhatNickName: feichashao
+rhatPreferredLastName: Wu
+displayName: Siu Wa
+telephoneNumber: 861065339384
+roomNumber: MOBILE
+rhatPhoneExt: 8389384
+gidNumber: 24535
+rhatLocation: RH - Beijing - Raycom
+rhatCostCenter: 148
+givenName: Siu Wa
+rhatGeo: APAC
+preferredTimeZone: Asia/Hong_Kong
+rhatHireDate: 20200510160000Z
+rhatCurrency: CNY
+rhatPrimaryMail: siwu@redhat.com
+registeredAddress: 39.983574,116.326427
+employeeNumber: 32977
+rhatWorkHours: U(09:00-17:00)|N|N|EST,M(09:00-17:00)|Y|N|HKT,T(09:00-17:00)|Y|
+ N|HKT,W(09:00-17:00)|Y|N|HKT,R(09:00-17:00)|Y|N|HKT,F(09:00-17:00)|Y|N|HKT,S(
+ 09:00-17:00)|N|N|EST,
+postalCode: 100080
+mail: siwu@redhat.com
+rhatOriginalHireDate: 20141007160000Z
+rhatLegalEntity: Red Hat Software (Beijing) Co., Ltd., R&D Branch
+rhatJobCode: 516
+physicalDeliveryOfficeName: Red Hat Software (Beijing) Co. Limited
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+rhatRnDComponent: RHEL
+rhatJobRole: Engineer
+rhatSocialURL: Personal->https://feichashao.com
+rhatSocialURL: Github->https://github.com/feichashao
+
+dn: uid=dofinn,ou=users,dc=redhat,dc=com
+rhatBuildingCode: BRISBANE
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: a3fdbce0-abbb-11e9-97cb-001a4a0a0044
+uidNumber: 106691
+rhatJobTitle: Senior Software Engineer
+employeeType: Employee
+rhatBJNMeetingID: 4513373383
+co: AUS
+l: BRISBANE
+cn: Dominic Finn
+mobile: +61448666369
+manager: uid=wadhwani,ou=users,dc=redhat,dc=com
+homeDirectory: /home/bne/dofinn
+c: AU
+rhatOraclePersonID: 11246736
+loginShell: /bin/bash
+st: QL
+rhatBJNUserName: dofinn
+rhatTeamLead: False
+rhatOfficeFloor: 01
+sn: Finn
+rhatSupervisorID: 26583
+street: 193 North Quay Street$1st Floor
+uid: dofinn
+title: Senior Software Engineer
+rhatPersonType: Employee
+rhatNickName: dofinn
+rhatPreferredLastName: Finn
+displayName: Dominic
+telephoneNumber: 61735147103
+roomNumber: MOBILE
+gidNumber: 106691
+rhatPhoneExt: 8587103
+rhatLocation: RH - Brisbane
+rhatOfficeLocation: RH - Brisbane
+rhatCostCenter: 148
+givenName: Dominic
+rhatGeo: APAC
+preferredTimeZone: Australia/Brisbane
+rhatHireDate: 20190721140000Z
+rhatEmployeeSubType: Regular
+rhatSupervisorWorkerId: 4948
+rhatCurrency: AUD
+rhatPrimaryMail: dofinn@redhat.com
+rhatWorkerId: 111114
+registeredAddress: -27.468154,153.018792
+employeeNumber: 111114
+postalCode: 4000
+mail: dofinn@redhat.com
+rhatOriginalHireDate: 20190721140000Z
+rhatLegalEntity: Red Hat Asia-Pacific Pty. Ltd.
+rhatJobCode: 501
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=jgouldin-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=nraghava-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=wadhwani-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=wadhwani-directs,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatSubproduct: SRE Platform
+rhatRnDComponent: OpenShift
+rhatJobRole: Engineer
+physicalDeliveryOfficeName: Red Hat Asia-Pacific Pty. Ltd.
+rhatSocialURL: Other->https://bluejeans.com/dofinn
+rhatSocialURL: Github->https://github.com/dofinn
+rhatSocialURL: Other->https:/quay.io/user/dofinn
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+
+dn: uid=mbargenq,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=paas-open-platform-users,ou=itpaasGroups,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatSupervisorWorkerId: 4948
+rhatWorkerId: 125453
+rhatOfficeLocation: RH - Brisbane
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: 17d6d8f0-226c-11ea-a9b5-0a58ac140e03
+uidNumber: 119324
+rhatJobTitle: Senior Site Reliability Engineer
+employeeType: Employee
+rhatBJNMeetingID: 390925838
+l: Brisbane
+co: AUS
+cn: Matt Bargenquast
+mobile: +610409071856
+manager: uid=wadhwani,ou=users,dc=redhat,dc=com
+c: AU
+homeDirectory: /home/bne/mbargenq
+rhatOraclePersonID: 13185692
+st: QL
+loginShell: /bin/bash
+rhatBJNUserName: mbargenq
+rhatOfficeFloor: 01
+rhatTeamLead: False
+sn: Bargenquast
+street: 193 North Quay Street$1st Floor
+rhatSupervisorID: 26583
+uid: mbargenq
+rhatPersonType: Employee
+title: Senior Software Engineer
+rhatNickName: mbargenq
+rhatPreferredLastName: Bargenquast
+displayName: Matt
+roomNumber: 1N131
+telephoneNumber: 61735147131
+rhatPhoneExt: 8587131
+gidNumber: 119324
+rhatLocation: RH - Brisbane
+rhatCostCenter: 148
+givenName: Matthew
+rhatGeo: APAC
+preferredTimeZone: Australia/Brisbane
+rhatHireDate: 20191219140000Z
+rhatCurrency: AUD
+rhatPrimaryMail: mbargenq@redhat.com
+registeredAddress: -27.468154,153.018792
+employeeNumber: 125453
+postalCode: 4000
+mail: mbargenq@redhat.com
+rhatLegalEntity: Red Hat Asia-Pacific Pty. Ltd.
+rhatOriginalHireDate: 20191219140000Z
+rhatJobCode: 501
+rhatSubproduct: SRE Platform
+rhatRnDComponent: OpenShift
+rhatJobRole: Engineer
+ipaSshPubKey:: c3NoLXJzYSBBQUFBQjNOemFDMXljMkVBQUFBREFRQUJBQUFDQVFDMXdKbGdlc3p
+ kazdaUjF5cGwwaTVTazlHcmFVZzJNcjJjU2VLenIrMFhQQmo5a0dMUUNvKzM3RkVOS2E4N2ExWUx3
+ YmFTcWZSUDdvT2tmNDhYM2JuQ1A3OGJXWjhMSGRWNS9IK3pXRkozZFVOcVpwUCtzYit0Sm9kZWxLO
+ TlwZHFOUlZEZWdmNGZGdTdiY2syMWJxbnJYQ0t0Q1Y3Q0wyRVEwbm1DK05wbEJGQVNRWW9QUjRXZ2
+ Vqd1k5cnllcGJLU2xrWFpLMk5HVVZYNDAyRERNRVdmQkhwaDJzQ0IzZlVsSHd2WmVkb2RTVDZ0WG5
+ 2c083akxNd2RKRlJ0WEpTSnJaSTBEMTFGZlMxeFdzOUJIdDhxRjl6M0k1ZEZtenc1SEQvSDBlNGFG
+ NXExVVZmRHhBYll0NXBPNGplWXdPMStaSGxFbUFYVFdzQnJYZEVQR1B2SkpiMlZjeXRlUy9OY3cxd
+ 1JZbnBrZUJsR3FSV241bGp5eFRPVVlGNmlKOWY1TDZ4QnJaYUFtMWpqQk9QOWdPWlBCOFFvWm9zam
+ JudFF0Wkdyc1RHUjFvTWFvS3hpUTRXNTdjMkpvMTNvemt0N0pNVHVTM2VlekxjQ0NsRFB6bjJRVGx
+ vU2ZUR2NyUUpxamt4bE15UzlkK2dOZmJzVVJQeGVka1h3SkxZY3dJMGgzdHRNNnhDcGZTendVcFlt
+ NCs5blZhY3NKZGdsaTJNaFB5eGxmWGV0ZEZ6ZVdyK3hlNVRZclNNajNxWUkvQnliQVZ5M1VvbmcyN
+ DNrYklZOVBjYzlOQk1HRGJvS0RKNjQxcHBVKzlHeDFOclJPYjJtNUVQYkh4VUU1Zy9HZFBodVJkeG
+ tsYUZaS2xoMU5iSW9xMVRtMlczU1RPMEk3Q2tUbjlnN0xicXh3MHc9PSBtYmFyZ2VucUByZWRoYXQ
+ uY29tDQo=
+physicalDeliveryOfficeName: Red Hat Asia-Pacific Pty. Ltd.
+rhatSocialURL: Github->https://github.com/mrbarge
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+
+dn: uid=bembery,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=blue-for-linux-users,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatSupervisorWorkerId: 4948
+rhatWorkerId: 124655
+rhatOfficeLocation: Remote Australia
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: 02f421e0-2fc8-11ea-87fc-0a58ac14240f
+uidNumber: 119443
+rhatJobTitle: Senior Site Reliability Engineer
+employeeType: Employee
+rhatBJNMeetingID: 204291327
+l: Canberra
+co: AUS
+cn: Brett Embery
+mobile: +61424515745
+manager: uid=wadhwani,ou=users,dc=redhat,dc=com
+c: AU
+homeDirectory: /home/remote/bembery
+rhatOraclePersonID: 13077327
+loginShell: /bin/bash
+rhatBJNUserName: bembery
+rhatTeamLead: False
+sn: Embery
+street: Return to Red Hat, Raleigh, NC
+rhatSupervisorID: 26583
+uid: bembery
+rhatPersonType: Employee
+title: Senior Software Engineer
+rhatPreferredLastName: Embery
+displayName: Brett
+gidNumber: 119443
+rhatLocation: Remote Australia
+rhatCostCenter: 148
+givenName: Brett
+rhatGeo: APAC
+preferredTimeZone: Australia/Sydney
+rhatHireDate: 20200105130000Z
+rhatCurrency: AUD
+rhatPrimaryMail: bembery@redhat.com
+employeeNumber: 124655
+mail: bembery@redhat.com
+rhatLegalEntity: Red Hat Asia-Pacific Pty. Ltd.
+rhatOriginalHireDate: 20200105130000Z
+rhatJobCode: 501
+rhatSubproduct: SRE Platform
+rhatRnDComponent: OpenShift
+rhatJobRole: Engineer
+rhatSocialURL: Github->https://github.com/superfunhappytime
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+
+dn: uid=kramraja,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatSupervisorWorkerId: 4948
+rhatWorkerId: 124715
+rhatOfficeLocation: RH - Brisbane
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: 19a8d0c0-2fc8-11ea-a9b5-0a58ac140e03
+uidNumber: 119445
+rhatJobTitle: Associate Site Reliability Engineer
+employeeType: Employee
+rhatBJNMeetingID: 142829478
+l: Brisbane
+co: AUS
+cn: Karthik Ram Raja Perumal
+manager: uid=wadhwani,ou=users,dc=redhat,dc=com
+c: AU
+homeDirectory: /home/bne/kramraja
+rhatOraclePersonID: 13080157
+st: QL
+loginShell: /bin/bash
+rhatBJNUserName: kramraja
+rhatOfficeFloor: 01
+rhatTeamLead: False
+sn: Ram Raja Perumal
+street: 193 North Quay Street$1st Floor
+rhatSupervisorID: 26583
+uid: kramraja
+rhatPersonType: Employee
+title: Associate Software Engineer
+rhatNickName: Karthik
+rhatPreferredLastName: Ram Raja Perumal
+displayName: Karthik
+roomNumber: 1N145
+telephoneNumber: 61735148137
+rhatPhoneExt: 8588137
+gidNumber: 119445
+rhatLocation: RH - Brisbane
+rhatCostCenter: 148
+givenName: Karthik
+rhatGeo: APAC
+preferredTimeZone: Australia/Brisbane
+rhatHireDate: 20200105140000Z
+rhatCurrency: AUD
+rhatPrimaryMail: kramraja@redhat.com
+registeredAddress: -27.468154,153.018792
+employeeNumber: 124715
+postalCode: 4000
+mail: kramraja@redhat.com
+rhatLegalEntity: Red Hat Asia-Pacific Pty. Ltd.
+rhatOriginalHireDate: 20200105140000Z
+rhatJobCode: 025
+rhatJobRole: Engineer
+rhatSubproduct: SRE Platform
+rhatRnDComponent: OpenShift
+physicalDeliveryOfficeName: Red Hat Asia-Pacific Pty. Ltd.
+rhatSocialURL: Github->https://github.com/karthikperu7
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+
+dn: uid=hdogra,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatSupervisorWorkerId: 4948
+rhatWorkerId: 130113
+rhatOfficeLocation: RH - Pune
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: 72ebfca0-46b3-11ea-87e1-0a58ac14a019
+uidNumber: 107631
+rhatJobTitle: Site Reliability Engineer
+employeeType: Employee
+l: Pune
+co: IND
+cn: Himanshu Dogra
+mobile: +919886414372
+manager: uid=wadhwani,ou=users,dc=redhat,dc=com
+homeDirectory: /home/pnq/hdogra
+c: IN
+rhatOraclePersonID: 13697881
+st: MH
+loginShell: /bin/bash
+rhatOfficeFloor: 00
+rhatTeamLead: False
+sn: Dogra
+street: Tower-X Level 1, Cyber City$Magarpatta City, Hadapsar
+rhatSupervisorID: 26583
+uid: hdogra
+title: Software Engineer
+rhatPersonType: Employee
+rhatPreferredLastName: Dogra
+displayName: Himanshu
+roomNumber: MOBILE
+gidNumber: 107631
+rhatLocation: RH - Pune
+rhatCostCenter: 148
+givenName: Himanshu
+rhatGeo: APAC
+preferredTimeZone: Asia/Calcutta
+rhatHireDate: 20200202183000Z
+rhatCurrency: INR
+rhatPrimaryMail: hdogra@redhat.com
+registeredAddress: 18.51325,73.92477
+employeeNumber: 130113
+postalCode: 411013
+mail: hdogra@redhat.com
+rhatOriginalHireDate: 20200202183000Z
+rhatLegalEntity: Red Hat India Private Limited
+rhatJobCode: 516
+physicalDeliveryOfficeName: Red Hat India Private Limited
+rhatJobRole: Engineer
+rhatSubproduct: SRE Platform
+rhatRnDComponent: OpenShift
+rhatSocialURL: Github->https://github.com/himanshudogra
+rhatBio: When you do good for others, good things will happen to you as well :
+ )
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+
+dn: uid=pzheng,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatSupervisorWorkerId: 4948
+rhatWorkerId: 138015
+rhatOfficeLocation: RH - Beijing - Raycom
+rhatJobRole: Engineer
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: 7dc3b750-781b-11ea-998e-0a58ac142004
+uidNumber: 108713
+rhatJobTitle: Associate Site Reliability Engineer
+employeeType: Employee
+rhatBJNMeetingID: 108903777
+l: Haidian
+co: CHN
+cn: Pengxu Zheng
+mobile: +8618661479360
+manager: uid=wadhwani,ou=users,dc=redhat,dc=com
+c: CN
+homeDirectory: /home/nay/pzheng
+rhatOraclePersonID: 15168477
+loginShell: /bin/bash
+rhatBJNUserName: pzheng.redhat
+rhatOfficeFloor: 10
+rhatTeamLead: False
+sn: Zheng
+street: No. 2 Science Institute S. Rd.$9th Fl, 710-12, Ke Xue Yuan Nanlu
+rhatSupervisorID: 26583
+uid: pzheng
+rhatPersonType: Employee
+title: Associate Software Engineer
+rhatPreferredLastName: Zheng
+displayName: Pengxu
+roomNumber: 10S369
+telephoneNumber: 861062608015
+rhatPhoneExt: 8388015
+gidNumber: 108713
+rhatLocation: RH - Beijing - Raycom
+rhatCostCenter: 148
+givenName: Pengxu
+rhatGeo: APAC
+preferredTimeZone: Asia/Hong_Kong
+rhatHireDate: 20200406160000Z
+rhatCurrency: CNY
+rhatPrimaryMail: pzheng@redhat.com
+registeredAddress: 39.983574,116.326427
+employeeNumber: 138015
+postalCode: 100080
+mail: pzheng@redhat.com
+rhatLegalEntity: Red Hat Software (Beijing) Co., Ltd., R&D Branch
+rhatOriginalHireDate: 20200406160000Z
+rhatJobCode: 025
+rhatRnDComponent: OpenShift
+physicalDeliveryOfficeName: Red Hat Software (Beijing) Co. Limited
+rhatSocialURL: Github->https://github.com/penguinCCCP
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+
+dn: uid=achvatal,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=AWS-386331395270-poweruser,ou=servicegroups,ou=386331395270,ou=aw
+ s,dc=redhat,dc=com
+memberOf: cn=paas-open-platform-users,ou=itpaasGroups,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=nraghava-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=it-eng-posix,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=itpc-posix,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=bmontgom-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=bmontgom-directs,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatOfficeLocation: RH - Raleigh
+rhatBuildingCode: RHT
+l: RALEIGH
+rhatLocation: RH - Raleigh
+postalCode: 27601
+street: 100 East Davie Street
+rhatLegalEntity: Red Hat, Inc.
+rhatGeo: NA
+registeredAddress: 35.775482,-78.63697
+st: NC
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: 76a1776e-0d75-11e7-9cdf-28d244ea5a6d
+uidNumber: 18661
+rhatJobTitle: Senior Software Engineer
+employeeType: Employee
+rhatBJNMeetingID: 3909545148
+co: USA
+cn: Alex Chvatal
+mobile: +19199095300
+manager: uid=bmontgom,ou=users,dc=redhat,dc=com
+homeDirectory: /home/rdu/achvatal
+c: US
+rhatOraclePersonID: 33720
+loginShell: /bin/bash
+rhatBJNUserName: achvatal
+rhatTeamLead: False
+rhatOfficeFloor: 16
+sn: Chvatal
+rhatSupervisorID: 33714
+ntUserDomainId: achvatal
+uid: achvatal
+rhatPersonType: Employee
+title: Senior Software Engineer
+rhatNickName: achvatal
+rhatPreferredLastName: Chvatal
+displayName: Alex
+telephoneNumber: 19197544536
+roomNumber: MOBILE
+ntUserCreateNewAccount: true
+rhatPhoneExt: 8144536
+gidNumber: 18661
+rhatCostCenter: 148
+givenName: Michael
+preferredTimeZone: America/New_York
+rhatHireDate: 20120409040000Z
+rhatEmployeeSubType: Regular
+rhatSupervisorWorkerId: 14060
+rhatCurrency: USD
+rhatPrimaryMail: achvatal@redhat.com
+rhatWorkerId: 14066
+employeeNumber: 14066
+rhatWorkHours: U(09:00-17:00)|N|N|EST,M(09:00-17:00)|Y|N|EST,T(08:30-16:30)|Y|
+ Y|EST,W(09:00-17:00)|Y|N|EST,R(08:30-10:30)|Y|N|EST,F(09:00-17:00)|Y|N|EST,S(
+ 09:00-17:00)|N|N|EST,
+mail: achvatal@redhat.com
+rhatOriginalHireDate: 20120409040000Z
+rhatJobCode: 501
+ntUserDeleteAccount: true
+physicalDeliveryOfficeName: Red Hat, Inc.
+rhatWebLogin: achvatal.openshift
+rhatSubproduct: SRE Platform
+rhatSocialURL: Github->https://github.com/yithian
+ipaSshPubKey: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCqQ3SGAd7+jlVMObPiqPUzoaY1
+ 5jNoGVX6EvEWCniS20YxH5xTa65oaIwajx8/1ndH0uQvyuX+Znt2LacpUJF/3xKaBvq+12a0pwtQX
+ 32Fj8vGgqRwOcY2Tei0TV+uChYGIGEcwtaXr5B5JM/Rq4b89ltOQJ8rCmIEUlC6qbP02H+NRreayf
+ RZb5fgRfAXpIuau8ISjIV9iw7V8lg23Ja58Rfm4lzQgtrfwhetPyZUg9AaA1/ISMdVebSjeh7QNmW
+ VYN/UTRyUnzdgznJNUnWOGeS+oawedpNF2THZj4IY9G9TWVyyj2lWGapuBpd+jAXrZ4KUNA7TQ1rY
+ lSAlqHX9mDUH3lbbawylk0HypLDoyU1l1WFtEoL2cJv54+60ljNEnqiq7EFONMOsDIwOOg4dASniQ
+ y8V4refgOmuSsssI7bNbnmIoSh7NsHG2OP+h1VigN6aqt0XuoalnZF/3o6LbNoJZ+8gKnvnipw32m
+ S4XF/qyOJDpt8S10B7e8W/hQIv5lV2beYLXAFWO+2CqcMLTe/YDAerZdtW+KcWU9ocqe+lQF25yfI
+ WWzCqO/qqCXGrS3v5/h106UwmYuTbRpSZ3EMBWGZ0df2m1m18sHiZpu2fn2l5+RxVpgcGWGVODQOL
+ /Oa6Ix7QYlLEv5vKPCOIWC8l+CfXn3yjYcLM+xte8w== achvatal@redhat.com
+rhatJobRole: Engineer
+rhatRnDComponent: OpenShift
+ntUserAcctExpires: 9223372036854775807
+ntUserLastLogon: 0
+ntUserLastLogoff: 0
+ntUserCodePage: 0
+ntUniqueId: 4a31e967a4867b42bd0bc68c6f9840bf
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: ntuser
+objectClass: country
+objectClass: friendlyCountry
+
+dn: uid=cblecker,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz-see-partner-bugs,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=paas-open-platform-users,ou=itpaasGroups,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=nraghava-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=bmontgom-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=bmontgom-directs,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=acrobat-pro-users,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-srep-leads,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatJobTitle: Senior Site Reliability Engineer
+title: Senior Site Reliability Engineer
+rhatOfficeLocation: Remote CA BC
+rhatBuildingCode: RMTCABC
+l: VICTORIA
+rhatLocation: Remote CA BC
+postalCode: V8N 1A1
+street: Return to Red Hat, Raleigh, NC
+rhatGeo: NA
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: a3b1bfd0-494f-11e9-a3e9-001a4a0a0044
+uidNumber: 105774
+employeeType: Employee
+rhatBJNMeetingID: 249064585
+co: CAN
+cn: Christoph Blecker
+mobile: +16047860342
+manager: uid=bmontgom,ou=users,dc=redhat,dc=com
+c: CA
+homeDirectory: /home/remote/cblecker
+rhatOraclePersonID: 10613528
+loginShell: /bin/bash
+rhatBJNUserName: cblecker
+rhatTeamLead: False
+sn: Blecker
+rhatSupervisorID: 33714
+uid: cblecker
+rhatPersonType: Employee
+rhatNickName: cblecker
+rhatPreferredLastName: Blecker
+displayName: Christoph
+gidNumber: 105774
+rhatCostCenter: 148
+givenName: Christoph
+preferredTimeZone: America/Los_Angeles
+rhatHireDate: 20190318070000Z
+rhatEmployeeSubType: Regular
+rhatSupervisorWorkerId: 14060
+rhatCurrency: CAD
+rhatPrimaryMail: cblecker@redhat.com
+rhatWorkerId: 100174
+employeeNumber: 100174
+mail: cblecker@redhat.com
+rhatOriginalHireDate: 20190318070000Z
+rhatJobCode: 501
+rhatBio: Functional Lead, Team Rocket | OpenShift SRE Platform Team | Kubernet
+ es Maintainer / Steering Committee
+rhatSubproduct: SRE Platform
+rhatSocialURL: Github->https://github.com/cblecker
+rhatSocialURL: Other->https://quay.io/user/cblecker
+ipaSshPubKey: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC2VNF1AXHb7j0gagU5THtXeNzo
+ 59eEuQ9ty4A9dHqYXlZGA70Vxw6VyEEZnuFm9AyvMDl/4Ior7SXkg7Bht2nCgLwZykETGRhm0SwCH
+ /C3IHJ3GgFJc9/RaI74qOP9bun0wMsDP33s2MpAVYxdk2XMDkNLHB/n6vyTH0umEB2/PCWCljYYsc
+ xkO5hV3A3+xD+jFL42GVeNZ+TuFAvBotuH4Gy66ckP3TtT2v3c4AFPh111Uz8HWepqlcOU3xOuf5g
+ eQXGbNmUgdS+2bB74J0kEb7oWE4Gg38kxxykSnGet1Frxg2za8au0ClzsZotTcH8YFnvUkBv9FfC7
+ j4pAHVNJ
+rhatJobRole: Engineer
+rhatContactMethod: EMAIL
+rhatRnDComponent: OpenShift
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+
+dn: uid=jburrell,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=nraghava-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=bmontgom-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=bmontgom-directs,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=test123,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-srep-leads,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatSupervisorWorkerId: 14060
+rhatWorkerId: 104313
+rhatOfficeLocation: Remote US IL
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: 0c05a010-6fc0-11e9-8733-001a4a0b004e
+uidNumber: 115597
+rhatJobTitle: Senior Site Reliability Engineer, Security
+employeeType: Employee
+co: USA
+l: Springfield
+cn: Jason Burrell
+mobile: +13127610276
+rhatGPGFingerprint: C353 0F94 1519 A1E8 BB35  E522 449E E37F EDA6 B210
+manager: uid=bmontgom,ou=users,dc=redhat,dc=com
+c: US
+homeDirectory: /home/remote/jburrell
+rhatOraclePersonID: 10875790
+loginShell: /bin/bash
+st: IL
+rhatTeamLead: False
+sn: Burrell
+rhatSupervisorID: 33714
+street: Return to Red Hat, Raleigh, NC
+uid: jburrell
+rhatPersonType: Employee
+title: Senior Software Applications Engineer
+rhatNickName: jburrell
+rhatPreferredLastName: Burrell
+displayName: Jason
+gidNumber: 115597
+rhatLocation: Remote US IL
+rhatCostCenter: 148
+homePhone: +12176891522
+givenName: Jason
+rhatGeo: NA
+preferredTimeZone: America/Chicago
+rhatHireDate: 20190506050000Z
+rhatCurrency: USD
+rhatPrimaryMail: jburrell@redhat.com
+employeeNumber: 104313
+postalCode: 62706
+mail: jburrell@redhat.com
+rhatLegalEntity: Red Hat, Inc.
+rhatOriginalHireDate: 20190506050000Z
+rhatJobCode: 500
+rhatBJNUserName: jburrell.redhat
+rhatBJNMeetingID: 650632283
+rhatBio: I'm the Security Lead for OpenShift SRE-Platform (aka OSD and friends
+ ).
+rhatSubproduct: SRE Platform
+rhatJobRole: Engineer
+rhatSocialURL: Linkedin->https://www.linkedin.com/in/jaybeeunix/
+rhatSocialURL: Github->https://github.com/jaybeeunix
+rhatRnDComponent: OpenShift
+ipaSshPubKey: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDY3s61Pajc+ytIw5OOEkuXJk4y
+ hMlDRT4+sUQ6ziDflRwtVm4sm8A6M0g6b1K+jvJzowzN6RZm910/hywyU0kMy/XhHUAnRnx/WUbB4
+ Rn8VJ3sZjK/7r40EuZfrNyYDhnMemT8nYH6tB1kec8uXCySMpwdyonqcQgX5rPRjEbs+n54mwQwQ5
+ mriasRtABEE/d1cFtEgxAYzqAzU8l48kjeI2sv41ZlQrt3O+rmlQIeE9yBStzxrS+4NTHpWLGr1zT
+ xo8xErbt2B14u4Ct8hfEbjdCzBbGgy73eq4RrxhkfW1Y+rakVNuWOycy9nHtstagaRtMQYI1T69As
+ +Mj4Q8yyO1PZFQ08sEwhcCJW9xiIWn3H9/AFKHvBx5oVYq1bbjp+gX94UuwNr3j6wOxUGSiHrekoa
+ XeGUdmxSmPc6fKi59KC0sPVTioz2u+1eVaJqJvMfYSozgQncyK1cslPwpVhnYactHpOXNpq7Jr0SM
+ iZVavwGvvb0i0jQ6rtcwH557rOiQtwTznYFvkq1FJEohVv+VbDE+zj/5Ile634CTELMCnD0APWjwx
+ ZkSvgAXmucwNiwBtOdxjqz9a65+9lDYTNXrtGM15794UPipTxXkIs+S7bHCJjsI03a9TBgUMd9npu
+ 37RZSTaXg2vg1qh5zgCxqp0R0zIYeEbq8c2Ys5QJ+w== jburrell@redhat.com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+
+dn: uid=cbrumm,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=nraghava-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=bmontgom-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=bmontgom-directs,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-srep-leads,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=blue-for-linux-users,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatSupervisorWorkerId: 14060
+rhatWorkerId: 108355
+rhatOfficeLocation: Remote US CA
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: c83e4700-90d1-11e9-9611-001a4a0a0044
+uidNumber: 106439
+rhatJobTitle: Principal Site Reliability Engineer
+employeeType: Employee
+l: Sacramento
+co: USA
+cn: Carl Brumm
+mobile: +9494194951
+manager: uid=bmontgom,ou=users,dc=redhat,dc=com
+homeDirectory: /home/remote/cbrumm
+c: US
+rhatOraclePersonID: 11059829
+st: CA
+loginShell: /bin/bash
+rhatTeamLead: False
+sn: Brumm
+street: Return to Red Hat, Raleigh, NC
+rhatSupervisorID: 33714
+uid: cbrumm
+title: Principal Software Engineer
+rhatPersonType: Employee
+rhatPreferredLastName: Brumm
+displayName: Carl
+gidNumber: 106439
+rhatLocation: Remote US CA
+rhatCostCenter: 148
+givenName: Carl
+rhatGeo: NA
+preferredTimeZone: America/Los_Angeles
+rhatHireDate: 20190617070000Z
+rhatCurrency: USD
+rhatPrimaryMail: cbrumm@redhat.com
+employeeNumber: 108355
+postalCode: 95814
+mail: cbrumm@redhat.com
+rhatOriginalHireDate: 20190617070000Z
+rhatLegalEntity: Red Hat, Inc.
+rhatJobCode: 336
+rhatBJNUserName: cbrumm
+rhatBJNMeetingID: 5131333710
+rhatSubproduct: SRE Platform
+rhatJobRole: Engineer
+rhatSocialURL: Github->https://github.com/c-e-brumm
+rhatBio: I'm a person, I do people things. But mostly I work and play video ga
+ mes.
+rhatRnDComponent: OpenShift
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+
+dn: uid=cbeckham,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=IT-Tab-Ent-Manager_Dashboard,ou=servicegroups,ou=tableau,dc=redha
+ t,dc=com
+memberOf: cn=IT-Tab-Dept-PnT-Viewers,ou=servicegroups,ou=tableau,dc=redhat,dc=
+ com
+memberOf: cn=IT-Tab-Enterprise-Viewers,ou=servicegroups,ou=tableau,dc=redhat,d
+ c=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=msaparov-managers,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=nraghava-managers,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=gcp-core-team,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatBuildingCode: RMTUSCA
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: d0e82230-d853-11e9-9e8c-001a4a0a0044
+uidNumber: 107160
+rhatJobTitle: Associate Manager, SRE
+employeeType: Employee
+rhatBJNMeetingID: 797634732
+co: USA
+l: SACRAMENTO
+cn: Tony Beckham
+mobile: +18054530080
+manager: uid=bmontgom,ou=users,dc=redhat,dc=com
+homeDirectory: /home/remote/cbeckham
+c: US
+rhatOraclePersonID: 11810909
+loginShell: /bin/bash
+st: CA
+rhatBJNUserName: cbeckham.redhat
+rhatTeamLead: False
+sn: Beckham
+rhatSupervisorID: 33714
+street: Return to Red Hat, Raleigh, NC
+uid: cbeckham
+title: Associate Manager, Software Engineering
+rhatPersonType: Employee
+rhatNickName: tbex
+rhatPreferredLastName: Beckham
+displayName: Tony
+gidNumber: 107160
+rhatLocation: Remote US CA
+rhatOfficeLocation: Remote US CA
+rhatCostCenter: 148
+givenName: Charles
+rhatGeo: NA
+preferredTimeZone: America/Los_Angeles
+rhatHireDate: 20190916070000Z
+rhatEmployeeSubType: Regular
+rhatSupervisorWorkerId: 14060
+rhatCurrency: USD
+rhatPrimaryMail: cbeckham@redhat.com
+rhatWorkerId: 116934
+employeeNumber: 116934
+postalCode: 95814
+mail: cbeckham@redhat.com
+rhatOriginalHireDate: 20190916070000Z
+rhatJobCode: 540
+rhatSubproduct: SRE Platform
+rhatRnDComponent: OpenShift
+rhatSocialURL: Github->https://github.com/tbeckham
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+
+dn: uid=efried,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=blue-for-linux-users,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatSupervisorWorkerId: 14060
+rhatWorkerId: 135127
+rhatOfficeLocation: Remote US TX
+rhatSubproduct: SRE Platform
+rhatRnDComponent: OpenShift
+st: TX
+l: Austin
+street: Return to Red Hat, Raleigh, NC
+postalCode: 78711
+rhatCostCenterDesc: PRO Hosted
+gidNumber: 108246
+rhatLocation: Remote US TX
+rhatUUID: 18b2f930-61c7-11ea-95dc-0a58ac147a06
+uidNumber: 108246
+rhatJobTitle: Principal Site Reliability Engineer
+employeeType: Employee
+rhatCostCenter: 148
+co: USA
+cn: Eric Fried
+mobile: +12543003731
+givenName: Eric
+manager: uid=bmontgom,ou=users,dc=redhat,dc=com
+c: US
+homeDirectory: /home/remote/efried
+rhatGeo: NA
+rhatOraclePersonID: 15021903
+loginShell: /bin/bash
+preferredTimeZone: America/Chicago
+rhatHireDate: 20200309050000Z
+rhatTeamLead: False
+sn: Fried
+rhatCurrency: USD
+rhatSupervisorID: 33714
+rhatPrimaryMail: efried@redhat.com
+uid: efried
+employeeNumber: 135127
+rhatPersonType: Employee
+title: Principal Software Engineer
+rhatNickName: efried
+rhatPreferredLastName: Fried
+displayName: Eric
+mail: efried@redhat.com
+rhatLegalEntity: Red Hat, Inc.
+rhatOriginalHireDate: 20200309050000Z
+rhatJobCode: 336
+rhatSocialURL: Github->https://github.com/2uasimojo
+rhatSocialURL: Linkedin->https://www.linkedin.com/in/eric-fried/
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+
+dn: uid=lreplogl,ou=users,dc=redhat,dc=com
+memberOf: cn=Intern,ou=userClass,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=bos-summer-2020-pnt-interns,ou=adhoc,ou=managedGroups,dc=redhat,d
+ c=com
+rhatSupervisorWorkerId: 14060
+rhatWorkerId: 135417
+rhatOfficeLocation: RH - Raleigh
+rhatOfficeFloor: 16
+registeredAddress: 35.775482517607884,-78.63696752112094
+st: NC
+l: Raleigh
+street: 100 East Davie Street
+physicalDeliveryOfficeName: Red Hat, Inc.
+postalCode: 27601
+roomNumber: MOBILE
+rhatSocialURL: Github->https://github.com/lareplog
+rhatCostCenterDesc: PRO Hosted
+gidNumber: 109329
+rhatUUID: 0b0b8de0-98c4-11ea-8dd6-0a58ac14fe6e
+rhatLocation: RH - Raleigh
+uidNumber: 109329
+rhatJobTitle: OpenShift Service Reliability Engineering (SRE) Intern
+employeeType: Intern
+rhatCostCenter: 148
+co: USA
+cn: Lauren Replogle
+givenName: Lauren
+manager: uid=bmontgom,ou=users,dc=redhat,dc=com
+rhatGeo: NA
+homeDirectory: /home/remote/lreplogl
+c: US
+rhatOraclePersonID: 15044789
+loginShell: /bin/bash
+preferredTimeZone: America/New_York
+rhatTeamLead: False
+rhatHireDate: 20200518040000Z
+sn: Replogle
+rhatCurrency: USD
+rhatSupervisorID: 33714
+rhatPrimaryMail: lreplogl@redhat.com
+uid: lreplogl
+employeeNumber: 135417
+title: Intern - Tech (Jr)
+rhatPersonType: Intern
+rhatPreferredLastName: Replogle
+displayName: Lauren
+mail: lreplogl@redhat.com
+rhatOriginalHireDate: 20200518040000Z
+rhatLegalEntity: Red Hat, Inc.
+rhatJobCode: 9997
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+
+dn: uid=ammin,ou=users,dc=redhat,dc=com
+memberOf: cn=Intern,ou=userClass,dc=redhat,dc=com
+memberOf: cn=IT-Tab-Dept-PnT-Creators,ou=servicegroups,ou=tableau,dc=redhat,dc
+ =com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=bos-summer-2020-pnt-interns,ou=adhoc,ou=managedGroups,dc=redhat,d
+ c=com
+ntUserDeleteAccount: true
+ntUserDomainId: ammin
+ntUserCreateNewAccount: true
+rhatSupervisorWorkerId: 14060
+rhatWorkerId: 135537
+rhatOfficeLocation: RH - Raleigh
+rhatOfficeFloor: 16
+registeredAddress: 35.775482517607884,-78.63696752112094
+st: NC
+l: Raleigh
+street: 100 East Davie Street
+physicalDeliveryOfficeName: Red Hat, Inc.
+postalCode: 27601
+roomNumber: MOBILE
+rhatSocialURL: Github->https://github.com/Amit21Min
+mobile: +9197446477
+rhatBJNUserName: ammin
+rhatBJNMeetingID: 750617837
+rhatNickName: ammin
+rhatCostCenterDesc: PRO Hosted
+gidNumber: 109361
+rhatUUID: f928d900-993d-11ea-8dd6-0a58ac14fe6e
+rhatLocation: RH - Raleigh
+uidNumber: 109361
+rhatJobTitle: OpenShift Service Reliability Engineering Intern
+employeeType: Intern
+rhatCostCenter: 148
+co: USA
+cn: Amit Min
+givenName: Amit
+manager: uid=bmontgom,ou=users,dc=redhat,dc=com
+rhatGeo: NA
+homeDirectory: /home/remote/ammin
+c: US
+rhatOraclePersonID: 15048387
+loginShell: /bin/bash
+preferredTimeZone: America/New_York
+rhatTeamLead: False
+rhatHireDate: 20200518040000Z
+sn: Min
+rhatCurrency: USD
+rhatSupervisorID: 33714
+rhatPrimaryMail: ammin@redhat.com
+uid: ammin
+employeeNumber: 135537
+title: Intern - Tech (Soph)
+rhatPersonType: Intern
+rhatPreferredLastName: Min
+displayName: Amit
+mail: ammin@redhat.com
+rhatOriginalHireDate: 20200518040000Z
+rhatLegalEntity: Red Hat, Inc.
+rhatJobCode: 9996
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+objectClass: ntuser
+
+dn: uid=agautam,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=bos-summer-2020-pnt-interns,ou=adhoc,ou=managedGroups,dc=redhat,d
+ c=com
+rhatBuildingCode: RHT
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: 08713380-993e-11ea-8dd6-0a58ac14fe6e
+uidNumber: 109362
+rhatJobTitle: Intern - Tech Masters
+employeeType: Employee
+rhatAdjSvcDate: 20200518040000Z
+rhatBJNMeetingID: 334556441
+rhatAmbassadorED: 20200517040000Z
+co: USA
+l: RALEIGH
+cn: Amol Gautam
+mobile: +19193442956
+manager: uid=bmontgom,ou=users,dc=redhat,dc=com
+c: US
+homeDirectory: /home/remote/agautam
+rhatOraclePersonID: 15373137
+loginShell: /bin/bash
+st: NC
+rhatBJNUserName: agautam.redhat
+rhatTeamLead: False
+rhatOfficeFloor: 16
+sn: Gautam
+rhatSupervisorID: 33714
+street: 100 East Davie Street
+uid: agautam
+rhatPersonType: Employee
+title: Intern - Tech Masters
+rhatNickName: agautam
+rhatPreferredLastName: Gautam
+displayName: Amol
+roomNumber: MOBILE
+gidNumber: 109362
+rhatLocation: RH - Raleigh
+rhatOfficeLocation: RH - Raleigh
+rhatCostCenter: 148
+givenName: Amol
+rhatGeo: NA
+preferredTimeZone: America/New_York
+rhatHireDate: 20200518040000Z
+rhatEmployeeSubType: Intern
+rhatSupervisorWorkerId: 14060
+rhatCurrency: USD
+rhatPrimaryMail: agautam@redhat.com
+registeredAddress: 35.775482517607884,-78.63696752112094
+rhatWorkerId: 141637
+employeeNumber: 141637
+postalCode: 27601
+mail: agautam@redhat.com
+rhatLegalEntity: Red Hat, Inc.
+rhatOriginalHireDate: 20200518040000Z
+rhatJobCode: 999TM
+physicalDeliveryOfficeName: Red Hat, Inc.
+rhatSocialURL: Github->https://github.com/amolgautam25
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+
+dn: uid=aweiteka,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz-see-partner-bugs,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=paas-open-platform-users,ou=itpaasGroups,dc=redhat,dc=com
+memberOf: cn=IT-Tab-Ent-Manager_Dashboard,ou=servicegroups,ou=tableau,dc=redha
+ t,dc=com
+memberOf: cn=IT-Tab-Dept-PnT-Viewers,ou=servicegroups,ou=tableau,dc=redhat,dc=
+ com
+memberOf: cn=IT-Tab-Dept-Dev-PnT-Viewers,ou=servicegroups,ou=tableau,dc=redhat
+ ,dc=com
+memberOf: cn=IT-Tab-Enterprise-Viewers,ou=servicegroups,ou=tableau,dc=redhat,d
+ c=com
+memberOf: cn=pnt-devops-bos,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=eng-systems-engineering,ou=adhoc,ou=managedGroups,dc=redhat,dc=co
+ m
+memberOf: cn=aweiteka-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=msaparov-managers,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=nraghava-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=nraghava-directs,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=nraghava-managers,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=aweiteka-directs,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatSupervisorWorkerId: 129193
+rhatWorkerId: 14527
+rhatOfficeLocation: RH - Boston
+rhatContactMethod: IRC
+rhatBio: aweiteka in Slack
+rhatCostCenterDesc: Service Delivery
+rhatUUID: 7704cdf0-0d75-11e7-9bd3-28d244ea5a6d
+uidNumber: 19340
+rhatJobTitle: Associate Manager, Site Reliability Engineering
+employeeType: Employee
+l: Boston
+co: USA
+cn: Aaron Weitekamp
+mobile: +19784138739
+manager: uid=cattias,ou=users,dc=redhat,dc=com
+homeDirectory: /home/bos/aweiteka
+c: US
+rhatOraclePersonID: 34380
+st: MA
+loginShell: /bin/bash
+rhatOfficeFloor: 03
+rhatTeamLead: False
+sn: Weitekamp
+street: 300 A St.$4th Floor
+rhatSupervisorID: 13634779
+uid: aweiteka
+title: Associate Manager, Software Engineering
+rhatPersonType: Employee
+rhatNickName: aweiteka
+rhatPreferredLastName: Weitekamp
+displayName: Aaron
+telephoneNumber: 19785891036
+roomNumber: 3N341
+rhatPhoneExt: 8131036
+gidNumber: 19340
+rhatLocation: RH - Boston
+rhatCostCenter: 732
+givenName: Aaron
+rhatGeo: NA
+preferredTimeZone: America/New_York
+rhatHireDate: 20120709040000Z
+rhatCurrency: USD
+rhatPrimaryMail: aweiteka@redhat.com
+employeeNumber: 14527
+postalCode: 02210
+mail: aweiteka@redhat.com
+rhatLegalEntity: Red Hat, Inc.
+rhatOriginalHireDate: 20120709040000Z
+rhatJobCode: 540
+rhatSubproduct: SRE Platform
+rhatSocialURL: Github->https://github.com/aweiteka
+rhatSocialURL: Other->https://quay.io/user/aweiteka_redhat
+rhatSocialURL: Linkedin->https://www.linkedin.com/in/aaronweitekamp/
+rhatRnDComponent: OpenShift
+rhatWebLogin: aweiteka@redhat.com
+ipaSshPubKey: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDtRriM8JMlOFbsvdBB27y4XRoh
+ QZ4tWOdiCK4J2Nza1PPAINhHSvV/InEDxtMNK2MykiwB61oQN4glXdpS/90oadOQV6cV2ElPhJCrZ
+ 2eOp0twbq4VBSmnDXlNIssp9PI5Re6NWGWKquqrsvnmgSzWs+uukp8L7bMgFhSqcqX4ROLUxbko1L
+ 9dcZHMB3zckMTHKYfpAHctm1DUFduLBhInWIulFLyQviyvGIzeD6lHFzbcDE95CUATLRJ34zM/ejU
+ l1MYYnQztJQnuZ0IGfrSS0cNgzJbnyqKsnaBtM/Qovd3/SIzy5rNmt63F1r+FKtZgwIKoMnlx+xli
+ v8w2AU0ofbWA9oxjaGuWMsHcvabLHWNy+KAT6197UgytL5yrzpUnsMyvmdsuUZfn+oLs44Q0oTGCR
+ cYax56rH82tfWHkcX3z29A8qKuoIHGWNHN9GaMgeOiprtmgt+MOzNdfDzReUMJt9R4MNKlYNjY+wm
+ Hi/dQ0D3w9CFB+FiSBPqMuCpbWJLWyIzsidjn9mVPzD2EJrty/Ndid9kky9pLPtnCDmLwJBSEBfyA
+ hRV0KFfh6EKjgL0J9efyXCnlEw+o3mIq8GJKWCDAQgMXw8hQjTsqDplWSmDChcxgv+yQLzk8Q/93c
+ JOAreu744OjH7jDrbr+OMdfKeVDy3YcUOdJtid2BUw== aweiteka@redhat.com
+rhatBJNMeetingID: 7709932919
+rhatBJNUserName: aweiteka
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+physicalDeliveryOfficeName: Red Hat Inc.
+registeredAddress: 42.348636,-71.050197
+
+dn: uid=dranders,ou=users,dc=redhat,dc=com
+memberOf: cn=International Local Hire,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=paas-open-platform-users,ou=itpaasGroups,dc=redhat,dc=com
+memberOf: cn=eng-openshift-online,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=jgouldin-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=nraghava-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=wadhwani-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=wadhwani-directs,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatSupervisorWorkerId: 129193
+rhatWorkerId: 52193
+rhatOfficeLocation: Remote Australia
+co: AUS
+c: AU
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: 77cafd0e-0d75-11e7-9a95-28d244ea5a6d
+uidNumber: 30006
+rhatJobTitle: Senior Site Reliability Engineer
+employeeType: International Local Hire
+rhatAdjSvcDate: 20160612220000Z
+l: Canberra
+cn: Drew Anderson
+mobile: +61410797763
+manager: uid=cattias,ou=users,dc=redhat,dc=com
+homeDirectory: /home/bne/dranders
+rhatOraclePersonID: 5293340
+loginShell: /bin/bash
+rhatTeamLead: False
+sn: Anderson
+street: Return to Red Hat, Raleigh, NC
+rhatSupervisorID: 13634779
+uid: dranders
+title: Senior Software Engineer
+rhatPersonType: International Local Hire
+rhatNickName: drewanderson
+rhatPreferredLastName: Anderson
+displayName: Drew
+gidNumber: 30006
+rhatLocation: RH - Berlin - MSO
+rhatCostCenter: 148
+givenName: Drew
+rhatGeo: EMEA
+preferredTimeZone: CET
+rhatHireDate: 20160612220000Z
+rhatCurrency: EUR
+rhatPrimaryMail: dranders@redhat.com
+employeeNumber: 52193
+mail: dranders@redhat.com
+rhatOriginalHireDate: 20160612220000Z
+rhatLegalEntity: Red Hat GmbH
+rhatJobCode: 501
+rhatSubproduct: SRE Platform
+rhatSocialURL: Github->https://github.com/drewandersonnz
+rhatSocialURL: Linkedin->https://www.linkedin.com/in/drewandersonnz/
+rhatBJNUserName: dranders
+rhatBJNMeetingID: 1495307397
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+rhatRnDComponent: OpenShift
+rhatJobRole: Engineer
+
+dn: uid=pyates,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=paas-open-platform-users,ou=itpaasGroups,dc=redhat,dc=com
+memberOf: cn=randd-product-middleware,ou=adhoc,ou=managedGroups,dc=redhat,dc=c
+ om
+memberOf: cn=aweiteka-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=jgouldin-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=nraghava-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=aweiteka-directs,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=jgouldin-directs,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=waterford-staff,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatSupervisorWorkerId: 129193
+rhatWorkerId: 59479
+rhatOfficeLocation: RH - Waterford City
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: 4f749940-8e78-11e6-807a-001a4a0a0045
+uidNumber: 100734
+rhatJobTitle: Senior Site Reliability Engineer
+employeeType: Employee
+co: IRL
+l: Waterford
+cn: Paul Yates
+mobile: +3530833474544
+manager: uid=cattias,ou=users,dc=redhat,dc=com
+c: IE
+homeDirectory: /home/wat/pyates
+rhatOraclePersonID: 5847319
+loginShell: /bin/bash
+rhatOfficeFloor: 01
+rhatTeamLead: False
+sn: Yates
+street: Communication House, Cork Road$1st Floor
+rhatSupervisorID: 13634779
+uid: pyates
+rhatPersonType: Employee
+title: Senior Software Engineer
+rhatNickName: pyates
+rhatPreferredLastName: Yates
+displayName: Paul
+telephoneNumber: 35351810166
+roomNumber: MOBILE
+rhatPhoneExt: 8260166
+gidNumber: 100734
+rhatLocation: RH - Waterford City
+rhatCostCenter: 148
+homePhone: +051584428
+givenName: Paul
+rhatGeo: EMEA
+preferredTimeZone: Europe/London
+rhatHireDate: 20161009230000Z
+rhatCurrency: EUR
+rhatPrimaryMail: pyates@redhat.com
+employeeNumber: 59479
+postalCode: X91NY33
+mail: pyates@redhat.com
+rhatLegalEntity: Red Hat Limited
+rhatOriginalHireDate: 20161009230000Z
+rhatJobCode: 501
+rhatSubproduct: SRE Platform
+ipaSshPubKey: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDSDeWcwW5fndWh7KNa/mZ9RWc3
+ wLIKKaOhtkMhUmrlJ4einVNpvMqhd9Zx/2eqM3ujAx+ztrUrlV//6cLo0bcdvZhDHowWpQV0cEObc
+ WokSSURrvbW/Bt80xvcABmGu5lystdP9aI7MgVpNXmRz1oZuyHKx5JS2I8ItZGq5Ywc7cDVK4Ot2I
+ 3BPoCYFiJBmZGZq8IWJw1x0WTtK+b9n2PkxKumZeky7On8HFqP8sY0TAYbKlSzNP6E7ig1hMVE8rO
+ XhUOZFFv8O4TVqD9oKSVq80kSfyY5CJtgaU58dYoRO8PmlU5hpfJFReJrSg8J2fWzNRlFBa8pGu4m
+ JxG3ecycQe+53tc5U4FhBLwky1/fJEMWKJoSL8x3cLSz+DH9RuPxPu/misYcV6KBD9/GUXWodQILU
+ yCJqULDCJeNkhMSLfiL4e9SL/nNVQEeak8ft+d39mY+1glgz7bYnbXxlBc9yet57rl8ohjlt/+C0C
+ n8KJirry5w7BnO2eaPmWa7p+hMPlmjrudsC07McAsYErbpYLamlM4y7sXQWktvsluPROOcK8eJ5Y5
+ BVyyF6iVLWwhq0FlvOf/G94N1yD5RvayoxIGym9p5VbU1uuKKkjP4gcs66SeeKMcS2BHgkA8SWSH8
+ w0FkELLVQoG+J8N6+CTodgNDMWAwTdx85p8Dazv2eQ== pyates@redhat.com
+rhatBJNUserName: pyates.redhat
+rhatBJNMeetingID: 7158877587
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+rhatContactMethod: EMAIL
+rhatRnDComponent: OpenShift
+rhatPreferredAlias: pyates@redhat.com
+physicalDeliveryOfficeName: Red Hat Limited
+registeredAddress: 52.246329,-7.143171
+rhatJobRole: Engineer
+rhatSocialURL: Linkedin->https://www.linkedin.com/in/pyates86
+rhatSocialURL: Github->https://github.com/pyates86
+rhatSocialURL: Other->https://quay.io/user/pyates
+
+dn: uid=mmazur,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=IT-Tab-Dept-PnT-Creators,ou=servicegroups,ou=tableau,dc=redhat,dc
+ =com
+memberOf: cn=dfediuck-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mperina-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mperina-directs,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+ntUserDeleteAccount: true
+ntUserDomainId: mmazur
+ntUserCreateNewAccount: true
+rhatSupervisorWorkerId: 129193
+rhatWorkerId: 87835
+rhatOfficeLocation: Remote Poland
+rhatCostCenterDesc: Service Delivery
+rhatUUID: 95e937d0-ad6d-11e8-ac8a-001a4a0a0044
+uidNumber: 104329
+rhatJobTitle: Senior Site Reliability Engineer
+employeeType: Employee
+co: POL
+l: Warsaw
+cn: Mariusz Mazur
+manager: uid=cattias,ou=users,dc=redhat,dc=com
+c: PL
+homeDirectory: /home/remote/mmazur
+rhatOraclePersonID: 9442885
+loginShell: /bin/bash
+rhatTeamLead: False
+sn: Mazur
+rhatSupervisorID: 13634779
+uid: mmazur
+title: Senior Software Engineer
+rhatPersonType: Employee
+rhatNickName: mmazur
+rhatPreferredLastName: Mazur
+displayName: Mariusz
+telephoneNumber: 420532270254
+gidNumber: 104329
+rhatPhoneExt: 8266254
+rhatLocation: Remote Poland
+rhatCostCenter: 732
+givenName: Mariusz
+rhatGeo: EMEA
+preferredTimeZone: CET
+rhatHireDate: 20180831220000Z
+rhatCurrency: PLN
+rhatPrimaryMail: mmazur@redhat.com
+employeeNumber: 87835
+postalCode: 493
+mail: mmazur@redhat.com
+rhatOriginalHireDate: 20180831220000Z
+rhatLegalEntity: Red Hat Poland sp.zo.o
+rhatJobCode: 501
+rhatSubproduct: SRE Platform
+rhatRnDComponent: OpenShift
+rhatBJNUserName: mmazur81
+rhatBJNMeetingID: 9180634231
+rhatContactMethod: IRC
+rhatJobRole: Engineer
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+objectClass: ntuser
+rhatSocialURL: Github->https://github.com/mmazur
+rhatSocialURL: Other->https://quay.io/user/mmazur
+
+dn: uid=lseelye,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=aweiteka-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=jgouldin-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=nraghava-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=aweiteka-directs,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=jgouldin-directs,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-srep-leads,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatOfficeLocation: Remote CA ON
+rhatBuildingCode: RMTCAON
+l: TORONTO
+rhatLocation: Remote CA ON
+postalCode: M4B 1B3
+street: Return to Red Hat, Raleigh, NC
+rhatGeo: NA
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: 8620a390-bfb2-11e8-98b8-001a4a0b004e
+uidNumber: 114539
+rhatJobTitle: Senior Software Engineer
+employeeType: Employee
+rhatBJNMeetingID: 6302735443
+co: CAN
+cn: Lisa Seelye
+manager: uid=cattias,ou=users,dc=redhat,dc=com
+homeDirectory: /home/remote/lseelye
+c: CA
+rhatOraclePersonID: 9590636
+loginShell: /bin/bash
+rhatBJNUserName: lseelye
+rhatTeamLead: False
+sn: Seelye
+rhatSupervisorID: 13634779
+uid: lseelye
+rhatPersonType: Employee
+title: Senior Software Engineer
+rhatNickName: lseelye
+rhatPreferredLastName: Seelye
+displayName: Lisa
+gidNumber: 114539
+rhatCostCenter: 148
+givenName: Lisa
+preferredTimeZone: America/New_York
+rhatHireDate: 20180924040000Z
+rhatEmployeeSubType: Regular
+rhatSupervisorWorkerId: 129193
+rhatCurrency: CAD
+rhatPrimaryMail: lseelye@redhat.com
+rhatWorkerId: 89733
+employeeNumber: 89733
+mail: lseelye@redhat.com
+rhatOriginalHireDate: 20180924040000Z
+rhatJobCode: 501
+rhatSubproduct: SRE Platform
+rhatJobRole: Engineer
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+rhatRnDComponent: OpenShift
+rhatContactMethod: EMAIL
+rhatSocialURL: Github->https://github.com/lisa
+rhatSocialURL: Other->https://quay.io/user/lseelye
+rhatSocialURL: Personal->https://lisa.dev
+rhatSocialURL: Other->https://opensource.com/users/lisa
+
+dn: uid=rbastos,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=paas-open-platform-users,ou=itpaasGroups,dc=redhat,dc=com
+memberOf: cn=aweiteka-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=jgouldin-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=nraghava-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=aweiteka-directs,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=jgouldin-directs,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-srep-leads,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatOfficeLocation: RH - Montreal - MSO
+rhatBuildingCode: MONTRLWW
+l: MONTREAL
+rhatLocation: RH - Montreal - MSO
+postalCode: H3B 5L1
+street: 1010 Rue Sainte-Catherine Ouest$Suite 200, C/O WeWork
+rhatLegalEntity: Red Hat Canada Limited
+rhatGeo: NA
+registeredAddress: 45.500477,-73.57235
+st: QC
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: f2efa060-cab2-11e8-914c-001a4a0a0044
+uidNumber: 104571
+rhatJobTitle: Principal Software Engineer
+employeeType: Employee
+rhatBJNMeetingID: 2695524931
+co: CAN
+cn: Rogerio Bastos
+mobile: +15149731281
+manager: uid=cattias,ou=users,dc=redhat,dc=com
+homeDirectory: /home/remote/rbastos
+c: CA
+rhatOraclePersonID: 9651015
+loginShell: /bin/bash
+rhatBJNUserName: rbastos89
+rhatTeamLead: False
+rhatOfficeFloor: 01
+sn: Bastos
+rhatSupervisorID: 13634779
+uid: rbastos
+title: Principal Software Engineer
+rhatPersonType: Employee
+rhatNickName: rogbas
+rhatPreferredLastName: Bastos
+displayName: Rogerio
+roomNumber: MOBILE
+gidNumber: 104571
+rhatCostCenter: 148
+givenName: Rogerio
+preferredTimeZone: US/Eastern
+rhatHireDate: 20181008040000Z
+rhatEmployeeSubType: Regular
+rhatSupervisorWorkerId: 129193
+rhatCurrency: CAD
+rhatPrimaryMail: rbastos@redhat.com
+rhatWorkerId: 90335
+employeeNumber: 90335
+mail: rbastos@redhat.com
+rhatOriginalHireDate: 20181008040000Z
+rhatJobCode: 336
+rhatSubproduct: SRE Platform
+rhatJobRole: Engineer
+rhatSocialURL: Github->https://github.com/rogbas
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+rhatRnDComponent: OpenShift
+rhatPreferredAlias: rogbas@redhat.com
+physicalDeliveryOfficeName: Red Hat Canada Limited
+
+dn: uid=rrackow,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz-see-partner-bugs,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=paas-open-platform-users,ou=itpaasGroups,dc=redhat,dc=com
+memberOf: cn=aweiteka-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=jgouldin-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=nraghava-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=aweiteka-directs,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=jgouldin-directs,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=lucidchart-users,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatSupervisorWorkerId: 129193
+rhatWorkerId: 108895
+rhatOfficeLocation: RH - Berlin - MSO
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: 2dccaf70-9b87-11e9-97cb-001a4a0a0044
+uidNumber: 106495
+rhatJobTitle: Senior Site Reliability Engineer
+employeeType: Employee
+co: DEU
+l: Berlin
+cn: Rick Rackow
+manager: uid=cattias,ou=users,dc=redhat,dc=com
+c: DE
+homeDirectory: /home/remote/rrackow
+rhatOraclePersonID: 11083963
+loginShell: /bin/bash
+st: BB
+rhatOfficeFloor: 05
+rhatTeamLead: False
+sn: Rackow
+street: Friedrichstrasse 76$co WeWork
+rhatSupervisorID: 13634779
+uid: rrackow
+rhatPersonType: Employee
+title: Senior Software Engineer
+rhatNickName: rrackow
+rhatPreferredLastName: Rackow
+displayName: Rick
+roomNumber: MOBILE
+gidNumber: 106495
+rhatLocation: RH - Berlin - MSO
+rhatCostCenter: 148
+givenName: Rick
+rhatGeo: EMEA
+preferredTimeZone: CET
+rhatHireDate: 20190630220000Z
+rhatCurrency: EUR
+rhatPrimaryMail: rrackow@redhat.com
+employeeNumber: 108895
+postalCode: 10117
+mail: rrackow@redhat.com
+rhatLegalEntity: Red Hat GmbH
+rhatOriginalHireDate: 20190630220000Z
+rhatJobCode: 501
+registeredAddress: 52.514512,13.389652
+rhatSubproduct: SRE Platform
+physicalDeliveryOfficeName: Red Hat Gmbh.
+rhatBJNUserName: rrackow
+rhatBJNMeetingID: 649261366
+rhatRnDComponent: OpenShift
+rhatJobRole: Engineer
+ipaSshPubKey: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCvG0C70MHqozrmj2YfgaIWZ3el
+ URSwHUsA3ZtDvEvdetFpV8jbJTvv/krync2HbfM9P9zGiQdiBOKK+3j+7vlzdmcuAxia4oBUtmOIK
+ fC2XS2Btw5f06oS9tkCgIsvZzXZ6/TDldoJG5mtaLdzK8jMP1+7/wPIzdDCs5fwZCg3YyzJRXw1N4
+ YRQJ9wadah/wUXcFsZaRDOSTpg/Sb8fGsbedlmNl17ReFflrVRxc7xlnUAyg8TehGch+2W1hMqk/D
+ hdBaajZGAT5vX8MOp4XsM288LAw0IRiTOuD7vgQzklsuUiUn2uMfvYd2cZ9vyhAbQlA1mR/8D+bRh
+ 8K18/pMVNaGSnTl7Rl4Z++VMl1+ojNo1fYItYfP19meD5cLCUTvUdwgADEdJiMTG8L0YIH4ess2ly
+ bjltS+uuZkLM5Lwmx3d/6lOlK6gGXig2ZJelvd6oQ/ZTaOYsawiSUPnPPknRGIq2SJ7OwLkaPMZbk
+ /XKlx/LhTNgTAVmwxogmZLu7LrJlTdX7kan3S7ud1pJIB5DLoM3F4sAaXLrJFGwkYTiZq/MgGUlC6
+ 70pUtNGJpRYepVaIm9KrnoCtjf/mcIoREQFWze+2bLe4sw66SMQdGDZTIHquPpbanD6pNgcN6Oy6G
+ ZGuFWpjasrLekdxdCG3o+NnOP+p/bqPogLFL1ILrOw== rrackow@redhat.com
+rhatSocialURL: Github->https://github.com/rira12621
+rhatSocialURL: Twitter->https://twitter.com/rira12621
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+
+dn: uid=mdewald,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-srep-leads,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatSupervisorWorkerId: 129193
+rhatWorkerId: 116979
+rhatOfficeLocation: Remote Germany
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: 789b6a60-d808-11e9-9e8c-001a4a0a0044
+uidNumber: 107140
+rhatJobTitle: Senior Site Reliability Engineer
+employeeType: Employee
+co: DEU
+l: Grasbrunn
+cn: Manuel Dewald
+manager: uid=cattias,ou=users,dc=redhat,dc=com
+homeDirectory: /home/remote/mdewald
+c: DE
+rhatOraclePersonID: 11816345
+loginShell: /bin/bash
+rhatTeamLead: False
+sn: Dewald
+rhatSupervisorID: 13634779
+street: Red Hat GmbH$Technopark II, Haus C
+uid: mdewald
+title: Senior Software Engineer
+rhatPersonType: Employee
+rhatPreferredLastName: Dewald
+displayName: Manuel
+telephoneNumber: 4989205071376
+rhatPhoneExt: 8271376
+gidNumber: 107140
+rhatLocation: Remote Germany
+rhatCostCenter: 148
+givenName: Manuel
+rhatGeo: EMEA
+preferredTimeZone: CET
+rhatHireDate: 20190915220000Z
+rhatCurrency: EUR
+rhatPrimaryMail: mdewald@redhat.com
+employeeNumber: 116979
+postalCode: 85630
+mail: mdewald@redhat.com
+rhatOriginalHireDate: 20190915220000Z
+rhatLegalEntity: Red Hat GmbH
+rhatJobCode: 501
+rhatSubproduct: SRE Platform
+rhatRnDComponent: OpenShift
+rhatJobRole: Engineer
+ipaSshPubKey: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCtjlvu7hYt1SKbswgV6Ma8YV7P
+ ecZdS4/vao/h8oa/XAPMNxr5e7U1kZbebHVLMMGLgIWCzEOeBOn+h/nekYBdqwB0ez0u5U+E5GgsI
+ jcK5JoxFLDqYS/2Lg4FO4DtjBQVS3qJLmcWV1Skie9XSK8BxIY2ek5xI6wTUiZBqBQhzuDcUDM1y5
+ kz7fwnCageF1WMfKyjZeW57liETGmATVqqAgTAOnNd6me6bF7017kBQnAo6Z5Tm4i4IdkmL6xbXKa
+ MWK/OYgBM7/vx6kp6iMHooqMbuc9gdwiwGFnCJXZ68IYaWTkR5L8BRlf2yumrpvaJh0Opd04L/DAD
+ PxcWikgQHHfr+wlJzUV39iOaReHa0hiQ2wwLC3QEfaHnoU6sc2zpIXt0wzPWPhSvOvxnMWWPcDtuR
+ mfbw1o/Lou1i08pFkwNB5dGnPzE1nnUuG5QxfyqzBdmo1e5jJwKZ+FBCvmhCPydaLXFEx+cyhRioB
+ QwC8uTvGp8LB47eGNAPYShH9tWc6ySRF1JIa383kcBP2861xkOkpAySbc6yhFtDL93qYZuq5ln7tp
+ Fz/yTXmgJ1LPclo6FW9Q6/PzpiyLTTtNlrH3n6qoSBb+JYwwD8ha9Nh1Njko01PMxw0GKkqaoxmJ5
+ /TA9c9j9yOH4ByrapHGR5+V5KhlH2wzRZD8q4RHvzw== mdewald@redhat.com
+rhatBJNUserName: mdewald
+rhatBJNMeetingID: 287678149
+rhatSocialURL: Github->https://github.com/NautiluX
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+
+dn: uid=bseref,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatSupervisorWorkerId: 129193
+rhatWorkerId: 119300
+rhatOfficeLocation: RH - Brno - FBCII
+postalCode: 612 00
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: 36e8f390-eed2-11e9-9e8c-001a4a0a0044
+uidNumber: 107348
+rhatJobTitle: Site Reliability Engineer
+employeeType: Employee
+co: CZE
+l: Brno
+cn: Boran Seref
+mobile: +420777998771
+manager: uid=cattias,ou=users,dc=redhat,dc=com
+homeDirectory: /home/remote/bseref
+c: CZ
+rhatOraclePersonID: 12157741
+loginShell: /bin/bash
+rhatTeamLead: False
+rhatOfficeFloor: 02
+sn: Seref
+rhatSupervisorID: 13634779
+street: Purkynova 97b
+uid: bseref
+title: Software Engineer
+rhatPersonType: Employee
+rhatPreferredLastName: Seref
+displayName: Boran
+telephoneNumber: 420532270410
+roomNumber: 2S195
+gidNumber: 107348
+rhatPhoneExt: 8266410
+rhatLocation: RH - Brno - FBCII
+rhatCostCenter: 148
+givenName: Boran
+rhatGeo: EMEA
+preferredTimeZone: Europe/Warsaw
+rhatHireDate: 20191014220000Z
+rhatCurrency: CZK
+rhatPrimaryMail: bseref@redhat.com
+employeeNumber: 119300
+mail: bseref@redhat.com
+rhatOriginalHireDate: 20191014220000Z
+rhatLegalEntity: Red Hat Czech, s.r.o.
+rhatJobCode: 516
+rhatSubproduct: SRE Platform
+rhatRnDComponent: OpenShift
+rhatJobRole: Engineer
+ipaSshPubKey: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC5NiQB6BG1PsYzsmAVCyFfa0V3
+ U6F5Fs6NZ88lvkS5TLP/xGA72Lt3WBZfiOZafk8M1+RhzfhL9hLX2VaHbQ5etzTuEeXEfQtaC+gjv
+ vF67Yly7YbOt8crjNseHlcGaz3bR9UKNAcAIA5sX3KHlRU8hMgyqC/1F1pjTOtcnL9suUKfRdXBYI
+ q3TXqnSXUnRxX+FTfeZKYpRnqGR/Lo4DIRVdz4/IGGuy8DIT7pmFlVpUoc3tYOdd73AxMZUKlY2Fi
+ Ah0Fl1P9fxGWzL/sNPnp7qu1RGmj6i087Krdb29cKm6Vo+Bs2YBRl1NnU3kWPBNAzln7v9FJHL1yv
+ LHRuz3O4pWEnQ1g4SXZojuYEoRuYulbP0MDv6DfyDC664RxqMMEoxjtOpCsDr2SfeftVwyhimXxBG
+ xTYn2gtbQ8St5GwpWnNVspCaQGOb7nVHcrec602Gdmr1m9ENoovYBsBpSwE1rzXNUv+jrFZ62GxZn
+ HFBe24likIznLZPa962Mo84dgb9+Aen998f8RFC6+Iwv0BrWDKbzE2l7a5MUq5R/G6gC0iIghhh0o
+ 0F42dplcf32utut+jpqKj/ANpY4f288iptDIdJyFMpJA492bsIWwtUIXKoCxv1wwv4QHM9HFoSC+L
+ 8QxkRSvaPCZm2OO8Z7k/4LSuYhp/7iONYR443kaBiQ== bseref@redhat.com
+rhatContactMethod: EMAIL
+rhatSocialURL: Github->https://github.com/boranx
+registeredAddress: 49.2256939,16.5819431
+physicalDeliveryOfficeName: Red Hat Czech s.r.o.
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+
+dn: uid=pgeorgia,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatSupervisorWorkerId: 129193
+rhatWorkerId: 128033
+rhatOfficeLocation: Remote Germany
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: a26bb8a0-4481-11ea-a1f0-0a58ac142606
+uidNumber: 119872
+rhatJobTitle: Senior Site Reliability Engineer
+employeeType: Employee
+l: Grasbrunn
+co: DEU
+cn: Panagiotis Georgiadis
+mobile: +491523217662
+manager: uid=cattias,ou=users,dc=redhat,dc=com
+c: DE
+homeDirectory: /home/remote/pgeorgia
+rhatOraclePersonID: 13524723
+loginShell: /bin/bash
+rhatTeamLead: False
+sn: Georgiadis
+street: Red Hat GmbH$Technopark II, Haus C
+rhatSupervisorID: 13634779
+uid: pgeorgia
+rhatPersonType: Employee
+title: Senior Software Engineer
+rhatNickName: panos
+rhatPreferredLastName: Georgiadis
+displayName: Panagiotis
+gidNumber: 119872
+rhatLocation: Remote Germany
+rhatCostCenter: 148
+givenName: Panagiotis
+rhatGeo: EMEA
+preferredTimeZone: CET
+rhatHireDate: 20200131230000Z
+rhatCurrency: EUR
+rhatPrimaryMail: pgeorgia@redhat.com
+employeeNumber: 128033
+postalCode: 85630
+mail: pgeorgia@redhat.com
+rhatLegalEntity: Red Hat GmbH
+rhatOriginalHireDate: 20200131230000Z
+rhatJobCode: 501
+rhatSubproduct: SRE Platform
+rhatRnDComponent: OpenShift
+rhatJobRole: Engineer
+rhatContactMethod: EMAIL
+rhatSocialURL: Github->https://github.com/drpaneas
+rhatSocialURL: Facebook->https://www.facebook.com/paneas
+rhatSocialURL: Twitter->https://twitter.com/PanosGeorgiadis
+rhatSocialURL: Linkedin->https://www.linkedin.com/in/panosgeorgiadis/
+rhatBJNUserName: pgeorgia
+rhatBJNMeetingID: 905541674
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+
+dn: uid=rogreen,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=tlv-default-wheel,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatSupervisorWorkerId: 129193
+rhatWorkerId: 139440
+rhatOfficeLocation: RH - Raanana
+rhatOfficeFloor: 01
+roomNumber: MOBILE
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: c0c18750-8b29-11ea-b81b-0a58ac1429a6
+uidNumber: 108995
+rhatJobTitle: Senior Software Engineer
+employeeType: Employee
+l: Raanana
+co: ISR
+cn: Ron Green
+mobile: +97254561094
+manager: uid=cattias,ou=users,dc=redhat,dc=com
+homeDirectory: /home/tlv/rogreen
+c: IL
+rhatOraclePersonID: 15248171
+loginShell: /bin/bash
+rhatTeamLead: False
+sn: Green
+street: Yerushalaim Road 34$5th Floor
+rhatSupervisorID: 13634779
+uid: rogreen
+title: Senior Software Engineer
+rhatPersonType: Employee
+rhatNickName: rogreen
+rhatPreferredLastName: Green
+displayName: Ron
+gidNumber: 108995
+rhatLocation: RH - Raanana
+rhatCostCenter: 148
+givenName: Ron Avraham Yaakov
+rhatGeo: EMEA
+preferredTimeZone: Asia/Jerusalem
+rhatHireDate: 20200510210000Z
+rhatCurrency: ILS
+rhatPrimaryMail: rogreen@redhat.com
+employeeNumber: 139440
+postalCode: 4350109
+mail: rogreen@redhat.com
+rhatOriginalHireDate: 20200510210000Z
+rhatLegalEntity: Red Hat Israel Limited
+rhatJobCode: 501
+rhatSocialURL: Linkedin->https://linkedin.com/in/ronayg
+rhatSocialURL: Github->https://github.com/georgettica
+rhatSocialURL: Other->https://quay.io/user/rogreen
+rhatBJNUserName: rogreen
+rhatBJNMeetingID: 835764783
+rhatProject: OpenShift: AWS Dedicated
+rhatRnDComponent: OpenShift
+rhatJobRole: Engineer
+registeredAddress: 32.185484,34.854407
+physicalDeliveryOfficeName: Red Hat Israel LTD
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+
+dn: uid=sulmer,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=tlv-default-wheel,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatSupervisorWorkerId: 129193
+rhatWorkerId: 139914
+rhatOfficeLocation: RH - Raanana
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: 4d04fa00-8d85-11ea-ba55-0a58ac14bc08
+uidNumber: 109047
+rhatJobTitle: Site Reliability Engineer
+employeeType: Employee
+l: Raanana
+co: ISR
+cn: Shay Ulmer
+mobile: +972547996939
+manager: uid=cattias,ou=users,dc=redhat,dc=com
+homeDirectory: /home/tlv/sulmer
+c: IL
+rhatOraclePersonID: 15268499
+loginShell: /bin/bash
+rhatOfficeFloor: 01
+rhatTeamLead: False
+sn: Ulmer
+street: Yerushalaim Road 34$5th Floor
+rhatSupervisorID: 13634779
+uid: sulmer
+title: Software Engineer
+rhatPersonType: Employee
+rhatPreferredLastName: Ulmer
+displayName: Shay
+roomNumber: MOBILE
+gidNumber: 109047
+rhatLocation: RH - Raanana
+rhatCostCenter: 148
+givenName: Shay
+rhatGeo: EMEA
+preferredTimeZone: Asia/Jerusalem
+rhatHireDate: 20200503210000Z
+rhatCurrency: ILS
+rhatPrimaryMail: sulmer@redhat.com
+employeeNumber: 139914
+postalCode: 4350109
+mail: sulmer@redhat.com
+rhatOriginalHireDate: 20200503210000Z
+rhatLegalEntity: Red Hat Israel Limited
+rhatJobCode: 516
+registeredAddress: 32.185484,34.854407
+physicalDeliveryOfficeName: Red Hat Israel LTD
+rhatSocialURL: Other->https://github.com/sulmer-redhat
+rhatProject: OpenShift: AWS Dedicated
+rhatRnDComponent: OpenShift
+rhatJobRole: Engineer
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+
+dn: uid=anaik,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatOfficeLocation: RH - Berlin - MSO
+rhatBuildingCode: BERLIN
+l: BERLIN
+rhatLocation: RH - Berlin - MSO
+postalCode: 10117
+street: Friedrichstrasse 76$c/o WeWork
+rhatLegalEntity: Red Hat Gmbh.
+rhatGeo: EMEA
+registeredAddress: 52.51451,13.389652
+st: BB
+rhatSocialURL: Github->https://github.com/arjunrn
+rhatProject: OpenShift: AWS Dedicated
+rhatProject: OpenShift: GCP Dedicated
+rhatRnDComponent: OpenShift
+rhatJobRole: Engineer
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: b74954e0-bb22-11ea-b278-0a58ac142576
+uidNumber: 109785
+rhatJobTitle: Senior Software Engineer
+employeeType: Employee
+rhatAdjSvcDate: 20200630220000Z
+co: DEU
+cn: Arjun Naik
+manager: uid=cattias,ou=users,dc=redhat,dc=com
+homeDirectory: /home/remote/anaik
+c: DE
+rhatOraclePersonID: 16000022
+loginShell: /bin/bash
+rhatTeamLead: False
+sn: Naik
+uid: anaik
+title: Senior Software Engineer
+rhatPersonType: Employee
+rhatPreferredLastName: Naik
+displayName: Arjun
+gidNumber: 109785
+rhatCostCenter: 148
+givenName: Arjun
+preferredTimeZone: CET
+rhatHireDate: 20200630220000Z
+rhatEmployeeSubType: Regular
+rhatSupervisorWorkerId: 129193
+rhatCurrency: EUR
+rhatPrimaryMail: anaik@redhat.com
+rhatWorkerId: 16000022
+employeeNumber: 16000022
+mail: anaik@redhat.com
+rhatOriginalHireDate: 20200630220000Z
+rhatJobCode: 501
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+
+dn: uid=bdematte,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatOfficeLocation: Remote France
+rhatBuildingCode: RMTFR
+l: PUTEAUX
+rhatLocation: Remote France
+postalCode: 92047
+street: Red Hat France SARL$1 Rue Du General Leclerc
+rhatGeo: EMEA
+mobile: +33749405386
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: d2853990-bb22-11ea-b278-0a58ac142576
+uidNumber: 109788
+rhatJobTitle: Senior Software Engineer
+employeeType: Employee
+rhatAdjSvcDate: 20200630220000Z
+rhatBJNMeetingID: 514065386
+co: FRA
+cn: Benjamin Dematteo
+manager: uid=cattias,ou=users,dc=redhat,dc=com
+homeDirectory: /home/remote/bdematte
+c: FR
+rhatOraclePersonID: 16000026
+loginShell: /bin/bash
+rhatBJNUserName: bdematte
+rhatTeamLead: False
+sn: Dematteo
+uid: bdematte
+title: Senior Software Engineer
+rhatPersonType: Employee
+rhatPreferredLastName: Dematteo
+displayName: Benjamin
+gidNumber: 109788
+rhatCostCenter: 148
+givenName: Benjamin
+preferredTimeZone: CET
+rhatHireDate: 20200630220000Z
+rhatEmployeeSubType: Regular
+rhatSupervisorWorkerId: 129193
+rhatCurrency: EUR
+rhatPrimaryMail: bdematte@redhat.com
+rhatWorkerId: 16000026
+employeeNumber: 16000026
+mail: bdematte@redhat.com
+rhatOriginalHireDate: 20200630220000Z
+rhatJobCode: 501
+rhatSocialURL: Github->https://github.com/bdematte
+rhatSocialURL: Linkedin->https://www.linkedin.com/in/benjamin-dematt%C3%A9o-a1
+ 53895a/
+rhatProject: OpenShift: GCP Dedicated
+rhatProject: OpenShift: AWS Dedicated
+rhatRnDComponent: OpenShift
+rhatJobRole: Engineer
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+
+dn: uid=mbarnes,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz-see-partner-bugs,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=paas-open-platform-users,ou=itpaasGroups,dc=redhat,dc=com
+memberOf: cn=eng-atomic-openshift,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=nraghava-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=engdesktop-posix,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=bmontgom-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=bmontgom-directs,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatSupervisorWorkerId: 116934
+rhatWorkerId: 5530
+rhatOfficeLocation: Remote US OH
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: 7988dc4c-0d75-11e7-968f-28d244ea5a6d
+uidNumber: 10660
+rhatJobTitle: Senior Site Reliability Engineer
+employeeType: Employee
+l: Columbus
+co: USA
+cn: Matthew Barnes
+mobile: +13304516715
+manager: uid=cbeckham,ou=users,dc=redhat,dc=com
+c: US
+homeDirectory: /home/boston/mbarnes
+rhatOraclePersonID: 26896
+st: OH
+loginShell: /bin/bash
+rhatTeamLead: False
+sn: Barnes
+street: Return to Red Hat, Raleigh, NC
+rhatSupervisorID: 11810909
+uid: mbarnes
+title: Senior Software Engineer
+rhatPersonType: Employee
+rhatNickName: mbarnes
+rhatPreferredLastName: Barnes
+displayName: Matthew
+gidNumber: 10660
+rhatLocation: Remote US OH
+rhatCostCenter: 148
+givenName: Matthew
+homePhone: +13304516715
+rhatGeo: NA
+preferredTimeZone: America/New_York
+rhatHireDate: 20060501040000Z
+rhatCurrency: USD
+rhatPrimaryMail: mbarnes@redhat.com
+employeeNumber: 5530
+postalCode: 43266
+mail: mbarnes@redhat.com
+rhatOriginalHireDate: 20060501040000Z
+rhatLegalEntity: Red Hat, Inc.
+rhatJobCode: 501
+rhatSubproduct: SRE Platform
+rhatSocialURL: Github->https://github.com/mbarnes
+rhatWebLogin: mbarnes-rhel4
+ipaSshPubKey: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDBLb70cT5tPS7cbNmiFAYUkLdC
+ bCKABpkh164Ew6/SpXMAGTHKHFkk9CoeIOhUAhPg6tzR/7/BtxDFnhoXon3Z1qLunj4DiKHbR9qHG
+ Vc697KFw59U9oJizuADb6BupdaOSK+Do971cso4QfMO3Df9J5e1qi9v8tN5K6rezEIjFSmzsEd5zl
+ Odbua1PyifCfyvCTh5A1i4OqmIaL2vdeJf5UZKqRDixRES2Uh7Jp3NzvndrOwZEPalH06Q29uSujT
+ M5Avt8xIxYlyplFDzBJeJttyPV+aZ5hHBhVx4VXr3vR8inPpQq8w2tA71FyLkHXyaDLJv63LkxPz+
+ b8l/1r41CllqiDxnY9+IL2j4Bi18A7hTzVEUC49PFfWoEOQkVF7xAtTWOv8Kn+ilvrICu7s6s/ARj
+ kLgNSbegHecnMasabIW4ZRkeRO+JEIUh9TcuS9oQ+BBE0grvH4EvohSyDRGUM/0CLZmquOtCsVxev
+ 3M3Bcp3wmy6Bp+UX3rvFTbjE6z2O2DQFSe3PXGPUZOk68lDvllHIUn9C50SUxOe9L7lXnB0IKZItM
+ QICbw5GckijH7eTLEyhxbhuHzWlWYNBVYzWV0B2PKLSNiqxfnzFEKPxlTBf7MI8DPjpfD0oPDmtHU
+ 0Y4x/xpqUNyp2hGaDetYWIN1UMYdjYLo6SNHo5dCGQ== mbarnes@redhat.com
+rhatJobRole: Engineer
+rhatBJNMeetingID: 7324886345
+rhatBJNUserName: mbarnes
+ntUserAcctExpires: 9223372036854775807
+ntUserLastLogon: 0
+ntUserLastLogoff: 0
+ntUserCodePage: 0
+ntUniqueId: ec4a7a890e7e9141bddc552d4efa1aa5
+ntUserDeleteAccount: true
+ntUserDomainId: mbarnes
+ntUserCreateNewAccount: true
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: ntuser
+objectClass: country
+objectClass: friendlyCountry
+rhatRnDComponent: OpenShift
+
+dn: uid=bmorriso,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatSupervisorWorkerId: 116934
+rhatWorkerId: 11781
+rhatOfficeLocation: Remote US NC
+street: Return to Red Hat, Raleigh, NC
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: 77290eea-0d75-11e7-a2c0-28d244ea5a6d
+uidNumber: 15632
+rhatJobTitle: Senior Site Reliability Engineer
+employeeType: Employee
+rhatAdjSvcDate: 20200504040000Z
+l: Raleigh
+co: USA
+rhatAmbassadorED: 20190809040000Z
+cn: Blair Morrison
+mobile: +9196142113
+manager: uid=cbeckham,ou=users,dc=redhat,dc=com
+homeDirectory: /home/rdu/bmorriso
+c: US
+rhatOraclePersonID: 30678
+st: NC
+loginShell: /bin/bash
+rhatTeamLead: False
+sn: Morrison
+rhatSupervisorID: 11810909
+uid: bmorriso
+rhatPersonType: Employee
+title: Senior Software Engineer
+rhatNickName: blair
+rhatPreferredLastName: Morrison
+displayName: Blair
+gidNumber: 15632
+rhatLocation: Remote US NC
+rhatCostCenter: 148
+givenName: Matthew
+rhatGeo: NA
+preferredTimeZone: America/New_York
+rhatHireDate: 20200504040000Z
+rhatCurrency: USD
+rhatPrimaryMail: bmorriso@redhat.com
+employeeNumber: 11781
+postalCode: 27601
+mail: bmorriso@redhat.com
+rhatLegalEntity: Red Hat, Inc.
+rhatOriginalHireDate: 20100830040000Z
+rhatJobCode: 501
+rhatProject: OpenShift: AWS Dedicated
+rhatSocialURL: Github->https://github.com/blrm
+rhatSocialURL: Other->https://quay.io/user/bmorriso
+rhatWebLogin: rhn-support-bmorriso
+rhatJobRole: Engineer
+rhatBJNMeetingID: 9737130799
+rhatBJNUserName: bmorriso
+ntUserAcctExpires: 9223372036854775807
+ntUserLastLogon: 0
+ntUserLastLogoff: 0
+ntUserCodePage: 0
+ntUniqueId: 9f4306959e5a584c8ca35182fb71cb4d
+ntUserDeleteAccount: true
+ntUserDomainId: bmorriso
+ntUserCreateNewAccount: true
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: ntuser
+objectClass: country
+objectClass: friendlyCountry
+rhatRnDComponent: OpenShift
+
+dn: uid=whearn,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=paas-open-platform-users,ou=itpaasGroups,dc=redhat,dc=com
+memberOf: cn=eng-openshift-enterprise,ou=adhoc,ou=managedGroups,dc=redhat,dc=c
+ om
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=nraghava-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=bmontgom-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=bmontgom-directs,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatSupervisorWorkerId: 116934
+rhatWorkerId: 13750
+rhatOfficeLocation: RH - Boston
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: 7ba6f6a8-0d75-11e7-8449-28d244ea5a6d
+uidNumber: 18175
+rhatJobTitle: Senior Site Reliability Engineer
+employeeType: Employee
+l: Boston
+co: USA
+cn: Wesley Hearn
+mobile: +16174706924
+manager: uid=cbeckham,ou=users,dc=redhat,dc=com
+homeDirectory: /home/rdu/whearn
+c: US
+rhatOraclePersonID: 33271
+st: MA
+loginShell: /bin/bash
+rhatTeamLead: False
+rhatOfficeFloor: 03
+sn: Hearn
+rhatSupervisorID: 11810909
+street: 300 A St.$4th Floor
+uid: whearn
+rhatPersonType: Employee
+title: Senior Software Engineer
+rhatNickName: _whearn
+rhatPreferredLastName: Hearn
+displayName: Wesley
+roomNumber: 3N381
+telephoneNumber: 19198908509
+gidNumber: 18175
+rhatPhoneExt: 8148509
+rhatLocation: RH - Boston
+rhatCostCenter: 148
+givenName: Wesley
+rhatGeo: NA
+preferredTimeZone: America/New_York
+rhatHireDate: 20120123050000Z
+rhatCurrency: USD
+rhatPrimaryMail: whearn@redhat.com
+employeeNumber: 13750
+postalCode: 02210
+mail: whearn@redhat.com
+rhatOriginalHireDate: 20120123050000Z
+rhatLegalEntity: Red Hat, Inc.
+rhatJobCode: 501
+rhatSubproduct: SRE Platform
+rhatRnDComponent: OpenShift
+rhatSocialURL: Github->https://github.com/wshearn
+rhatSocialURL: Other->https://quay.io/user/whearn
+rhatWebLogin: whearn@redhat.com
+rhatJobRole: Engineer
+rhatBJNMeetingID: 4511606172
+rhatBJNUserName: whearn2
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+rhatContactMethod: MOBILE
+physicalDeliveryOfficeName: Red Hat Inc.
+registeredAddress: 42.348636,-71.050197
+
+dn: uid=dedgar,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=paas-open-platform-users,ou=itpaasGroups,dc=redhat,dc=com
+memberOf: cn=eng-openshift-online,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=nraghava-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=bmontgom-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=bmontgom-directs,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatSupervisorWorkerId: 116934
+rhatWorkerId: 34474
+rhatOfficeLocation: Remote US AK
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: 77a35696-0d75-11e7-b760-28d244ea5a6d
+uidNumber: 25332
+rhatJobTitle: Site Reliability Engineer
+employeeType: Employee
+co: USA
+l: Juneau
+cn: Douglas Edgar
+mobile: +9072095094
+manager: uid=cbeckham,ou=users,dc=redhat,dc=com
+homeDirectory: /home/remote/dedgar
+c: US
+rhatOraclePersonID: 441158
+loginShell: /bin/bash
+st: AK
+rhatTeamLead: False
+sn: Edgar
+rhatSupervisorID: 11810909
+street: Return to Red Hat, Raleigh, NC$Raleigh, NC
+uid: dedgar
+rhatPersonType: Employee
+title: Software Engineer
+rhatNickName: dedgar
+rhatPreferredLastName: Edgar
+displayName: Douglas
+telephoneNumber: 16502544054
+rhatPhoneExt: 8179054
+gidNumber: 25332
+rhatLocation: Remote US CA
+rhatCostCenter: 148
+givenName: Douglas
+rhatGeo: NA
+preferredTimeZone: America/Los_Angeles
+rhatHireDate: 20150202080000Z
+rhatCurrency: USD
+rhatPrimaryMail: dedgar@redhat.com
+employeeNumber: 34474
+postalCode: 99801
+mail: dedgar@redhat.com
+rhatLegalEntity: Red Hat, Inc.
+rhatOriginalHireDate: 20150202080000Z
+rhatJobCode: 516
+rhatSubproduct: SRE Platform
+rhatSocialURL: Github->https://github.com/rhdedgar
+rhatSocialURL: Other->https://quay.io/user/dedgar
+rhatJobRole: Engineer
+rhatBJNMeetingID: 8548214550
+rhatBJNUserName: dedgar
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+rhatRnDComponent: OpenShift
+rhatContactMethod: EMAIL
+
+dn: uid=lfalconm,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=nraghava-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=bmontgom-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=bmontgom-directs,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatSupervisorWorkerId: 116934
+rhatWorkerId: 104677
+rhatOfficeLocation: Remote CA QC
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: c37a47a0-7538-11e9-a440-001a4a0a0044
+uidNumber: 106131
+rhatJobTitle: Senior Site Reliability Engineer
+employeeType: Employee
+co: CAN
+l: Quebec City
+cn: Luis Falcon Mendez
+mobile: +15147990623
+manager: uid=cbeckham,ou=users,dc=redhat,dc=com
+c: CA
+homeDirectory: /home/remote/lfalconm
+rhatOraclePersonID: 10883803
+loginShell: /bin/bash
+rhatTeamLead: False
+sn: Falcon Mendez
+rhatSupervisorID: 11810909
+street: Return to Red Hat, Raleigh, NC
+uid: lfalconm
+rhatPersonType: Employee
+title: Senior Software Engineer
+rhatPreferredLastName: Falcon Mendez
+displayName: Luis
+gidNumber: 106131
+rhatLocation: Remote CA QC
+rhatCostCenter: 148
+givenName: Luis
+rhatGeo: NA
+preferredTimeZone: America/New_York
+rhatHireDate: 20190513040000Z
+rhatCurrency: CAD
+rhatPrimaryMail: lfalconm@redhat.com
+employeeNumber: 104677
+postalCode: G1A 1C5
+mail: lfalconm@redhat.com
+rhatLegalEntity: Red Hat Canada Limited
+rhatOriginalHireDate: 20190513040000Z
+rhatJobCode: 501
+rhatBJNUserName: lfalconm
+rhatBJNMeetingID: 2962793158
+rhatSubproduct: SRE Platform
+rhatJobRole: Engineer
+rhatRnDComponent: OpenShift
+rhatSocialURL: Github->https://github.com/luis-falcon
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+
+dn: uid=gsleeman,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=paas-open-platform-users,ou=itpaasGroups,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatSupervisorWorkerId: 116934
+rhatWorkerId: 126456
+rhatOfficeLocation: RH - Brisbane
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: ea027b50-2fc7-11ea-87fc-0a58ac14240f
+uidNumber: 119441
+rhatJobTitle: Site Reliability Engineer
+employeeType: Employee
+l: Brisbane
+co: AUS
+cn: Grant Sleeman
+mobile: +61474779413
+rhatGPGFingerprint: A918 E436 8405 8BD2 27A5  908F 0AE5 D6D9 90AA 7D13
+manager: uid=cbeckham,ou=users,dc=redhat,dc=com
+c: AU
+homeDirectory: /home/bne/gsleeman
+rhatOraclePersonID: 13367916
+st: QL
+loginShell: /bin/bash
+rhatOfficeFloor: 01
+rhatTeamLead: False
+sn: Sleeman
+street: 193 North Quay Street$1st Floor
+rhatSupervisorID: 11810909
+uid: gsleeman
+rhatPersonType: Employee
+title: Software Engineer
+rhatPreferredLastName: Sleeman
+displayName: Grant
+telephoneNumber: 61735148132
+roomNumber: 1N155
+rhatPhoneExt: 8588132
+gidNumber: 119441
+rhatLocation: RH - Brisbane
+rhatCostCenter: 148
+givenName: Grant
+rhatGeo: APAC
+preferredTimeZone: Australia/Brisbane
+rhatHireDate: 20200105140000Z
+rhatCurrency: AUD
+rhatPrimaryMail: gsleeman@redhat.com
+employeeNumber: 126456
+postalCode: 4000
+mail: gsleeman@redhat.com
+rhatLegalEntity: Red Hat Asia-Pacific Pty. Ltd.
+rhatOriginalHireDate: 20200105140000Z
+rhatJobCode: 516
+rhatSubproduct: SRE Platform
+rhatRnDComponent: OpenShift
+rhatJobRole: Engineer
+ipaSshPubKey: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDCFFxn95YIKFvaySTWlg6UQ+6o
+ Ds6OsoC3SU4f6PUmK/KK1CA8wt5rUMqBK1zVV4n/QNRsl+17j6VvYb5wg+9HoAejecTYPaTBfyiFi
+ BvbDmd7pmYf3F2QCYdKUTfY+FqeHY2xiM0+qY0UBuV70xeu7ltYDPdIKNrRr5fMi6xVNF48kWbgWd
+ Ome8sCtRSs12RN9obCEq6w7/UgJXiDfj/RN28F/aX5TXPdKxtbsLTIiNAHNhhuCm5O5Rz3LG8Thqm
+ 4MqJHC6HI7iXxGj+6ZSf3cjvA5zGKdC7hZ+FMBqmlyxvFfI40yynUGi59OaCqa2UivSiIzCyVSF8z
+ T9th7E/briYf1mEgjeLxITPKoBnAniE+pJs1S/ZDDElecCwrRcSLonSrdJEPR9gJ2wJDIdIkLWvfb
+ 814Agj+bjVDvvXYqTaBG2c3jffma1rCxBxrajgYtcRfFadjJSt5LzL0Z3HqSK8XaAaj7DFIEDo2gT
+ 3wFIJAmLAMc2nJb0Lxn5/qFV3CUWFhOxjTmq9DnYWKaviSgINpKyFUX8uBwAT2lqUmJFnDulfTMzH
+ 2SwRU7J79NWKNoCOowMW6b/2w8L/UQBSaRmAm5utTGSw1vWGr8JM4zRW+1CHB07DIKmSpYI2w3p+Y
+ aqmRMEXCY22aKs5L5hO3MapAtae3CZmhsgcoSM4fww== gsleeman@redhat.com
+rhatContactMethod: MOBILE
+registeredAddress: -27.468154,153.018792
+physicalDeliveryOfficeName: Red Hat Asia-Pacific Pty. Ltd.
+rhatSocialURL: Github->https://github.com/gsleeman
+rhatBJNUserName: gsleeman
+rhatBJNMeetingID: 777656026
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+
+dn: uid=ahubenko,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatSupervisorWorkerId: 116934
+rhatWorkerId: 131554
+rhatOfficeLocation: Remote US CA
+rhatSocialURL: Github->https://github.com/aliceh
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: e7357f00-56df-11ea-a78e-0a58ac1420bf
+uidNumber: 107997
+rhatJobTitle: Site Reliability Engineer
+employeeType: Employee
+co: USA
+l: Sacramento
+cn: Alice Hubenko
+mobile: +19513478642
+manager: uid=cbeckham,ou=users,dc=redhat,dc=com
+c: US
+homeDirectory: /home/remote/ahubenko
+rhatOraclePersonID: 14426354
+loginShell: /bin/bash
+st: CA
+rhatTeamLead: False
+sn: Hubenko
+rhatSupervisorID: 11810909
+street: Return to Red Hat, Raleigh, NC
+uid: ahubenko
+rhatPersonType: Employee
+title: Software Engineer
+rhatNickName: alice
+rhatPreferredLastName: Hubenko
+displayName: Alice
+gidNumber: 107997
+rhatLocation: Remote US CA
+rhatCostCenter: 148
+givenName: Alice
+rhatGeo: NA
+preferredTimeZone: America/Los_Angeles
+rhatHireDate: 20200224080000Z
+rhatCurrency: USD
+rhatPrimaryMail: ahubenko@redhat.com
+employeeNumber: 131554
+postalCode: 95814
+mail: ahubenko@redhat.com
+rhatLegalEntity: Red Hat, Inc.
+rhatOriginalHireDate: 20200224080000Z
+rhatJobCode: 516
+rhatBJNUserName: ahubenko
+rhatBJNMeetingID: 405672129
+rhatSubproduct: SRE Platform
+rhatRnDComponent: OpenShift
+rhatJobRole: Engineer
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+
+dn: uid=drow,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=lucidchart-users,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatSupervisorWorkerId: 116934
+rhatWorkerId: 136234
+rhatOfficeLocation: Remote US CA
+rhatSubproduct: SRE Platform
+rhatRnDComponent: OpenShift
+rhatJobRole: Engineer
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: 271ed810-6cd8-11ea-9465-0a58ac145605
+uidNumber: 108471
+rhatJobTitle: Senior Site Reliability Engineer
+employeeType: Employee
+co: USA
+l: Sacramento
+cn: Dustin Row
+mobile: +7605839733
+manager: uid=cbeckham,ou=users,dc=redhat,dc=com
+homeDirectory: /home/remote/drow
+c: US
+rhatOraclePersonID: 15088941
+loginShell: /bin/bash
+st: CA
+rhatTeamLead: False
+sn: Row
+rhatSupervisorID: 11810909
+street: Return to Red Hat, Raleigh, NC
+uid: drow
+title: Senior Software Engineer
+rhatPersonType: Employee
+rhatPreferredLastName: Row
+displayName: Dustin
+gidNumber: 108471
+rhatLocation: Remote US CA
+rhatCostCenter: 148
+givenName: Dustin
+rhatGeo: NA
+preferredTimeZone: America/Los_Angeles
+rhatHireDate: 20200323070000Z
+rhatCurrency: USD
+rhatPrimaryMail: drow@redhat.com
+employeeNumber: 136234
+postalCode: 95814
+mail: drow@redhat.com
+rhatOriginalHireDate: 20200323070000Z
+rhatLegalEntity: Red Hat, Inc.
+rhatJobCode: 501
+rhatSocialURL: Github->https://github.com/dustman9000
+rhatSocialURL: Linkedin->https://www.linkedin.com/in/dustinrow
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+
+dn: uid=mwhittin,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=eng-openshift-online,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=nraghava-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=bmontgom-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=bmontgom-directs,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatSupervisorWorkerId: 14527
+rhatWorkerId: 34403
+rhatOfficeLocation: Remote US TX
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: 7a02b6d4-0d75-11e7-9bc6-28d244ea5a6d
+uidNumber: 25097
+rhatJobTitle: Senior Site Reliability Engineer
+employeeType: Employee
+co: USA
+l: Austin
+cn: Max Whittingham
+mobile: +9726580229
+manager: uid=aweiteka,ou=users,dc=redhat,dc=com
+c: US
+homeDirectory: /home/remote/mwhittin
+rhatOraclePersonID: 3242818
+loginShell: /bin/bash
+st: TX
+rhatTeamLead: False
+sn: Whittingham
+rhatSupervisorID: 34380
+street: Return to Red Hat, Raleigh, NC
+uid: mwhittin
+title: Senior Software Engineer
+rhatPersonType: Employee
+rhatNickName: mwhittingham
+rhatPreferredLastName: Whittingham
+displayName: Max
+telephoneNumber: 19722324376
+gidNumber: 25097
+rhatPhoneExt: 8134376
+rhatLocation: Remote US TX
+rhatCostCenter: 148
+givenName: Max
+rhatGeo: NA
+preferredTimeZone: America/Chicago
+rhatHireDate: 20150105060000Z
+rhatCurrency: USD
+rhatPrimaryMail: mwhittin@redhat.com
+employeeNumber: 34403
+postalCode: 78711
+mail: mwhittin@redhat.com
+rhatOriginalHireDate: 20150105060000Z
+rhatLegalEntity: Red Hat, Inc.
+rhatJobCode: 501
+rhatSubproduct: SRE Platform
+rhatSocialURL: Github->https://github.com/robotmaxtron
+rhatSocialURL: Other->https://quay.io/user/mwhittin
+ipaSshPubKey: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDnJu4pJ1iVGjXCFuYDJaOHMDjL
+ QryjOx2/1Py61sdJRn8JLM/E+TWQ5pLLHbBjhpn9Kw426y/uVfyGY5mWcFwiByETSH7hOlc3TwZCC
+ yT4FBC39p9kpMviHzwHqPvKymdSwh4CF4pi56Wxxdk+VmbZfXqEca17njeK0buckHBUckKnLSKpKj
+ oAjhGiwpVdYOgBeoe6Nt49HIAM5NvWZByF+amLbuOVuQ0CBbE3YO4io9lb9O6sLwiGUA3Ci37lXIg
+ k6QcOSLx74xzCi+I+1Xk55eOyx+6DNTSR3Fk4iEY7taDQm/DQXx2Wn7/uVPxFkUSpPucmjAGtQWt8
+ L7YplIa/JOBlJzKRbk2kumJSOQfYYv6IScIhwrRTPi9X8bAL0XnzswlsN5bkw5aWlCulvnT7y5+61
+ CygEkpWx4kGwvV0J3D0dO1oQzNfs+h06/qOwJi4BQEauQng7HOmr1hl8H1G0/uKYHMJErIvXDa+il
+ 7tTrYc50EIGg9Q8+ED1KEaOpMTmMrIropi20p9OfjGHn19VyXPj36JuxZLE3kqZapXfoLASJlykk5
+ a0VfKJOQBwH2y8yNjFXvy3jp57JgGjC2upT9LVJgO3yiuR3U86/fDdS0XKv0La/CmhmRp1e6Pz8De
+ XVh7QaD/OxyTy9ZsBT7oimP4wEFpRJm/7DQje4IUMw== mwhittin@redhat.com
+rhatJobRole: Engineer
+rhatBJNMeetingID: 1252279099
+rhatBJNUserName: mwhittin
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+rhatRnDComponent: OpenShift
+rhatContactMethod: MOBILE
+
+dn: uid=nbauer,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=pnt-devops-rdu,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=engineering-labs-north-america,ou=adhoc,ou=managedGroups,dc=redha
+ t,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=nraghava-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sysops-posix,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=bmontgom-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=bmontgom-directs,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatSupervisorWorkerId: 14527
+rhatWorkerId: 53973
+rhatOfficeLocation: RH - Raleigh
+street: 100 East Davie Street
+postalCode: 27601
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: 327c6ec0-4720-11e6-a341-001a4a0b004f
+uidNumber: 110189
+rhatJobTitle: Site Reliability Engineer
+employeeType: Employee
+l: Raleigh
+co: USA
+cn: Nina Bauer
+mobile: +2528641214
+manager: uid=aweiteka,ou=users,dc=redhat,dc=com
+c: US
+homeDirectory: /home/rdu/nbauer
+rhatOraclePersonID: 5417083
+st: NC
+loginShell: /bin/bash
+rhatOfficeFloor: 16
+rhatTeamLead: False
+sn: Bauer
+rhatSupervisorID: 34380
+uid: nbauer
+rhatPersonType: Employee
+title: Software Engineer
+rhatNickName: nbauer
+rhatPreferredLastName: Bauer
+displayName: Nina
+roomNumber: MOBILE
+gidNumber: 110189
+rhatLocation: RH - Raleigh
+rhatCostCenter: 148
+givenName: Nina
+rhatGeo: NA
+preferredTimeZone: America/New_York
+rhatHireDate: 20160711040000Z
+rhatCurrency: USD
+rhatPrimaryMail: nbauer@redhat.com
+employeeNumber: 53973
+mail: nbauer@redhat.com
+rhatOriginalHireDate: 20160711040000Z
+rhatLegalEntity: Red Hat, Inc.
+rhatJobCode: 516
+registeredAddress: 35.775482517607884,-78.63696752112094
+physicalDeliveryOfficeName: Red Hat, Inc.
+rhatSubproduct: SRE Platform
+rhatRnDComponent: OpenShift
+rhatJobRole: Engineer
+rhatSocialURL: Github->https://github.com/ninabauer
+rhatBJNUserName: nbauer
+rhatBJNMeetingID: 5008656852
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+
+dn: uid=cshereme,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=paas-open-platform-users,ou=itpaasGroups,dc=redhat,dc=com
+memberOf: cn=IT-Tab-Dept-CEE_General-Viewers,ou=servicegroups,ou=tableau,dc=re
+ dhat,dc=com
+memberOf: cn=us-eng-virtualization-randd,ou=adhoc,ou=managedGroups,dc=redhat,d
+ c=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=qlik-cee-logins,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=qlik-cee-stream,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=cloud-services-support-delivery,ou=adhoc,ou=managedGroups,dc=redh
+ at,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatSupervisorWorkerId: 14527
+rhatWorkerId: 34354
+rhatOfficeLocation: RH - Raleigh
+street: 100 East Davie Street
+postalCode: 27601
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: 777fb858-0d75-11e7-b791-28d244ea5a6d
+uidNumber: 25096
+rhatJobTitle: Site Reliability Engineer
+employeeType: Employee
+rhatAdjSvcDate: 20150105050000Z
+l: Raleigh
+co: USA
+cn: Candace Sheremeta
+mobile: +19195990047
+manager: uid=aweiteka,ou=users,dc=redhat,dc=com
+homeDirectory: /home/rdu/cshereme
+c: US
+rhatOraclePersonID: 3233886
+st: NC
+loginShell: /bin/bash
+rhatTeamLead: False
+rhatOfficeFloor: 17
+sn: Sheremeta
+rhatSupervisorID: 34380
+uid: cshereme
+rhatPersonType: Employee
+title: Software Engineer
+rhatNickName: meta
+rhatPreferredLastName: Sheremeta
+displayName: Candace
+telephoneNumber: 19197544679
+roomNumber: 17N403
+rhatPhoneExt: 8144679
+gidNumber: 25096
+rhatLocation: RH - Raleigh
+rhatCostCenter: 148
+givenName: Candace
+rhatGeo: NA
+preferredTimeZone: America/New_York
+rhatHireDate: 20150105050000Z
+rhatCurrency: USD
+rhatPrimaryMail: cshereme@redhat.com
+employeeNumber: 34354
+mail: cshereme@redhat.com
+rhatLegalEntity: Red Hat, Inc.
+rhatOriginalHireDate: 20150105050000Z
+rhatJobCode: 516
+rhatSubproduct: SRE Platform
+rhatSocialURL: Github->https://github.com/csheremeta
+ipaSshPubKey: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDZ6Nv+NN50tFb9+QSR3Issx5sE
+ l59QE6PBSgqrCUAhZjWRseTRqL18fT8qj7dYKyDl/s0BUl3piLyQ3/A/AIIhppBpI9Rk6+wwHW2wV
+ P8+dzHnYl2Of1zWllIDTHYb465dX26RG8qbuzPlS5QU4URn7Nwhh5b9yH8PbE1RtM/jWSZJ9zCe7m
+ RcDiRa48EepGFjrY+2YVLm3diBOZiZp8oHxNVSwOaS1BsAhkDawM6gT97FfNZMNZcJmHyBUuasrsX
+ DhdtjGnnollPWFFeAqCjd+ANuzbUdaunQYDGIbTjY2K4e7gp/87yUin/ThNjUs38kcn6r0zu5IdJ+
+ Zk3W9X2BmUBynN+h/9IK4gpWubpcABLDWhi9Uc2i2fITVfhvAfi8CbsEhwqo/lZzb7e52AteECuVb
+ w7TRdaNMXfXfUXR1h6O9+RIuxTpi50mBhQloeAdrl9JnJF0zLLdjOa4UZl7oSE813yJEypdZqSdWJ
+ igCOWdfayTcMRGRTnTXwYxwUbRcI9KH7kSZ1Y2WiUyiWd7sGnXvI+Gi94l5WHy3j9Qn1F15T01Whg
+ FNmUcWJn+FW7Aexm9ErHaNv156e+KKzwBTx1Lryx9dSl0aqUVnsUkMbd1veGLS2Hw7znh6UKPZ4U8
+ UP7eEUYnOrKXZHWMFABfLSgzpQ2Kd37vpdkezxfBuw== cshereme@redhat.com
+rhatJobRole: Engineer
+rhatBJNMeetingID: 8416003600
+rhatBJNUserName: cshereme
+physicalDeliveryOfficeName: Red Hat, Inc.
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+registeredAddress: 35.775482517607884,-78.63696752112094
+rhatRnDComponent: OpenShift
+
+dn: uid=razevedo,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=paas-open-platform-users,ou=itpaasGroups,dc=redhat,dc=com
+memberOf: cn=pnt-devops-bos,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=aweiteka-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=nraghava-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=aweiteka-directs,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatSupervisorWorkerId: 14527
+rhatWorkerId: 82634
+rhatOfficeLocation: RH - Boston
+rhatCostCenterDesc: Service Delivery
+rhatUUID: 8a4603c0-3baf-11e8-838f-001a4a0a0045
+uidNumber: 103374
+rhatJobTitle: Site Reliability Engineer
+employeeType: Employee
+co: USA
+l: Boston
+cn: Rafael Azevedo
+mobile: +9785695944
+manager: uid=aweiteka,ou=users,dc=redhat,dc=com
+c: US
+homeDirectory: /home/remote/razevedo
+rhatOraclePersonID: 8860523
+loginShell: /bin/bash
+st: MA
+rhatTeamLead: False
+rhatOfficeFloor: 03
+sn: Azevedo
+street: 300 A St.$4th Floor
+rhatSupervisorID: 34380
+uid: razevedo
+rhatPersonType: Employee
+title: Software Engineer
+rhatNickName: razevedo
+rhatPreferredLastName: Azevedo
+displayName: Rafael
+roomNumber: 3N363
+telephoneNumber: 18577700681
+gidNumber: 103374
+rhatPhoneExt: 8130681
+rhatLocation: RH - Boston
+rhatCostCenter: 732
+givenName: Rafael
+rhatGeo: NA
+preferredTimeZone: America/New_York
+rhatHireDate: 20180409040000Z
+rhatCurrency: USD
+rhatPrimaryMail: razevedo@redhat.com
+employeeNumber: 82634
+postalCode: 02210
+mail: razevedo@redhat.com
+rhatLegalEntity: Red Hat, Inc.
+rhatOriginalHireDate: 20180409040000Z
+rhatJobCode: 516
+rhatSubproduct: SRE Platform
+rhatSocialURL: Github->https://github.com/rafael-azevedo
+rhatSocialURL: Other->https://quay.io/user/razevedo
+rhatRnDComponent: OpenShift
+rhatJobRole: Engineer
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+rhatBJNMeetingID: 7472951751
+rhatBJNUserName: razevedo
+physicalDeliveryOfficeName: Red Hat Inc.
+registeredAddress: 42.348636,-71.050197
+
+dn: uid=tfahlman,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=pnt-devops-bos,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=cee-support-case-attachment-access,ou=adhoc,ou=managedGroups,dc=r
+ edhat,dc=com
+memberOf: cn=aweiteka-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=nraghava-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=aweiteka-directs,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatOfficeLocation: RH - Boston
+rhatBuildingCode: BOSTON
+l: BOSTON
+rhatLocation: RH - Boston
+postalCode: 02210
+street: 300 A St.$4th Floor
+rhatLegalEntity: Red Hat Inc.
+rhatGeo: NA
+registeredAddress: 42.348637,-71.05019
+st: MA
+rhatCostCenterDesc: R&D Service Delivery
+rhatUUID: 385ee760-8331-11e8-a09a-001a4a0b004f
+uidNumber: 114025
+rhatJobTitle: Software Engineer
+employeeType: Employee
+rhatBJNMeetingID: 8465937478
+co: USA
+cn: Taylor Fahlman
+mobile: +5037586952
+manager: uid=aweiteka,ou=users,dc=redhat,dc=com
+c: US
+homeDirectory: /home/remote/tfahlman
+rhatOraclePersonID: 9245258
+loginShell: /bin/bash
+rhatBJNUserName: tfahlman
+rhatOfficeFloor: 03
+rhatTeamLead: False
+sn: Fahlman
+rhatSupervisorID: 34380
+uid: tfahlman
+title: Software Engineer
+rhatPersonType: Employee
+rhatNickName: tfahlman
+rhatPreferredLastName: Fahlman
+displayName: Taylor
+roomNumber: 3N343
+telephoneNumber: 19783922474
+rhatPhoneExt: 8122474
+gidNumber: 114025
+rhatCostCenter: 732
+givenName: Taylor
+preferredTimeZone: America/New_York
+rhatHireDate: 20180709040000Z
+rhatEmployeeSubType: Regular
+rhatSupervisorWorkerId: 14527
+rhatCurrency: USD
+rhatPrimaryMail: tfahlman@redhat.com
+rhatWorkerId: 86020
+employeeNumber: 86020
+mail: tfahlman@redhat.com
+rhatOriginalHireDate: 20180709040000Z
+rhatJobCode: 516
+rhatSubproduct: SRE Platform
+rhatSocialURL: Github->https://github.com/fahlmant
+rhatSocialURL: Other->https://quay.io/user/tfahlman
+rhatRnDComponent: OpenShift
+rhatJobRole: Engineer
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+physicalDeliveryOfficeName: Red Hat Inc.
+
+dn: uid=alima,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatSupervisorWorkerId: 14527
+rhatWorkerId: 82936
+rhatOfficeLocation: RH - Boston
+rhatOfficeFloor: 03
+roomNumber: 3N345
+rhatProject: OpenShift: AWS Dedicated
+rhatJobRole: Engineer
+rhatCostCenterDesc: Service Delivery
+rhatUUID: 825ec200-648b-11e8-82f8-001a4a0b004f
+uidNumber: 113690
+rhatJobTitle: Associate Site Reliability Engineer
+employeeType: Employee
+rhatAdjSvcDate: 20180531040000Z
+co: USA
+l: Boston
+cn: Ari Lima
+mobile: +3512013071
+manager: uid=aweiteka,ou=users,dc=redhat,dc=com
+homeDirectory: /home/bos/alima
+c: US
+rhatOraclePersonID: 8916353
+loginShell: /bin/bash
+st: MA
+rhatTeamLead: False
+sn: Lima
+rhatSupervisorID: 34380
+street: 300 A St.$4th Floor
+uid: alima
+rhatPersonType: Employee
+title: Associate Software Engineer
+rhatPreferredLastName: Lima
+displayName: Ari
+gidNumber: 113690
+rhatLocation: RH - Boston
+rhatCostCenter: 732
+givenName: Ariel
+rhatGeo: NA
+preferredTimeZone: America/New_York
+rhatHireDate: 20180531040000Z
+rhatCurrency: USD
+rhatPrimaryMail: alima@redhat.com
+employeeNumber: 82936
+postalCode: 02210
+mail: alima@redhat.com
+rhatLegalEntity: Red Hat, Inc.
+rhatOriginalHireDate: 20180531040000Z
+rhatJobCode: 025
+rhatRnDComponent: OpenShift
+registeredAddress: 42.348636,-71.050197
+physicalDeliveryOfficeName: Red Hat Inc.
+rhatSocialURL: Linkedin->https://www.linkedin.com/in/ariel-lima/
+rhatSocialURL: Github->https://github.com/ArielLima
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+rhatBJNMeetingID: 5650944605
+rhatBJNUserName: alima00
+
+dn: uid=khnguyen,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=aweiteka-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=nraghava-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=aweiteka-directs,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatSupervisorWorkerId: 14527
+rhatWorkerId: 103493
+rhatOfficeLocation: RH - Boston
+rhatProject: OpenShift: AWS Dedicated
+rhatJobRole: Engineer
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: bf9e75a0-8813-11e9-9611-001a4a0a0044
+uidNumber: 106344
+rhatJobTitle: Associate Site Reliability Engineer
+employeeType: Employee
+rhatAdjSvcDate: 20190606040000Z
+l: Boston
+rhatAmbassadorED: 20190818040000Z
+co: USA
+cn: Sam Nguyen
+mobile: +2675162345
+manager: uid=aweiteka,ou=users,dc=redhat,dc=com
+c: US
+homeDirectory: /home/remote/khnguyen
+rhatOraclePersonID: 10841668
+st: MA
+loginShell: /bin/bash
+rhatOfficeFloor: 03
+rhatTeamLead: False
+sn: Nguyen
+street: 300 A St.$4th Floor
+rhatSupervisorID: 34380
+uid: khnguyen
+rhatPersonType: Employee
+title: Associate Software Engineer
+rhatPreferredLastName: Nguyen
+displayName: Sam
+roomNumber: 3N365
+gidNumber: 106344
+rhatLocation: RH - Boston
+rhatCostCenter: 148
+givenName: Khac Thanh
+rhatGeo: NA
+preferredTimeZone: America/New_York
+rhatHireDate: 20190606040000Z
+rhatCurrency: USD
+rhatPrimaryMail: khnguyen@redhat.com
+employeeNumber: 103493
+postalCode: 02210
+mail: khnguyen@redhat.com
+rhatLegalEntity: Red Hat, Inc.
+rhatOriginalHireDate: 20190606040000Z
+rhatJobCode: 025
+registeredAddress: 42.348636,-71.050197
+physicalDeliveryOfficeName: Red Hat Inc.
+rhatBJNUserName: khnguyen.redhat
+rhatBJNMeetingID: 283118548
+rhatBio: Sam Nguyen
+rhatSocialURL: Github->https://github.com/sam-nguyen7
+rhatRnDComponent: OpenShift
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+
+dn: uid=chcollin,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=nraghava-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=bmontgom-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=bmontgom-directs,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatSupervisorWorkerId: 14527
+rhatWorkerId: 110213
+rhatOfficeLocation: RH - Raleigh
+street: 100 East Davie Street
+postalCode: 27601
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: 9f1c4a70-a139-11e9-97cb-001a4a0a0044
+uidNumber: 106593
+rhatJobTitle: Senior Site Reliability Engineer
+employeeType: Employee
+co: USA
+l: Raleigh
+cn: Christopher Collins
+mobile: +19194049796
+manager: uid=aweiteka,ou=users,dc=redhat,dc=com
+homeDirectory: /home/remote/chcollin
+c: US
+rhatOraclePersonID: 11200266
+loginShell: /bin/bash
+st: NC
+rhatOfficeFloor: 16
+rhatTeamLead: False
+sn: Collins
+rhatSupervisorID: 34380
+uid: chcollin
+title: Senior Software Engineer
+rhatPersonType: Employee
+rhatPreferredLastName: Collins
+displayName: Christopher
+telephoneNumber: 19197165102
+roomNumber: MOBILE
+gidNumber: 106593
+rhatPhoneExt: 8145102
+rhatLocation: RH - Raleigh
+rhatCostCenter: 148
+givenName: Christopher
+rhatGeo: NA
+preferredTimeZone: America/New_York
+rhatHireDate: 20190708040000Z
+rhatCurrency: USD
+rhatPrimaryMail: chcollin@redhat.com
+employeeNumber: 110213
+mail: chcollin@redhat.com
+rhatOriginalHireDate: 20190708040000Z
+rhatLegalEntity: Red Hat, Inc.
+rhatJobCode: 501
+rhatBJNUserName: chcollin
+rhatBJNMeetingID: 353712298
+rhatSubproduct: SRE Platform
+rhatRnDComponent: OpenShift
+rhatJobRole: Engineer
+registeredAddress: 35.775482517607884,-78.63696752112094
+physicalDeliveryOfficeName: Red Hat, Inc.
+rhatSocialURL: Linkedin->https://www.linkedin.com/in/chriscollinsis/
+rhatSocialURL: Twitter->https://twitter.com/ChrisInDurham
+rhatSocialURL: Personal->https://chris.collins.is
+rhatSocialURL: Github->https://github.com/clcollins
+rhatBio: Brewer, Beardsman, Geek, Godzilla Hunter Extraordinaire
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+
+dn: uid=kbater,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatSupervisorWorkerId: 14527
+rhatWorkerId: 126533
+rhatOfficeLocation: Remote US NY
+rhatCostCenterDesc: PRO Hosted
+rhatUUID: 13c73300-35c6-11ea-929f-0a58ac145807
+uidNumber: 119613
+rhatJobTitle: Site Reliability Engineer
+employeeType: Employee
+co: USA
+l: New York
+cn: Kirk Bater
+mobile: +5855764265
+manager: uid=aweiteka,ou=users,dc=redhat,dc=com
+c: US
+homeDirectory: /home/remote/kbater
+rhatOraclePersonID: 13369109
+loginShell: /bin/bash
+st: NY
+rhatTeamLead: False
+sn: Bater
+rhatSupervisorID: 34380
+street: Return to Red Hat, Raleigh, NC
+uid: kbater
+rhatPersonType: Employee
+title: Software Engineer
+rhatPreferredLastName: Bater
+displayName: Kirk
+gidNumber: 119613
+rhatLocation: Remote US NY
+rhatCostCenter: 148
+givenName: Kirk
+rhatGeo: NA
+preferredTimeZone: America/New_York
+rhatHireDate: 20200113050000Z
+rhatCurrency: USD
+rhatPrimaryMail: kbater@redhat.com
+employeeNumber: 126533
+postalCode: 10025
+mail: kbater@redhat.com
+rhatLegalEntity: Red Hat, Inc.
+rhatOriginalHireDate: 20200113050000Z
+rhatJobCode: 516
+rhatJobRole: Engineer
+rhatSubproduct: SRE Platform
+rhatRnDComponent: OpenShift
+rhatSocialURL: Github->https://github.com/iamkirkbater
+rhatBio: Polyglot Software Engineer; Cloud/Serverless Junkie; Youth Hockey Coa
+ ch; Triathlete; USMC/AFG Vet; RIT Alum; Woodworker; Eater of Foods
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+
+dn: uid=bye,ou=users,dc=redhat,dc=com
+memberOf: cn=Intern,ou=userClass,dc=redhat,dc=com
+memberOf: cn=cee-support-case-attachment-access,ou=adhoc,ou=managedGroups,dc=r
+ edhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=bos-summer-2020-pnt-interns,ou=adhoc,ou=managedGroups,dc=redhat,d
+ c=com
+rhatSupervisorWorkerId: 14527
+rhatWorkerId: 142154
+rhatOfficeLocation: RH - Boston
+rhatOfficeFloor: 03
+registeredAddress: 42.348636,-71.050197
+st: MA
+l: Boston
+street: 300 A St.$4th Floor
+physicalDeliveryOfficeName: Red Hat Inc.
+postalCode: 02210
+roomNumber: MOBILE
+mobile: +8572046399
+rhatCostCenterDesc: R&D Service Delivery
+gidNumber: 109450
+rhatUUID: 3486a390-a09d-11ea-bb62-0a58ac141bf9
+rhatLocation: RH - Boston
+uidNumber: 109450
+rhatJobTitle: Service Reliability Engineering Internship
+employeeType: Intern
+rhatCostCenter: 732
+co: USA
+cn: Ben Ye
+givenName: Ben
+manager: uid=aweiteka,ou=users,dc=redhat,dc=com
+rhatGeo: NA
+homeDirectory: /home/remote/bye
+c: US
+rhatOraclePersonID: 15408773
+loginShell: /bin/bash
+preferredTimeZone: America/New_York
+rhatTeamLead: False
+rhatHireDate: 20200528040000Z
+sn: Ye
+rhatCurrency: USD
+rhatSupervisorID: 34380
+rhatPrimaryMail: bye@redhat.com
+uid: bye
+employeeNumber: 142154
+title: Intern - Tech (Sr)
+rhatPersonType: Intern
+rhatPreferredLastName: Ye
+displayName: Ben
+mail: bye@redhat.com
+rhatOriginalHireDate: 20200528040000Z
+rhatLegalEntity: Red Hat, Inc.
+rhatJobCode: 9998
+rhatSocialURL: Github->https://github.com/yeya24
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+
+dn: uid=zalsaffa,ou=users,dc=redhat,dc=com
+memberOf: cn=Intern,ou=userClass,dc=redhat,dc=com
+memberOf: cn=cee-support-case-attachment-access,ou=adhoc,ou=managedGroups,dc=r
+ edhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+rhatSupervisorWorkerId: 14527
+rhatWorkerId: 142155
+rhatOfficeFloor: 04
+rhatOfficeLocation: RH - Boston
+registeredAddress: 42.348636,-71.050197
+st: MA
+l: Boston
+street: 300 A St.$4th Floor
+physicalDeliveryOfficeName: Red Hat Inc.
+postalCode: 02210
+roomNumber: MOBILE
+rhatSocialURL: Github->https://github.com/zanssa
+mobile: +5854519127
+rhatBJNUserName: zalsaffa
+rhatBJNMeetingID: 106249076
+uid: zalsaffa
+rhatCostCenterDesc: R&D Service Delivery
+gidNumber: 109451
+rhatUUID: 3f8b60f0-a09d-11ea-bb62-0a58ac141bf9
+rhatLocation: RH - Boston
+uidNumber: 109451
+rhatJobTitle: Service Reliability Engineering Intern
+employeeType: Intern
+rhatCostCenter: 732
+co: USA
+cn: Zainab Alsaffar
+givenName: Zainab
+manager: uid=aweiteka,ou=users,dc=redhat,dc=com
+rhatGeo: NA
+homeDirectory: /home/remote/zalsaffa
+c: US
+rhatOraclePersonID: 15408811
+loginShell: /bin/bash
+preferredTimeZone: America/New_York
+rhatTeamLead: False
+rhatHireDate: 20200608040000Z
+sn: Alsaffar
+rhatCurrency: USD
+rhatSupervisorID: 34380
+rhatPrimaryMail: zalsaffa@redhat.com
+employeeNumber: 142155
+title: Intern - Tech (Sr)
+rhatPersonType: Intern
+rhatPreferredLastName: Alsaffar
+displayName: Zainab
+mail: zalsaffa@redhat.com
+rhatOriginalHireDate: 20200608040000Z
+rhatLegalEntity: Red Hat, Inc.
+rhatJobCode: 9998
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+
+dn: uid=nicwang,ou=users,dc=redhat,dc=com
+memberOf: cn=Intern,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=cee-support-case-attachment-access,ou=adhoc,ou=managedGroups,dc=r
+ edhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=bos-summer-2020-pnt-interns,ou=adhoc,ou=managedGroups,dc=redhat,d
+ c=com
+rhatSupervisorWorkerId: 14527
+rhatWorkerId: 142034
+rhatOfficeLocation: RH - Boston
+rhatBJNUserName: nicwang
+rhatBJNMeetingID: 418079410
+rhatSocialURL: Github->https://github.com/nickwyl
+rhatOfficeFloor: 03
+registeredAddress: 42.348636,-71.050197
+st: MA
+l: Boston
+street: 300 A St.$4th Floor
+physicalDeliveryOfficeName: Red Hat Inc.
+postalCode: 02210
+roomNumber: MOBILE
+rhatCostCenterDesc: R&D Service Delivery
+gidNumber: 109460
+rhatUUID: ee7de880-a09d-11ea-8dd6-0a58ac14fe6e
+rhatLocation: RH - Boston
+uidNumber: 109460
+rhatJobTitle: Service Reliability Engineering Intern
+employeeType: Intern
+rhatCostCenter: 732
+co: USA
+cn: Nick Wang
+givenName: Yun Lo
+manager: uid=aweiteka,ou=users,dc=redhat,dc=com
+rhatGeo: NA
+homeDirectory: /home/remote/nicwang
+c: US
+rhatOraclePersonID: 15402444
+loginShell: /bin/bash
+preferredTimeZone: America/New_York
+rhatTeamLead: False
+rhatHireDate: 20200528040000Z
+sn: Wang
+rhatCurrency: USD
+rhatSupervisorID: 34380
+rhatPrimaryMail: nicwang@redhat.com
+uid: nicwang
+employeeNumber: 142034
+title: Intern - Tech (Sr)
+rhatPersonType: Intern
+rhatPreferredLastName: Wang
+displayName: Nick
+mail: nicwang@redhat.com
+rhatOriginalHireDate: 20200528040000Z
+rhatLegalEntity: Red Hat, Inc.
+rhatJobCode: 9998
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: rhatPerson
+objectClass: posixAccount
+objectClass: country
+objectClass: friendlyCountry
+

@@ -112,6 +112,7 @@ def main():
                 sleep(3600)
                 slept = slept + 1
 
+            print(buildRow)
         # once buildRow has 4 values in it, we can append it to the google sheet
         sheet.insert_row(buildRow, index=2)
 

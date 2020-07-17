@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Template
+parameters:
+- name: ALLOWED_CIDR_BLOCKS
+  required: true
+- name: REGISTRY_IMG
+  required: true
+- name: IMAGE_TAG
+  required: true
+- name: REPO_NAME
+  value: pagerduty_cluster_stats
+  required: true
+metadata:
+  name: pagerduty_cluster_stats
+objects: []
