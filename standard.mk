@@ -37,7 +37,7 @@ build: isclean envtest
 	docker tag $(IMAGE_URI) $(IMAGE_URI_LATEST)
 
 .PHONY: push
-push:
+push: build
 	docker push $(IMAGE_URI)
 	docker push $(IMAGE_URI_LATEST)
 

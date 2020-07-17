@@ -2,8 +2,8 @@
 ## Script to pull SREP Managers Data from LDAP
 echo "Validate the Managers List is correct for the SRE group"
 cat manager_list
-echo "Press Enter if OK else press Ctrl + C and update manager list"
-read x 
+#echo "Press Enter if OK else press Ctrl + C and update manager list"
+#read x 
 
 /usr/bin/sh ldap_command.sh
 /usr/bin/sh split.sh LDAP_DATA

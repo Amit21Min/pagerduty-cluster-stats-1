@@ -35,5 +35,5 @@ while True:
 
 
 
-    print("sre_ldap: sleeping for 1 hour")
-    sleep(3600)
+    print("sre_ldap: sleeping for 6 hours")
+    sleep(3600 * 6 - 10) # -10 minutes in an effort to spread out read/writes on the google sheets api

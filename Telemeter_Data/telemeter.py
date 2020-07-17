@@ -72,8 +72,8 @@ def main():
         # make sure that it isn't trying to query a date in the future. If it is, just sleep for 12 hours and try again.
         now = datetime.now()
         while scrapeTime > now:
-            print('telemeter: sleeping for 1 hour: up to date')
-            sleep(3600)
+            print('telemeter: sleeping for 100 mins: up to date')
+            sleep(60 * 100)
             now = datetime.now()
         print("getting metric at: " + scrapeTime.strftime('%Y-%m-%dT%H:%M:%SZ'))
 
