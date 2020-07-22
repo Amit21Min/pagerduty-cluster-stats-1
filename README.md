@@ -25,10 +25,10 @@ start the container<br/>
 `docker start <CONTAINER ID>`<br/>
 
 ### Running without container
-`curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py`
-`python get-pip.py`
-`pip install -r requirements`
-`./startup.sh`
+`curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py`<br/>
+`python get-pip.py`<br/>
+`pip install -r requirements`<br/>
+`./startup.sh`<br/>
 
 ### Info
 
