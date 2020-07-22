@@ -13,6 +13,9 @@ client = gspread.authorize(creds)
 sheet = client.open_by_key('1ry_tos2ZityB4futWmUTNmXN5q-NnZwIF_BqNv9n8E8').worksheet("telemeter")
 
 url = "https://telemeter-lts.datahub.redhat.com"
+token = ""
+with open('telemeter_token.txt', 'r') as file:
+    api_token = file.read()
 token = "eyJhbGciOiJSUzI1NiIsImtpZCI6IiJ9.eyJpc3MiOiJrdWJlcm5ldGVzL3NlcnZpY2VhY2NvdW50Iiwia3ViZXJuZXRlcy5pby9zZXJ2aWNlYWNjb3VudC9uYW1lc3BhY2UiOiJkaC1wcm9kLXRlbGVtZXRyeSIsImt1YmVybmV0ZXMuaW8vc2VydmljZWFjY291bnQvc2VjcmV0Lm5hbWUiOiJvcGVuc2hpZnQtc3JlLXRlbGVtZXRlci1yZXBvcnRlci10b2tlbi14ZHA5eCIsImt1YmVybmV0ZXMuaW8vc2VydmljZWFjY291bnQvc2VydmljZS1hY2NvdW50Lm5hbWUiOiJvcGVuc2hpZnQtc3JlLXRlbGVtZXRlci1yZXBvcnRlciIsImt1YmVybmV0ZXMuaW8vc2VydmljZWFjY291bnQvc2VydmljZS1hY2NvdW50LnVpZCI6IjliN2I5N2U4LTFhYmEtMTFlYS05NjJmLWZhMTYzZTUwOGMxNyIsInN1YiI6InN5c3RlbTpzZXJ2aWNlYWNjb3VudDpkaC1wcm9kLXRlbGVtZXRyeTpvcGVuc2hpZnQtc3JlLXRlbGVtZXRlci1yZXBvcnRlciJ9.dsN5Cda11tfTzPKUjtHfix_hfK3lSbWdtqDUFmlTDq-Jf9kP8TZfwmio5aCIPcDHgz_W7Kee0uU_asRIZrla3ISbBxKhj4KsaoU2H9ZidKctOmOCr6zhl-4WXsQcpexayLpkR8LdcE74XB-g74nDJErXiuBQjhsvQRnDB6FT1OpqLB9nu3NomaOQ2zTpDkWK13TLB5ifNy9GXt47HFY89llNZfJQxSSQ3h7w2uzOlGDoCQjn1FBN2OYEQ75Vj-0atY4k9-mpv4DWusEJG2au-t7CfKmpooUQVOAW3EkG8kyYghDFHwL2ZofDHZC_06MUUTVC9ozGu6b55TWerpVE4g"
 
 pc = PrometheusConnect(url=url, headers={"Authorization": "bearer {}".format(token)}, disable_ssl=False)
@@ -72,8 +75,8 @@ def main():
         # make sure that it isn't trying to query a date in the future. If it is, just sleep for 12 hours and try again.
         now = datetime.now()
         while scrapeTime > now:
-            print('telemeter: sleeping for 100 mins: up to date')
-            sleep(60 * 100)
+            print('telemeter: sleeping for 6 hours: up to date')
+            sleep(3600 * 6)
             now = datetime.now()
         print("getting metric at: " + scrapeTime.strftime('%Y-%m-%dT%H:%M:%SZ'))
 
@@ -112,7 +115,9 @@ def main():
                 sleep(3600)
                 slept = slept + 1
 
-            print(buildRow)
+            # Failed to gather data. Sleep for a while before trying
+            #if len(buildRow) < 4:
+                
         # once buildRow has 4 values in it, we can append it to the google sheet
         sheet.insert_row(buildRow, index=2)
 
