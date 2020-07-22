@@ -1,4 +1,4 @@
-# pagerduty_cluster_stats
+# pagerduty-cluster-stats
 
 ### Setting up secrets/tokens
 Place https://cloud.redhat.com/openshift/token token in a file named "token.txt" in the directory "V3V4_Cluster_Info"<br/>
@@ -24,6 +24,11 @@ Check to see if the container is created & Get the CONTAINER ID<br/>
 start the container<br/>
 `docker start <CONTAINER ID>`<br/>
 
+### Running without container
+`curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py`
+`python get-pip.py`
+`pip install -r requirements`
+`./startup.sh`
 
 ### Info
 
