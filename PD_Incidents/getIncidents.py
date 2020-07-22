@@ -37,7 +37,7 @@ def cleanWhitespace():
 
 def getScrapeStart():
         scrapeSince = ""
-        #get the trigger time of the last incident recorded - Start scraping 24 hours before this time to ensure that we don't miss any resolved incidents
+        #get the trigger time of the last incident recorded - Start scraping 72 hours before this time to ensure that we don't miss any resolved incidents
         try:
             incident = sheet.row_values(2)
             scrapeSince = ''
@@ -101,7 +101,7 @@ def main():
                 incidentName = incident.get("title")
                 incidentID = incident.get("incident_number")
 
-                # alertName and severity - have to hit a different API endpoint to fetch the original Alert - this is what slows down the script by a lot.
+                # alertName and severity - have to hit a different API endpoint to fetch the original Alert - this is what slows down the script.
                 alertDetails = ""
                 try:
                     alert = session.rget(incident.get("first_trigger_log_entry").get("self"), params={'include[]':'channels'})

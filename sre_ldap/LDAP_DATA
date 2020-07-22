@@ -1127,6 +1127,18 @@ rhatSocialURL: Personal->https://feichashao.com
 rhatSocialURL: Github->https://github.com/feichashao
 
 dn: uid=dofinn,ou=users,dc=redhat,dc=com
+memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
+memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
+memberOf: cn=jgouldin-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=nraghava-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=wadhwani-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=wadhwani-directs,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
+ =com
+memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
+memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
 rhatBuildingCode: BRISBANE
 rhatCostCenterDesc: PRO Hosted
 rhatUUID: a3fdbce0-abbb-11e9-97cb-001a4a0a0044
@@ -1179,18 +1191,6 @@ mail: dofinn@redhat.com
 rhatOriginalHireDate: 20190721140000Z
 rhatLegalEntity: Red Hat Asia-Pacific Pty. Ltd.
 rhatJobCode: 501
-memberOf: cn=Employee,ou=userClass,dc=redhat,dc=com
-memberOf: cn=bz_redhat,ou=servicegroups,dc=redhat,dc=com
-memberOf: cn=jgouldin-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
-memberOf: cn=msaparov-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
-memberOf: cn=nraghava-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
-memberOf: cn=wadhwani-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
-memberOf: cn=wadhwani-directs,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
-memberOf: cn=mhicks-all,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
-memberOf: cn=sd-sre-platform-gcp-access,ou=adhoc,ou=managedGroups,dc=redhat,dc
- =com
-memberOf: cn=openshifteng,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
-memberOf: cn=telemeter-auth,ou=adhoc,ou=managedGroups,dc=redhat,dc=com
 rhatSubproduct: SRE Platform
 rhatRnDComponent: OpenShift
 rhatJobRole: Engineer
