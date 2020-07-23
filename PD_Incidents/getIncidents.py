@@ -8,36 +8,52 @@ import datetime
 from datetime import datetime, timedelta
 from time import mktime, strptime, strftime, sleep
 
+# google sheet API
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
-scope = ["https://spreadsheets.google.com/feeds",'https://www.googleapis.com/auth/spreadsheets',"https://www.googleapis.com/auth/drive.file","https://www.googleapis.com/auth/drive"]
-creds = ServiceAccountCredentials.from_json_keyfile_name("../client_secret.json", scope)
-client = gspread.authorize(creds)
-sheet = client.open_by_key('1ry_tos2ZityB4futWmUTNmXN5q-NnZwIF_BqNv9n8E8').worksheet("PD Incidents")
 
-# PD API "Pdpyras" api token generated at https://support.pagerduty.com/docs/generating-api-keys
-api_token = ''
-with open('api_token.txt', 'r') as file:
-    api_token = file.read()
-session = APISession(api_token)
+def setup():
+    scope = ["https://spreadsheets.google.com/feeds",'https://www.googleapis.com/auth/spreadsheets',"https://www.googleapis.com/auth/drive.file","https://www.googleapis.com/auth/drive"]
+    creds = ServiceAccountCredentials.from_json_keyfile_name("../client_secret.json", scope)
+    client = gspread.authorize(creds)
+    baseSheet = client.open_by_key('1ry_tos2ZityB4futWmUTNmXN5q-NnZwIF_BqNv9n8E8')
+
+    # try to grab the worksheet PD Incidents. If it doesn't exist, create it. If the PD Incidents sheet ever breaks, simply delete it.
+    try:
+        sheet = baseSheet.worksheet("PD Incidents")
+    except:
+        baseSheet.add_worksheet("PD Incidents",10,10)
+        sheet = baseSheet.worksheet("PD Incidents")
+        header = ["incident_ID", "incident_name", "cluster_name", "trigger_time", "resolve_time", "ttr_seconds", "alerted", "acknowledged", "noisy", "escalation_policy", "acknowledged_by", "alert_name", "severity"]
+        sheet.insert_row(header, index=1)
+
+    # PD API "Pdpyras" api token generated at https://support.pagerduty.com/docs/generating-api-keys
+    api_token = ''
+    with open('api_token.txt', 'r') as file:
+        api_token = file.read()
+    session = APISession(api_token)
+
+    return sheet, session
 
 # clean up any whitespace in sheet- this is just in case the script crashes/fails as it tries to insert rows, as there will be many empty rows
-def cleanWhitespace():
+def cleanWhitespace(sheet):
     records = sheet.get_all_records()
-    # check if there are empty rows. If there are 3 empty rows, we will delete from 2 --> 2 + (3-1). This is deleting rows 2-4.
+    # check if there are empty rows.
     x = 2 #row index marker
     for row in records:
         if row.get("incident_ID"):
             break
         x += 1
-    # if the row index marker has changed from the inital row 2, then delte rows 2 --> x-1
+    # If the row index marker has changed from the inital row 2, then delte rows 2 --> x-1
+    # ex: If there are 3 empty rows, we will delete from 2 --> 5-1. This is deleting rows 2-4.
     if x != 2:
+        print("deleting rows")
         sheet.delete_rows(2, x-1)
     return
 
-def getScrapeStart():
+def getScrapeStart(sheet):
         scrapeSince = ""
-        #get the trigger time of the last incident recorded - Start scraping 72 hours before this time to ensure that we don't miss any resolved incidents
+        # get the trigger time of the last incident recorded - Start scraping 72 hours before this time to ensure that we don't miss any resolved incidents
         try:
             incident = sheet.row_values(2)
             scrapeSince = ''
@@ -48,9 +64,10 @@ def getScrapeStart():
                     break
         except:
             pass
-        
+        # If there was no last incident recorded, the sheet is completely empty. Start scraping from 90 days ago.
         if not scrapeSince:
-            scrapeSince = "2020-04-01T00:00:00Z"
+            now = datetime.now() - timedelta(days=90)
+            scrapeSince = now.strftime('%Y-%m-%dT%H:%M:%SZ')
 
         # Now subtract 3 days from the scrapeSince - this makes sure that we grab any incidents that took a long time to resolve - This misses incidents that are >3 days to resolve, but they aren't relevant - mostly "cluster missing for 20 days" etc
         convertScrape = time.strptime(scrapeSince, '%Y-%m-%dT%H:%M:%SZ')
@@ -60,7 +77,7 @@ def getScrapeStart():
         print("Scrape since " + scrapeSince)
         return scrapeSince
 
-def insertRows(incidents):
+def insertRows(incidents, sheet):
     # converts the incident dict into an array of arrays, with 1 array being a row. Then all the rows can be bulk inserted
     buildRows = []
     for key in incidents:
@@ -74,8 +91,10 @@ def insertRows(incidents):
 
 def main():
     while True:
-        cleanWhitespace()
-        scrapeSince = getScrapeStart()
+        # sheet is the google sheet, session is the PD API session
+        sheet, session = setup()
+        cleanWhitespace(sheet)
+        scrapeSince = getScrapeStart(sheet)
 
         incidents = {} # for aggregating all of the incident data that we will insert into the google sheet
         incidentDict = {} # for retrieving the current incidents listed in the google sheet - resolved incidents are checked against these keys to make sure incidents aren't inserted more than once
@@ -108,7 +127,7 @@ def main():
                     alertDetails = alert.get("channel").get("details").get("firing")
                 except:
                     pass
-                
+
                 alertName = ""
                 alertSeverity = ""
                 try:
@@ -167,10 +186,11 @@ def main():
                 incidents.update( {incidentID : incidentInfo})
 
                 # Gathering takes a while, so if we've gathered 1000, put it in the google sheet - in case the script hits an error.
-                if (len(incidents)) > 1000:
+                if (len(incidents)) > 10:
                     break
         
-        insertRows(incidents)
+        print("INSERTING")
+        insertRows(incidents, sheet)
 
         # If the google sheet is relatively up to date, sleep for an hour until scraping again. If it's nowhere near up to date, don't sleep and keep scraping.
         # This is useful for scraping without sleeping when the sheet is extremely outdated.
