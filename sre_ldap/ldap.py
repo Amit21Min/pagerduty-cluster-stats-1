@@ -20,22 +20,19 @@ while True:
     with open('full_list.csv', newline='') as csvfile:
         data = list(csv.reader(csvfile, delimiter=";"))
 
-    # If data was found: delete the current sheet, create a new sheet, store the data    
-    try:
-        # 1 subarray is 1 row for the google sheet. If there are less than 10 arrays, then it did not pull >10 users from the sre_ldap script
-        # The script was most likely not run on the VPN, and doesn't have the full data. Don't delete the sheet. Stop and alert user that data was not found.
-        if len(data) > 10:
-            sheet = client.open_by_key('1ry_tos2ZityB4futWmUTNmXN5q-NnZwIF_BqNv9n8E8').worksheet("sre_ldap")
-            baseSheet.del_worksheet(sheet)
-        else:
-            print("sufficient sre_ldap data was not found. Most likely fix: run on red hat vpn. Sleeping for 1 hour")
-            sleep(3600)
-            continue
-    except:
-        pass
+    # Following logic: If data was found: delete the current sheet, create a new sheet, store the data
+        
+    # 1 subarray is 1 row for the google sheet. If there are less than 10 arrays, then it did not pull >10 users from the sre_ldap script
+    if len(data) > 10:
+        sheet = baseSheet.worksheet("sre_ldap")
+        baseSheet.del_worksheet(sheet)
+    else:
+        print("sufficient sre_ldap data was not found. Most likely fix: run on red hat vpn. Sleeping for 1 hour")
+        sleep(3600)
+        continue
 
     baseSheet.add_worksheet("sre_ldap",1,1)
-    sheet = client.open_by_key('1ry_tos2ZityB4futWmUTNmXN5q-NnZwIF_BqNv9n8E8').worksheet("sre_ldap")
+    sheet = baseSheet.worksheet("sre_ldap")
     try:
         sheet.insert_rows(data, row=1)
     except:
