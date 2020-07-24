@@ -54,16 +54,18 @@ def cleanWhitespace(sheet):
 def getScrapeStart(sheet):
         scrapeSince = ""
         # get the trigger time of the last incident recorded - Start scraping 72 hours before this time to ensure that we don't miss any resolved incidents
-        try:
-            incident = sheet.row_values(2)
-            scrapeSince = ''
-            regex = '[0-9]{4}-[0-9]{2}-[0-9]{2}T([0-9]{2}:){2}[0-9]{2}Z'
-            for value in incident:
-                if re.search(regex, value):
-                    scrapeSince = re.search(regex, value)[0]
-                    break
-        except:
-            pass
+        x = 2
+        while scrapeSince == "":
+            try:
+                incident = sheet.row_values(x)
+                regex = '[0-9]{4}-[0-9]{2}-[0-9]{2}T([0-9]{2}:){2}[0-9]{2}Z'
+                for value in incident:
+                    if re.search(regex, value):
+                        scrapeSince = re.search(regex, value)[0]
+                        break
+                x = x+1
+            except:
+                break
         # If there was no last incident recorded, the sheet is completely empty. Start scraping from 90 days ago.
         if not scrapeSince:
             now = datetime.now() - timedelta(days=90)
