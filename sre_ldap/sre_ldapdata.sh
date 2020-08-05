@@ -4,6 +4,10 @@ echo "Validate the Managers List is correct for the SRE group"
 cat manager_list
 #echo "Press Enter if OK else press Ctrl + C and update manager list"
 #read x 
+host ldap.corp.redhat.com
+VPN_STATUS=`echo $?`
+if [ $VPN_STATUS -eq 0 ]
+then
 
 /usr/bin/sh ldap_command.sh
 /usr/bin/sh split.sh LDAP_DATA
@@ -11,3 +15,6 @@ cat manager_list
 
 echo "The CSV file full_list.csv  is now ready. The delimiter used is ;"
 
+else
+exit 1
+fi
