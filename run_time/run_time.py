@@ -30,9 +30,9 @@ while True:
     try:
         sheet.insert_rows(data, row=1)
     except:
-        pass
         print("error most likely due to too many read/writes in timeframe")
+        pass
 
 
     print("sre_ldap: sleeping for 6 hours")
-    sleep (60) # -10 minutes in an effort to spread out read/writes on the google sheets api
+    sleep(60) #Just sleep for 60 Sec 
